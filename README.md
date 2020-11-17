@@ -20,6 +20,7 @@
 
 ## C 
 
+- [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [munge](https://github.com/dun/munge) - MUNGE (MUNGE Uid 'N' Gid Emporium) is an authentication service for creating and validating user credentials.
 - [ucx](https://github.com/openucx/ucx) - Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
 - [CudaProf](https://github.com/JamesTheZ/CudaProf) - A profiler for CUDA programs based on CUPTI. Similar to NVIDIA Profiler, but simpler.
@@ -70,6 +71,7 @@
 
 ## Python 
 
+- [gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
 - [pytorch-summary](https://github.com/sksq96/pytorch-summary) - Model summary in PyTorch similar to `model.summary()` in Keras
@@ -96,6 +98,7 @@
 
 ## Shell 
 
+- [tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
 - [Author-Kit](https://github.com/SC-Tech-Program/Author-Kit) - Instructions and templates for SC authors
 - [hikey970-ubuntu-image](https://github.com/mengzhuo/hikey970-ubuntu-image) - 
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.

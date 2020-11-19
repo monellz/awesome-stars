@@ -7,6 +7,7 @@
 
   - [C](#c)
   - [C++](#c++)
+  - [CMake](#cmake)
   - [Cuda](#cuda)
   - [Java](#java)
   - [Markdown](#markdown)
@@ -49,6 +50,10 @@
 - [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [sLSM-Tree](https://github.com/aronszanto/sLSM-Tree) - High-Performance C++ Data System
 - [tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
+
+## CMake 
+
+- [cmake-scripts](https://github.com/StableCoder/cmake-scripts) - A selection of useful scripts for use in CMake projects, include code coverage, sanitizers, and dependency graph generation.
 
 ## Cuda 
 

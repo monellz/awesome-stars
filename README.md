@@ -77,6 +77,7 @@
 
 ## Python 
 
+- [dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming
 - [gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.

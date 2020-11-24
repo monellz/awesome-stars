@@ -69,6 +69,7 @@
 
 ## Others 
 
+- [smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
 - [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
 - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates

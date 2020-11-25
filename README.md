@@ -34,6 +34,7 @@
 
 ## C++ 
 
+- [orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher.
 - [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 - [magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
@@ -89,7 +90,7 @@
 - [flow](https://github.com/bojone/flow) - Keras implement of flow-based models
 - [nice](https://github.com/laurent-dinh/nice) - 
 - [DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch) - 【PyTorch】Easy-to-use,Modular and Extendible package of deep-learning based CTR models.
-- [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.16% on CIFAR10 with PyTorch
+- [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.47% on CIFAR10 with PyTorch
 - [MobileNetV2-PyTorch](https://github.com/miraclewkf/MobileNetV2-PyTorch) - This is the PyTorch implement of MobileNet V2
 - [pipedream](https://github.com/msr-fiddle/pipedream) - 
 - [EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet

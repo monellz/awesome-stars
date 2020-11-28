@@ -10,6 +10,7 @@
   - [CMake](#cmake)
   - [Cuda](#cuda)
   - [Java](#java)
+  - [JavaScript](#javascript)
   - [Markdown](#markdown)
   - [Others](#others)
   - [Python](#python)
@@ -34,6 +35,7 @@
 
 ## C++ 
 
+- [Cherry](https://github.com/LyricZhao/Cherry) - My header-only C++ utility extension library
 - [orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher.
 - [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
@@ -41,7 +43,7 @@
 - [argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
 - [StringViewTests](https://github.com/fenbf/StringViewTests) - Performance Tests for string_view, C++17
 - [Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [gcem](https://github.com/kthohr/gcem) - A C++ compile-time math library using generalized constant expressions
 - [libcudacxx](https://github.com/NVIDIA/libcudacxx) - The C++ Standard Library for your entire system.
 - [dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
@@ -64,6 +66,10 @@
 ## Java 
 
 - [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
+
+## JavaScript 
+
+- [quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 
 ## Markdown 
 

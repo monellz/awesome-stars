@@ -57,6 +57,7 @@
 
 ## CMake 
 
+- [cmake](https://github.com/CLIUtils/cmake) - A set of cmake modules to assist in building code
 - [cmake-modules](https://github.com/bilke/cmake-modules) - Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)
 - [cmake-scripts](https://github.com/StableCoder/cmake-scripts) - A selection of useful scripts for use in CMake projects, include code coverage, sanitizers, and dependency graph generation.
 

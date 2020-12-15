@@ -37,6 +37,7 @@
 
 ## C++ 
 
+- [GPGPU_OpenCL_vs_CUDA](https://github.com/dafadey/GPGPU_OpenCL_vs_CUDA) - This is a repository with sample codes for testing memory bandwidth, arithmetic latency hiding and shared/local memory performance on AMD and nVidia devices
 - [ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [Cherry](https://github.com/LyricZhao/Cherry) - My header-only C++ utility extension library
 - [orbit](https://github.com/google/orbit) - C/C++ Performance Profiler

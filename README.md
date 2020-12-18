@@ -37,6 +37,7 @@
 
 ## C++ 
 
+- [gator](https://github.com/ARM-software/gator) - Sources for Arm Streamline's gator daemon
 - [rang](https://github.com/agauniyal/rang) - A Minimal, Header only Modern c++ library for terminal goodies 💄✨
 - [GPGPU_OpenCL_vs_CUDA](https://github.com/dafadey/GPGPU_OpenCL_vs_CUDA) - This is a repository with sample codes for testing memory bandwidth, arithmetic latency hiding and shared/local memory performance on AMD and nVidia devices
 - [ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.

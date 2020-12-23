@@ -118,6 +118,7 @@
 
 ## Rust 
 
+- [colored](https://github.com/mackwic/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [amadeus](https://github.com/constellation-rs/amadeus) - Harmonious distributed data analysis in Rust.
 - [lalr1](https://github.com/MashPlant/lalr1) - An LALR1(1)/LL(1) parser generator in Rust, for multiple languages.

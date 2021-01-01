@@ -98,6 +98,7 @@
 
 ## Python 
 
+- [pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming
 - [gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status

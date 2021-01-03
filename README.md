@@ -90,7 +90,7 @@
 
 - [syscall_intercept](https://github.com/madsys-dev/syscall_intercept) - The system call intercepting library
 - [smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [ComputationalThinking_2020Spring](https://github.com/benkoo/ComputationalThinking_2020Spring) - Computational Thinking and System Design 2020 Spring
@@ -98,6 +98,7 @@
 
 ## Python 
 
+- [EasyQuant](https://github.com/deepglint/EasyQuant) - EasyQuant(EQ) is an efficient and simple post-training quantization method via effectively optimizing the scales of weights and activations.
 - [pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming

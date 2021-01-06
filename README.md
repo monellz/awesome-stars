@@ -37,6 +37,7 @@
 
 ## C++ 
 
+- [miniVite](https://github.com/Exa-Graph/miniVite) - MPI+OpenMP implementation of the first phase of Louvain method for Graph Community Detection
 - [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 - [gator](https://github.com/ARM-software/gator) - Sources for Arm Streamline's gator daemon
 - [rang](https://github.com/agauniyal/rang) - A Minimal, Header only Modern c++ library for terminal goodies 💄✨

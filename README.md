@@ -37,6 +37,8 @@
 
 ## C++ 
 
+- [caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
+- [ADMM-NN](https://github.com/yeshaokai/ADMM-NN) - 
 - [miniVite](https://github.com/Exa-Graph/miniVite) - MPI+OpenMP implementation of the first phase of Louvain method for Graph Community Detection
 - [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 - [gator](https://github.com/ARM-software/gator) - Sources for Arm Streamline's gator daemon

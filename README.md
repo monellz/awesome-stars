@@ -102,6 +102,7 @@
 
 ## Python 
 
+- [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.47% on CIFAR10 with PyTorch
 - [pytorch-ImageNet-CIFAR-COCO-VOC-training](https://github.com/zgcr/pytorch-ImageNet-CIFAR-COCO-VOC-training) - Training examples and results for ImageNet(ILSVRC2012)/CIFAR100/COCO2017/VOC2007+VOC2012 datasets.Image Classification/Object Detection.Include ResNet/EfficientNet/VovNet/DarkNet/RegNet/RetinaNet/FCOS/CenterNet/YOLOv3.
 - [sparse-winograd-cnn](https://github.com/xingyul/sparse-winograd-cnn) - Efficient Sparse-Winograd Convolutional Neural Networks (ICLR 2018)
 - [EasyQuant](https://github.com/deepglint/EasyQuant) - EasyQuant(EQ) is an efficient and simple post-training quantization method via effectively optimizing the scales of weights and activations.
@@ -118,7 +119,6 @@
 - [flow](https://github.com/bojone/flow) - Keras implement of flow-based models
 - [nice](https://github.com/laurent-dinh/nice) - 
 - [DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch) - 【PyTorch】Easy-to-use,Modular and Extendible package of deep-learning based CTR models.
-- [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.47% on CIFAR10 with PyTorch
 - [MobileNetV2-PyTorch](https://github.com/miraclewkf/MobileNetV2-PyTorch) - This is the PyTorch implement of MobileNet V2
 - [pipedream](https://github.com/msr-fiddle/pipedream) - 
 - [EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet

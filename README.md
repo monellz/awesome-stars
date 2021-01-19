@@ -92,6 +92,7 @@
 
 ## Others 
 
+- [Menlo-for-Powerline](https://github.com/abertsch/Menlo-for-Powerline) - Menlo font patched to work with Powerline
 - [syscall_intercept](https://github.com/madsys-dev/syscall_intercept) - The system call intercepting library
 - [smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
 - [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️

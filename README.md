@@ -103,6 +103,7 @@
 
 ## Python 
 
+- [angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
 - [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.47% on CIFAR10 with PyTorch
 - [pytorch-ImageNet-CIFAR-COCO-VOC-training](https://github.com/zgcr/pytorch-ImageNet-CIFAR-COCO-VOC-training) - Training examples and results for ImageNet(ILSVRC2012)/CIFAR100/COCO2017/VOC2007+VOC2012 datasets.Image Classification/Object Detection.Include ResNet/EfficientNet/VovNet/DarkNet/RegNet/RetinaNet/FCOS/CenterNet/YOLOv3.

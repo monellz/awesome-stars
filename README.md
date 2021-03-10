@@ -23,6 +23,7 @@
 
 ## C 
 
+- [Winograd-OpenCL](https://github.com/csehydrogen/Winograd-OpenCL) - Winograd-based convolution implementation in OpenCL
 - [io500](https://github.com/IO500/io500) - IO500 Storage Benchmark source code
 - [ncurses](https://github.com/mirror/ncurses) - ncurses Git mirror
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
@@ -77,6 +78,7 @@
 
 ## Cuda 
 
+- [CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.
 - [CUDA-CNN](https://github.com/catchchaos/CUDA-CNN) - Implementation of a simple CNN using CUDA
 
 ## Java 

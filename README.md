@@ -23,142 +23,142 @@
 
 ## C 
 
-- [Winograd-OpenCL](https://github.com/csehydrogen/Winograd-OpenCL) - Winograd-based convolution implementation in OpenCL
-- [io500](https://github.com/IO500/io500) - IO500 Storage Benchmark source code
-- [ncurses](https://github.com/mirror/ncurses) - ncurses Git mirror
-- [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
-- [munge](https://github.com/dun/munge) - MUNGE (MUNGE Uid 'N' Gid Emporium) is an authentication service for creating and validating user credentials.
-- [ucx](https://github.com/openucx/ucx) - Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
-- [CudaProf](https://github.com/JamesTheZ/CudaProf) - A profiler for CUDA programs based on CUPTI. Similar to NVIDIA Profiler, but simpler.
-- [npcuda-example](https://github.com/rmcgibbo/npcuda-example) - Example python (numpy) -- CUDA installable package with a C-extension library
-- [armv8_pmu_cycle_counter_el0](https://github.com/jerinjacobk/armv8_pmu_cycle_counter_el0) - 
-- [LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers) - Linux内核与设备驱动程序学习笔记
-- [enable_arm_pmu](https://github.com/rdolbeau/enable_arm_pmu) - Forked from https://github.com/thoughtpolice/enable_arm_pmu to enable user-mode access to ARMv8/Linux performance counters
-- [enable_arm_pmu](https://github.com/zhiyisun/enable_arm_pmu) - Enable user-mode access to ARMv7/Linux performance counters
+- [csehydrogen/Winograd-OpenCL](https://github.com/csehydrogen/Winograd-OpenCL) - Winograd-based convolution implementation in OpenCL
+- [IO500/io500](https://github.com/IO500/io500) - IO500 Storage Benchmark source code
+- [mirror/ncurses](https://github.com/mirror/ncurses) - ncurses Git mirror
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
+- [dun/munge](https://github.com/dun/munge) - MUNGE (MUNGE Uid 'N' Gid Emporium) is an authentication service for creating and validating user credentials.
+- [openucx/ucx](https://github.com/openucx/ucx) - Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
+- [JamesTheZ/CudaProf](https://github.com/JamesTheZ/CudaProf) - A profiler for CUDA programs based on CUPTI. Similar to NVIDIA Profiler, but simpler.
+- [rmcgibbo/npcuda-example](https://github.com/rmcgibbo/npcuda-example) - Example python (numpy) -- CUDA installable package with a C-extension library
+- [jerinjacobk/armv8_pmu_cycle_counter_el0](https://github.com/jerinjacobk/armv8_pmu_cycle_counter_el0) - 
+- [gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers) - Linux内核与设备驱动程序学习笔记
+- [rdolbeau/enable_arm_pmu](https://github.com/rdolbeau/enable_arm_pmu) - Forked from https://github.com/thoughtpolice/enable_arm_pmu to enable user-mode access to ARMv8/Linux performance counters
+- [zhiyisun/enable_arm_pmu](https://github.com/zhiyisun/enable_arm_pmu) - Enable user-mode access to ARMv7/Linux performance counters
 
 ## C++ 
 
-- [alexnet-armcomputelibrary-android-withoutfc67](https://github.com/ppplinday/alexnet-armcomputelibrary-android-withoutfc67) - I deleted fullconnectlayer6 and 7 in order to make a small model so that I can load this model to my phone. The purpose of this program is to compare performanc between tensorflow and arm compute library in android phone
-- [caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
-- [ADMM-NN](https://github.com/yeshaokai/ADMM-NN) - 
-- [miniVite](https://github.com/Exa-Graph/miniVite) - MPI+OpenMP implementation of the first phase of Louvain method for Graph Community Detection
-- [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
-- [gator](https://github.com/ARM-software/gator) - Sources for Arm Streamline's gator daemon
-- [rang](https://github.com/agauniyal/rang) - A Minimal, Header only Modern c++ library for terminal goodies 💄✨
-- [GPGPU_OpenCL_vs_CUDA](https://github.com/dafadey/GPGPU_OpenCL_vs_CUDA) - This is a repository with sample codes for testing memory bandwidth, arithmetic latency hiding and shared/local memory performance on AMD and nVidia devices
-- [ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
-- [Cherry](https://github.com/LyricZhao/Cherry) - My header-only C++ utility extension library
-- [orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
-- [compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher.
-- [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
-- [magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
-- [argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
-- [StringViewTests](https://github.com/fenbf/StringViewTests) - Performance Tests for string_view, C++17
-- [Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
-- [gcem](https://github.com/kthohr/gcem) - A C++ compile-time math library using generalized constant expressions
-- [libcudacxx](https://github.com/NVIDIA/libcudacxx) - The C++ Standard Library for your entire system.
-- [dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
-- [tomlplusplus](https://github.com/marzer/tomlplusplus) - Header-only TOML config file parser and serializer for C++17 (and later!).
-- [TrivialCompiler](https://github.com/TrivialCompiler/TrivialCompiler) - A toy compiler written in C++17 that translates SysY (a C-like toy language) into ARM-v7a assembly.
-- [benchmark](https://github.com/google/benchmark) - A microbenchmark support library
-- [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
-- [sLSM-Tree](https://github.com/aronszanto/sLSM-Tree) - High-Performance C++ Data System
-- [tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
+- [ppplinday/alexnet-armcomputelibrary-android-withoutfc67](https://github.com/ppplinday/alexnet-armcomputelibrary-android-withoutfc67) - I deleted fullconnectlayer6 and 7 in order to make a small model so that I can load this model to my phone. The purpose of this program is to compare performanc between tensorflow and arm compute library in android phone
+- [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
+- [yeshaokai/ADMM-NN](https://github.com/yeshaokai/ADMM-NN) - 
+- [Exa-Graph/miniVite](https://github.com/Exa-Graph/miniVite) - MPI+OpenMP implementation of the first phase of Louvain method for Graph Community Detection
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
+- [ARM-software/gator](https://github.com/ARM-software/gator) - Sources for Arm Streamline's gator daemon
+- [agauniyal/rang](https://github.com/agauniyal/rang) - A Minimal, Header only Modern c++ library for terminal goodies 💄✨
+- [dafadey/GPGPU_OpenCL_vs_CUDA](https://github.com/dafadey/GPGPU_OpenCL_vs_CUDA) - This is a repository with sample codes for testing memory bandwidth, arithmetic latency hiding and shared/local memory performance on AMD and nVidia devices
+- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
+- [LyricZhao/Cherry](https://github.com/LyricZhao/Cherry) - My header-only C++ utility extension library
+- [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
+- [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher.
+- [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
+- [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
+- [p-ranav/argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
+- [fenbf/StringViewTests](https://github.com/fenbf/StringViewTests) - Performance Tests for string_view, C++17
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+- [kthohr/gcem](https://github.com/kthohr/gcem) - A C++ compile-time math library using generalized constant expressions
+- [NVIDIA/libcudacxx](https://github.com/NVIDIA/libcudacxx) - The C++ Standard Library for your entire system.
+- [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
+- [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) - Header-only TOML config file parser and serializer for C++17 (and later!).
+- [TrivialCompiler/TrivialCompiler](https://github.com/TrivialCompiler/TrivialCompiler) - A toy compiler written in C++17 that translates SysY (a C-like toy language) into ARM-v7a assembly.
+- [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
+- [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+- [aronszanto/sLSM-Tree](https://github.com/aronszanto/sLSM-Tree) - High-Performance C++ Data System
+- [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
 
 ## CMake 
 
-- [cmake](https://github.com/CLIUtils/cmake) - A set of cmake modules to assist in building code
-- [cmake-modules](https://github.com/bilke/cmake-modules) - Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)
-- [cmake-scripts](https://github.com/StableCoder/cmake-scripts) - A selection of useful scripts for use in CMake projects, include code coverage, sanitizers, and dependency graph generation.
+- [CLIUtils/cmake](https://github.com/CLIUtils/cmake) - A set of cmake modules to assist in building code
+- [bilke/cmake-modules](https://github.com/bilke/cmake-modules) - Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)
+- [StableCoder/cmake-scripts](https://github.com/StableCoder/cmake-scripts) - A selection of useful scripts for use in CMake projects, include code coverage, sanitizers, and dependency graph generation.
 
 ## CSS 
 
-- [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 
 ## Cuda 
 
-- [CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.
-- [CUDA-CNN](https://github.com/catchchaos/CUDA-CNN) - Implementation of a simple CNN using CUDA
+- [xuqiantong/CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.
+- [catchchaos/CUDA-CNN](https://github.com/catchchaos/CUDA-CNN) - Implementation of a simple CNN using CUDA
 
 ## Java 
 
-- [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
+- [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 
 ## JavaScript 
 
-- [quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
+- [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 
 ## Markdown 
 
-- [rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) - rust 程序设计语言 中文版
+- [KaiserY/rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) - rust 程序设计语言 中文版
 
 ## Others 
 
-- [Menlo-for-Powerline](https://github.com/abertsch/Menlo-for-Powerline) - Menlo font patched to work with Powerline
-- [syscall_intercept](https://github.com/madsys-dev/syscall_intercept) - The system call intercepting library
-- [smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
-- [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
-- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [ComputationalThinking_2020Spring](https://github.com/benkoo/ComputationalThinking_2020Spring) - Computational Thinking and System Design 2020 Spring
-- [shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
+- [abertsch/Menlo-for-Powerline](https://github.com/abertsch/Menlo-for-Powerline) - Menlo font patched to work with Powerline
+- [madsys-dev/syscall_intercept](https://github.com/madsys-dev/syscall_intercept) - The system call intercepting library
+- [matt77hias/smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+- [benkoo/ComputationalThinking_2020Spring](https://github.com/benkoo/ComputationalThinking_2020Spring) - Computational Thinking and System Design 2020 Spring
+- [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 
 ## Python 
 
-- [angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
-- [manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
-- [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.47% on CIFAR10 with PyTorch
-- [pytorch-ImageNet-CIFAR-COCO-VOC-training](https://github.com/zgcr/pytorch-ImageNet-CIFAR-COCO-VOC-training) - Training examples and results for ImageNet(ILSVRC2012)/CIFAR100/COCO2017/VOC2007+VOC2012 datasets.Image Classification/Object Detection.Include ResNet/EfficientNet/VovNet/DarkNet/RegNet/RetinaNet/FCOS/CenterNet/YOLOv3.
-- [sparse-winograd-cnn](https://github.com/xingyul/sparse-winograd-cnn) - Efficient Sparse-Winograd Convolutional Neural Networks (ICLR 2018)
-- [EasyQuant](https://github.com/deepglint/EasyQuant) - EasyQuant(EQ) is an efficient and simple post-training quantization method via effectively optimizing the scales of weights and activations.
-- [pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
-- [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
-- [dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming
-- [gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
-- [pytorch-summary](https://github.com/sksq96/pytorch-summary) - Model summary in PyTorch similar to `model.summary()` in Keras
-- [residual-flows](https://github.com/rtqichen/residual-flows) - code for "Residual Flows for Invertible Generative Modeling".
-- [yapf](https://github.com/google/yapf) - A formatter for Python files
-- [autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
-- [flow](https://github.com/bojone/flow) - Keras implement of flow-based models
-- [nice](https://github.com/laurent-dinh/nice) - 
-- [DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch) - 【PyTorch】Easy-to-use,Modular and Extendible package of deep-learning based CTR models.
-- [MobileNetV2-PyTorch](https://github.com/miraclewkf/MobileNetV2-PyTorch) - This is the PyTorch implement of MobileNet V2
-- [pipedream](https://github.com/msr-fiddle/pipedream) - 
-- [EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet
-- [autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
+- [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
+- [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
+- [kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.47% on CIFAR10 with PyTorch
+- [zgcr/pytorch-ImageNet-CIFAR-COCO-VOC-training](https://github.com/zgcr/pytorch-ImageNet-CIFAR-COCO-VOC-training) - Training examples and results for ImageNet(ILSVRC2012)/CIFAR100/COCO2017/VOC2007+VOC2012 datasets.Image Classification/Object Detection.Include ResNet/EfficientNet/VovNet/DarkNet/RegNet/RetinaNet/FCOS/CenterNet/YOLOv3.
+- [xingyul/sparse-winograd-cnn](https://github.com/xingyul/sparse-winograd-cnn) - Efficient Sparse-Winograd Convolutional Neural Networks (ICLR 2018)
+- [deepglint/EasyQuant](https://github.com/deepglint/EasyQuant) - EasyQuant(EQ) is an efficient and simple post-training quantization method via effectively optimizing the scales of weights and activations.
+- [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
+- [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
+- [spcl/dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming
+- [wookayin/gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
+- [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary) - Model summary in PyTorch similar to `model.summary()` in Keras
+- [rtqichen/residual-flows](https://github.com/rtqichen/residual-flows) - code for "Residual Flows for Invertible Generative Modeling".
+- [google/yapf](https://github.com/google/yapf) - A formatter for Python files
+- [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
+- [bojone/flow](https://github.com/bojone/flow) - Keras implement of flow-based models
+- [laurent-dinh/nice](https://github.com/laurent-dinh/nice) - 
+- [shenweichen/DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch) - 【PyTorch】Easy-to-use,Modular and Extendible package of deep-learning based CTR models.
+- [miraclewkf/MobileNetV2-PyTorch](https://github.com/miraclewkf/MobileNetV2-PyTorch) - This is the PyTorch implement of MobileNet V2
+- [msr-fiddle/pipedream](https://github.com/msr-fiddle/pipedream) - 
+- [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet
+- [keras-team/autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
 
 ## Rust 
 
-- [colored](https://github.com/mackwic/colored) - (Rust) Coloring terminal so simple you already know how to do it !
-- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [amadeus](https://github.com/constellation-rs/amadeus) - Harmonious distributed data analysis in Rust.
-- [lalr1](https://github.com/MashPlant/lalr1) - An LALR1(1)/LL(1) parser generator in Rust, for multiple languages.
-- [rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
-- [case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
-- [bimap-rs](https://github.com/billyrieger/bimap-rs) - Generic bijective maps in Rust
+- [mackwic/colored](https://github.com/mackwic/colored) - (Rust) Coloring terminal so simple you already know how to do it !
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [constellation-rs/amadeus](https://github.com/constellation-rs/amadeus) - Harmonious distributed data analysis in Rust.
+- [MashPlant/lalr1](https://github.com/MashPlant/lalr1) - An LALR1(1)/LL(1) parser generator in Rust, for multiple languages.
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
+- [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
+- [billyrieger/bimap-rs](https://github.com/billyrieger/bimap-rs) - Generic bijective maps in Rust
 
 ## Shell 
 
-- [tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
-- [Author-Kit](https://github.com/SC-Tech-Program/Author-Kit) - Instructions and templates for SC authors
-- [hikey970-ubuntu-image](https://github.com/mengzhuo/hikey970-ubuntu-image) - 
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
+- [SC-Tech-Program/Author-Kit](https://github.com/SC-Tech-Program/Author-Kit) - Instructions and templates for SC authors
+- [mengzhuo/hikey970-ubuntu-image](https://github.com/mengzhuo/hikey970-ubuntu-image) - 
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## TeX 
 
-- [thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
+- [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
 
 ## VHDL 
 
-- [IntoMips](https://github.com/sunwx17/IntoMips) - IntoMips
+- [sunwx17/IntoMips](https://github.com/sunwx17/IntoMips) - IntoMips
 
 ## Vim script 
 
-- [nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
-- [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
+- [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 
 
 ## License

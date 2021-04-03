@@ -128,7 +128,7 @@
 - [shenweichen/DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch) - 【PyTorch】Easy-to-use,Modular and Extendible package of deep-learning based CTR models.
 - [miraclewkf/MobileNetV2-PyTorch](https://github.com/miraclewkf/MobileNetV2-PyTorch) - This is the PyTorch implement of MobileNet V2
 - [msr-fiddle/pipedream](https://github.com/msr-fiddle/pipedream) - 
-- [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet
+- [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet and EfficientNetV2 (coming soon!)
 - [keras-team/autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
 
 ## Rust 

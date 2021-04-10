@@ -106,6 +106,7 @@
 
 ## Python 
 
+- [rio26/weibo-comments-word-cloud](https://github.com/rio26/weibo-comments-word-cloud) - 微博评论爬虫+评论html tag清洗+中文词云生成
 - [kochelmonster/larch-pickle](https://github.com/kochelmonster/larch-pickle) - larch.pickle - A faster python pickle replacement
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool

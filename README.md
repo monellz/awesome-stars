@@ -13,6 +13,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Markdown](#markdown)
+  - [Objective-C++](#objective-c++)
   - [Others](#others)
   - [Python](#python)
   - [Rust](#rust)
@@ -38,6 +39,7 @@
 
 ## C++ 
 
+- [thedoctar/uCLbench](https://github.com/thedoctar/uCLbench) - Set of OpenCL microbenchmarks
 - [ppplinday/alexnet-armcomputelibrary-android-withoutfc67](https://github.com/ppplinday/alexnet-armcomputelibrary-android-withoutfc67) - I deleted fullconnectlayer6 and 7 in order to make a small model so that I can load this model to my phone. The purpose of this program is to compare performanc between tensorflow and arm compute library in android phone
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [yeshaokai/ADMM-NN](https://github.com/yeshaokai/ADMM-NN) - 
@@ -92,6 +94,10 @@
 ## Markdown 
 
 - [KaiserY/rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) - rust 程序设计语言 中文版
+
+## Objective-C++ 
+
+- [rsnemmen/OpenCL-examples](https://github.com/rsnemmen/OpenCL-examples) - Simple OpenCL examples for exploiting GPU computing
 
 ## Others 
 

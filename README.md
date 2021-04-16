@@ -10,6 +10,7 @@
   - [CMake](#cmake)
   - [CSS](#css)
   - [Cuda](#cuda)
+  - [Fortran](#fortran)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Markdown](#markdown)
@@ -83,6 +84,10 @@
 - [xuqiantong/CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.
 - [catchchaos/CUDA-CNN](https://github.com/catchchaos/CUDA-CNN) - Implementation of a simple CNN using CUDA
 
+## Fortran 
+
+- [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - ARM RowMajor sgemm optimization
+
 ## Java 
 
 - [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
@@ -112,6 +117,8 @@
 
 ## Python 
 
+- [NVIDIA/PyProf](https://github.com/NVIDIA/PyProf) - A GPU performance profiling tool for PyTorch models
+- [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
 - [rio26/weibo-comments-word-cloud](https://github.com/rio26/weibo-comments-word-cloud) - 微博评论爬虫+评论html tag清洗+中文词云生成
 - [kochelmonster/larch-pickle](https://github.com/kochelmonster/larch-pickle) - larch.pickle - A faster python pickle replacement
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!

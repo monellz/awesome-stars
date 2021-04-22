@@ -13,6 +13,7 @@
   - [Fortran](#fortran)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Markdown](#markdown)
   - [Objective-C++](#objective-c++)
   - [Others](#others)
@@ -96,6 +97,10 @@
 
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 
+## Jupyter Notebook 
+
+- [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
+
 ## Markdown 
 
 - [KaiserY/rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) - rust 程序设计语言 中文版
@@ -117,6 +122,7 @@
 
 ## Python 
 
+- [CoCoPIE-Pruning/CoCoPIE-ModelZoo](https://github.com/CoCoPIE-Pruning/CoCoPIE-ModelZoo) - 
 - [NVIDIA/PyProf](https://github.com/NVIDIA/PyProf) - A GPU performance profiling tool for PyTorch models
 - [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
 - [rio26/weibo-comments-word-cloud](https://github.com/rio26/weibo-comments-word-cloud) - 微博评论爬虫+评论html tag清洗+中文词云生成

@@ -122,6 +122,8 @@
 
 ## Python 
 
+- [BBuf/onnx2X](https://github.com/BBuf/onnx2X) - 
+- [daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model
 - [CoCoPIE-Pruning/CoCoPIE-ModelZoo](https://github.com/CoCoPIE-Pruning/CoCoPIE-ModelZoo) - 
 - [NVIDIA/PyProf](https://github.com/NVIDIA/PyProf) - A GPU performance profiling tool for PyTorch models
 - [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch

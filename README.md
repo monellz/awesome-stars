@@ -123,6 +123,7 @@
 
 ## Python 
 
+- [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
 - [BBuf/onnx2X](https://github.com/BBuf/onnx2X) - 
 - [daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model
 - [CoCoPIE-Pruning/CoCoPIE-ModelZoo](https://github.com/CoCoPIE-Pruning/CoCoPIE-ModelZoo) - 

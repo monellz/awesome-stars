@@ -124,6 +124,7 @@
 
 ## Python 
 
+- [Python3Spiders/WeiboSuperSpider](https://github.com/Python3Spiders/WeiboSuperSpider) - 最强微博爬虫，用户、话题、评论一网打尽。
 - [ctuning/ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta packages (code, data sets, models, scripts, etc) with the possibility of multiple versions to co-exist in a user or system environment:
 - [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
 - [BBuf/onnx2X](https://github.com/BBuf/onnx2X) - ONNX2Pytorch

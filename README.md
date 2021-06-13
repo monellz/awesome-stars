@@ -84,7 +84,7 @@
 ## Cuda 
 
 - [xuqiantong/CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.
-- [catchchaos/CUDA-CNN](https://github.com/catchchaos/CUDA-CNN) - Implementation of a simple CNN using CUDA
+- [paramhanji/CUDA-CNN](https://github.com/paramhanji/CUDA-CNN) - Implementation of a simple CNN using CUDA
 
 ## Fortran 
 

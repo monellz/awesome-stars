@@ -100,7 +100,7 @@
 
 ## Java 
 
-- [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## JavaScript 
 

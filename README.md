@@ -48,6 +48,7 @@
 
 ## C++ 
 
+- [clevercool/TileSparsity](https://github.com/clevercool/TileSparsity) - 
 - [Exa-Graph/vite](https://github.com/Exa-Graph/vite) - MPI+OpenMP implementation of Louvain method for Graph Community Detection, with a number of parallel heuristics/approximate computing techniques
 - [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 - [thedoctar/uCLbench](https://github.com/thedoctar/uCLbench) - Set of OpenCL microbenchmarks
@@ -91,6 +92,7 @@
 
 ## Cuda 
 
+- [lenLRX/AmpereSparseMatmul](https://github.com/lenLRX/AmpereSparseMatmul) - study of Ampere' Sparse Matmul
 - [xuqiantong/CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.
 - [paramhanji/CUDA-CNN](https://github.com/paramhanji/CUDA-CNN) - Implementation of a simple CNN using CUDA
 

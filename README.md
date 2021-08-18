@@ -92,6 +92,7 @@
 
 ## Cuda 
 
+- [NVIDIA/cub](https://github.com/NVIDIA/cub) - Cooperative primitives for CUDA C++.
 - [lenLRX/AmpereSparseMatmul](https://github.com/lenLRX/AmpereSparseMatmul) - study of Ampere' Sparse Matmul
 - [xuqiantong/CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.
 - [paramhanji/CUDA-CNN](https://github.com/paramhanji/CUDA-CNN) - Implementation of a simple CNN using CUDA

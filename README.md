@@ -48,6 +48,8 @@
 
 ## C++ 
 
+- [cusplibrary/cusplibrary](https://github.com/cusplibrary/cusplibrary) - CUSP : A C++ Templated Sparse Matrix Library
+- [facebookresearch/SparseConvNet](https://github.com/facebookresearch/SparseConvNet) - Submanifold sparse convolutional networks
 - [clevercool/TileSparsity](https://github.com/clevercool/TileSparsity) - 
 - [Exa-Graph/vite](https://github.com/Exa-Graph/vite) - MPI+OpenMP implementation of Louvain method for Graph Community Detection, with a number of parallel heuristics/approximate computing techniques
 - [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
@@ -92,6 +94,7 @@
 
 ## Cuda 
 
+- [oresths/tSparse](https://github.com/oresths/tSparse) - A GPU algorithm for sparse matrix-matrix multiplication
 - [NVIDIA/cub](https://github.com/NVIDIA/cub) - Cooperative primitives for CUDA C++.
 - [lenLRX/AmpereSparseMatmul](https://github.com/lenLRX/AmpereSparseMatmul) - study of Ampere' Sparse Matmul
 - [xuqiantong/CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.

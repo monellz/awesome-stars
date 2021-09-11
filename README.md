@@ -115,6 +115,7 @@
 ## Jupyter Notebook 
 
 - [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
+- [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
 
 ## Markdown 
 
@@ -156,7 +157,6 @@
 - [zgcr/simpleAICV-pytorch-ImageNet-COCO-training](https://github.com/zgcr/simpleAICV-pytorch-ImageNet-COCO-training) - Training examples and results for ImageNet(ILSVRC2012)/COCO2017/VOC2007+VOC2012 datasets.Include ResNet/DarkNet/RegNet/RetinaNet/FCOS/CenterNet/YOLO series.
 - [xingyul/sparse-winograd-cnn](https://github.com/xingyul/sparse-winograd-cnn) - Efficient Sparse-Winograd Convolutional Neural Networks (ICLR 2018)
 - [deepglint/EasyQuant](https://github.com/deepglint/EasyQuant) - EasyQuant(EQ) is an efficient and simple post-training quantization method via effectively optimizing the scales of weights and activations.
-- [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [spcl/dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming
 - [wookayin/gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status

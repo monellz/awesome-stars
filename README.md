@@ -48,6 +48,7 @@
 
 ## C++ 
 
+- [ginkgo-project/ginkgo](https://github.com/ginkgo-project/ginkgo) - Numerical linear algebra software package
 - [andygongyb/SparseTrain](https://github.com/andygongyb/SparseTrain) - SparseTrain: Leveraging Dynamic Sparsity in Training DNNs on General-Purpose SIMD Processors
 - [cusplibrary/cusplibrary](https://github.com/cusplibrary/cusplibrary) - CUSP : A C++ Templated Sparse Matrix Library
 - [facebookresearch/SparseConvNet](https://github.com/facebookresearch/SparseConvNet) - Submanifold sparse convolutional networks

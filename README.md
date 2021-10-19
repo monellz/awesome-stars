@@ -142,6 +142,7 @@
 
 ## Python 
 
+- [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
 - [baidu/Senta](https://github.com/baidu/Senta) - Baidu's open-source Sentiment Analysis System.
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
 - [Python3Spiders/WeiboSuperSpider](https://github.com/Python3Spiders/WeiboSuperSpider) - 最强微博爬虫，用户、话题、评论一网打尽。地址位置、关系网络等信息应有尽有。

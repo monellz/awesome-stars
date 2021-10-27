@@ -49,6 +49,7 @@
 
 ## C++ 
 
+- [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
 - [ginkgo-project/ginkgo](https://github.com/ginkgo-project/ginkgo) - Numerical linear algebra software package
 - [andygongyb/SparseTrain](https://github.com/andygongyb/SparseTrain) - SparseTrain: Leveraging Dynamic Sparsity in Training DNNs on General-Purpose SIMD Processors
 - [cusplibrary/cusplibrary](https://github.com/cusplibrary/cusplibrary) - CUSP : A C++ Templated Sparse Matrix Library
@@ -142,6 +143,7 @@
 
 ## Python 
 
+- [WangYueFt/dgcnn](https://github.com/WangYueFt/dgcnn) - 
 - [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
 - [baidu/Senta](https://github.com/baidu/Senta) - Baidu's open-source Sentiment Analysis System.
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)

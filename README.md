@@ -143,6 +143,8 @@
 
 ## Python 
 
+- [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - A high-performance neural network library for point cloud processing.
+- [nicolas-chaulet/torch-points3d](https://github.com/nicolas-chaulet/torch-points3d) - Pytorch framework for doing deep learning on point clouds.
 - [WangYueFt/dgcnn](https://github.com/WangYueFt/dgcnn) - 
 - [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
 - [baidu/Senta](https://github.com/baidu/Senta) - Baidu's open-source Sentiment Analysis System.

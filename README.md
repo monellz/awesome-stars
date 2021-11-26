@@ -143,6 +143,8 @@
 
 ## Python 
 
+- [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) - Papers and Datasets  about Point Cloud.
+- [DylanWusee/pointconv_pytorch](https://github.com/DylanWusee/pointconv_pytorch) - pytorch version of PointConv
 - [Jittor/PointCloudLib](https://github.com/Jittor/PointCloudLib) - Jittor Library for Point Cloud Processing
 - [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - A high-performance neural network library for point cloud processing.
 - [nicolas-chaulet/torch-points3d](https://github.com/nicolas-chaulet/torch-points3d) - Pytorch framework for doing deep learning on point clouds.

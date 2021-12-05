@@ -79,7 +79,7 @@
 - [kthohr/gcem](https://github.com/kthohr/gcem) - A C++ compile-time math library using generalized constant expressions
 - [NVIDIA/libcudacxx](https://github.com/NVIDIA/libcudacxx) - The C++ Standard Library for your entire system.
 - [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
-- [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) - Header-only TOML config file parser and serializer for C++17 (and later!).
+- [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) - Header-only TOML config file parser and serializer for C++17.
 - [TrivialCompiler/TrivialCompiler](https://github.com/TrivialCompiler/TrivialCompiler) - A toy compiler written in C++17 that translates SysY (a C-like toy language) into ARM-v7a assembly.
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.

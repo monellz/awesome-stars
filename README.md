@@ -144,6 +144,8 @@
 
 ## Python 
 
+- [xinge008/Cylinder3D](https://github.com/xinge008/Cylinder3D) - Rank 1st in the leaderboard of SemanticKITTI semantic segmentation (both single-scan and multi-scan) (Nov. 2020) (CVPR2021 Oral)
+- [traveller59/spconv](https://github.com/traveller59/spconv) - Spatial Sparse Convolution Library
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [mit-han-lab/spvnas](https://github.com/mit-han-lab/spvnas) - [ECCV 2020] Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution
 - [aRI0U/RandLA-Net-pytorch](https://github.com/aRI0U/RandLA-Net-pytorch) - PyTorch implementation of RandLA-Net

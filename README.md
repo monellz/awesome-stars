@@ -159,7 +159,7 @@
 - [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
 - [baidu/Senta](https://github.com/baidu/Senta) - Baidu's open-source Sentiment Analysis System.
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
-- [Python3Spiders/WeiboSuperSpider](https://github.com/Python3Spiders/WeiboSuperSpider) - 最强微博爬虫，用户、话题、评论一网打尽。图片下载、情感分析，地理位置、关系网络等功能应有尽有。
+- [Python3Spiders/WeiboSuperSpider](https://github.com/Python3Spiders/WeiboSuperSpider) - 最强微博爬虫，用户、话题、评论一网打尽。图片下载、情感分析，地理位置、关系网络等功能应有尽有。合集地址：https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1393531201285226497
 - [ctuning/ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta packages (code, data sets, models, scripts, etc) with the possibility of multiple versions to co-exist in a user or system environment:
 - [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
 - [BBuf/onnx2X](https://github.com/BBuf/onnx2X) - ONNX2Pytorch

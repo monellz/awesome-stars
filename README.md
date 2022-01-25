@@ -49,6 +49,8 @@
 
 ## C++ 
 
+- [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
+- [Ewenwan/llvm-clang-samples](https://github.com/Ewenwan/llvm-clang-samples) - 利用LLVM，Clang制作自己的编译器 UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [Tessil/robin-map](https://github.com/Tessil/robin-map) - C++ implementation of a fast hash map and hash set using robin hood hashing
 - [yuyangJin/data-flow-analyzer](https://github.com/yuyangJin/data-flow-analyzer) - Analyze data flow graph for C/C++/Fortran (maybe) programs.
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.

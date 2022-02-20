@@ -111,7 +111,7 @@
 
 ## Fortran 
 
-- [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - ARM RowMajor sgemm optimization
+- [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - RowMajor sgemm optimization
 
 ## Java 
 

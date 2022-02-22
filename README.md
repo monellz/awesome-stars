@@ -32,6 +32,7 @@
 
 ## C 
 
+- [skeeto/lstack](https://github.com/skeeto/lstack) - C11 Lock-free Stack
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 
 - [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [csehydrogen/Winograd-OpenCL](https://github.com/csehydrogen/Winograd-OpenCL) - Winograd-based convolution implementation in OpenCL
@@ -49,6 +50,7 @@
 
 ## C++ 
 
+- [pigirons/conv3x3_m1](https://github.com/pigirons/conv3x3_m1) - This is a demo how to write a high performance convolution run on apple silicon
 - [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [Ewenwan/llvm-clang-samples](https://github.com/Ewenwan/llvm-clang-samples) - 利用LLVM，Clang制作自己的编译器 UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [Tessil/robin-map](https://github.com/Tessil/robin-map) - C++ implementation of a fast hash map and hash set using robin hood hashing
@@ -135,6 +137,8 @@
 
 ## Others 
 
+- [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [abertsch/Menlo-for-Powerline](https://github.com/abertsch/Menlo-for-Powerline) - Menlo font patched to work with Powerline
 - [madsys-dev/syscall_intercept](https://github.com/madsys-dev/syscall_intercept) - The system call intercepting library

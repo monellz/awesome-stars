@@ -50,6 +50,8 @@
 
 ## C++ 
 
+- [Tessil/sparse-map](https://github.com/Tessil/sparse-map) - C++ implementation of a memory efficient hash map and hash set
+- [spcl/open-earth-benchmarks](https://github.com/spcl/open-earth-benchmarks) - Open repository for climate and weather benchmark kernels
 - [pigirons/conv3x3_m1](https://github.com/pigirons/conv3x3_m1) - This is a demo how to write a high performance convolution run on apple silicon
 - [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [Ewenwan/llvm-clang-samples](https://github.com/Ewenwan/llvm-clang-samples) - 利用LLVM，Clang制作自己的编译器 UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools

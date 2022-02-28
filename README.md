@@ -123,6 +123,7 @@
 
 ## JavaScript 
 
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 
 ## Jupyter Notebook 
@@ -140,7 +141,6 @@
 ## Others 
 
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [abertsch/Menlo-for-Powerline](https://github.com/abertsch/Menlo-for-Powerline) - Menlo font patched to work with Powerline
 - [madsys-dev/syscall_intercept](https://github.com/madsys-dev/syscall_intercept) - The system call intercepting library

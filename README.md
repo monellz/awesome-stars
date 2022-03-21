@@ -78,7 +78,7 @@
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [LyricZhao/Cherry](https://github.com/LyricZhao/Cherry) - My header-only C++ utility extension library
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
-- [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher.
+- [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) - Compile Time Regular Expression in C++
 - [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 - [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
 - [p-ranav/argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++

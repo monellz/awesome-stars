@@ -11,7 +11,6 @@
   - [CMake](#cmake)
   - [CSS](#css)
   - [Cuda](#cuda)
-  - [Fortran](#fortran)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -23,6 +22,7 @@
   - [Shell](#shell)
   - [Swift](#swift)
   - [TeX](#tex)
+  - [TypeScript](#typescript)
   - [VHDL](#vhdl)
   - [Vim script](#vim-script)
 
@@ -32,6 +32,7 @@
 
 ## C 
 
+- [shoaibkamil/stencilprobe](https://github.com/shoaibkamil/stencilprobe) - Stencil Probe - a stencil microbenchmark
 - [skeeto/lstack](https://github.com/skeeto/lstack) - C11 Lock-free Stack
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 
 - [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
@@ -66,6 +67,7 @@
 - [facebookresearch/SparseConvNet](https://github.com/facebookresearch/SparseConvNet) - Submanifold sparse convolutional networks
 - [clevercool/TileSparsity](https://github.com/clevercool/TileSparsity) - 
 - [Exa-Graph/vite](https://github.com/Exa-Graph/vite) - MPI+OpenMP implementation of Louvain method for Graph Community Detection, with a number of parallel heuristics/approximate computing techniques
+- [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - RowMajor sgemm optimization
 - [thedoctar/uCLbench](https://github.com/thedoctar/uCLbench) - Set of OpenCL microbenchmarks
 - [ppplinday/alexnet-armcomputelibrary-android-withoutfc67](https://github.com/ppplinday/alexnet-armcomputelibrary-android-withoutfc67) - I deleted fullconnectlayer6 and 7 in order to make a small model so that I can load this model to my phone. The purpose of this program is to compare performanc between tensorflow and arm compute library in android phone
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
@@ -114,10 +116,6 @@
 - [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 - [xuqiantong/CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.
 - [paramhanji/CUDA-CNN](https://github.com/paramhanji/CUDA-CNN) - Implementation of a simple CNN using CUDA
-
-## Fortran 
-
-- [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - RowMajor sgemm optimization
 
 ## Java 
 
@@ -227,7 +225,12 @@
 
 ## TeX 
 
+- [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
+
+## TypeScript 
+
+- [robindijkhof/overleaf-textarea](https://github.com/robindijkhof/overleaf-textarea) - This plugin displays your tex source in a textarea so plugins like grammarly can check it.
 
 ## VHDL 
 

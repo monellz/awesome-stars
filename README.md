@@ -32,6 +32,7 @@
 
 ## C 
 
+- [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) - Optimized implementations of various library functions for ARM architecture processors
 - [shoaibkamil/stencilprobe](https://github.com/shoaibkamil/stencilprobe) - Stencil Probe - a stencil microbenchmark
 - [skeeto/lstack](https://github.com/skeeto/lstack) - C11 Lock-free Stack
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 

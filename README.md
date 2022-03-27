@@ -52,6 +52,7 @@
 
 ## C++ 
 
+- [ToruNiina/toml11](https://github.com/ToruNiina/toml11) - TOML for Modern C++
 - [ezaquarii/bison-flex-cpp-example](https://github.com/ezaquarii/bison-flex-cpp-example) - GNU Bison and GNU Flex C++ example
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
 - [THeWakeSystems/fcc](https://github.com/THeWakeSystems/fcc) - Fiuggi Compiler Collection (FCC) is a high-performance compiler based on LLVM.

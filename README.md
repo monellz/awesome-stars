@@ -14,6 +14,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [MLIR](#mlir)
   - [Markdown](#markdown)
   - [Objective-C++](#objective-c++)
   - [Others](#others)
@@ -132,6 +133,10 @@
 ## Jupyter Notebook 
 
 - [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
+
+## MLIR 
+
+- [spcl/open-earth-compiler](https://github.com/spcl/open-earth-compiler) - development repository for the open earth compiler
 
 ## Markdown 
 

@@ -11,6 +11,7 @@
   - [CMake](#cmake)
   - [CSS](#css)
   - [Cuda](#cuda)
+  - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -53,6 +54,8 @@
 
 ## C++ 
 
+- [google/iree](https://github.com/google/iree) - 👻
+- [motine/cppstylelineup](https://github.com/motine/cppstylelineup) - a comparison of common C++ style guides
 - [ToruNiina/toml11](https://github.com/ToruNiina/toml11) - TOML for Modern C++
 - [ezaquarii/bison-flex-cpp-example](https://github.com/ezaquarii/bison-flex-cpp-example) - GNU Bison and GNU Flex C++ example
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
@@ -120,6 +123,10 @@
 - [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 - [xuqiantong/CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.
 - [paramhanji/CUDA-CNN](https://github.com/paramhanji/CUDA-CNN) - Implementation of a simple CNN using CUDA
+
+## HTML 
+
+- [plctlab/PLCT-Weekly](https://github.com/plctlab/PLCT-Weekly) - 软件所PLCT实验室在开源领域的不定期简报
 
 ## Java 
 

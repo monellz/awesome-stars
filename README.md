@@ -43,7 +43,7 @@
 - [csehydrogen/Winograd-OpenCL](https://github.com/csehydrogen/Winograd-OpenCL) - Winograd-based convolution implementation in OpenCL
 - [IO500/io500](https://github.com/IO500/io500) - IO500 Storage Benchmark source code
 - [mirror/ncurses](https://github.com/mirror/ncurses) - ncurses Git mirror
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
 - [dun/munge](https://github.com/dun/munge) - MUNGE (MUNGE Uid 'N' Gid Emporium) is an authentication service for creating and validating user credentials.
 - [openucx/ucx](https://github.com/openucx/ucx) - Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
 - [JamesTheZ/CudaProf](https://github.com/JamesTheZ/CudaProf) - A profiler for CUDA programs based on CUPTI. Similar to NVIDIA Profiler, but simpler.

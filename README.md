@@ -55,6 +55,7 @@
 
 ## C++ 
 
+- [lammps/lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
 - [martinus/nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20
 - [google/iree](https://github.com/google/iree) - 👻
 - [motine/cppstylelineup](https://github.com/motine/cppstylelineup) - a comparison of common C++ style guides

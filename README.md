@@ -34,6 +34,7 @@
 
 ## C 
 
+- [flame/blis](https://github.com/flame/blis) - BLAS-like Library Instantiation Software Framework
 - [libxsmm/libxsmm](https://github.com/libxsmm/libxsmm) - Library for specialized dense and sparse matrix operations, and deep learning primitives.
 - [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) - Optimized implementations of various library functions for ARM architecture processors
 - [shoaibkamil/stencilprobe](https://github.com/shoaibkamil/stencilprobe) - Stencil Probe - a stencil microbenchmark

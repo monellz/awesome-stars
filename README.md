@@ -7,6 +7,7 @@
 
   - [Assembly](#assembly)
   - [C](#c)
+  - [C#](#c#)
   - [C++](#c++)
   - [CMake](#cmake)
   - [CSS](#css)
@@ -34,6 +35,7 @@
 
 ## C 
 
+- [wdas/partio](https://github.com/wdas/partio) - C++ (with python bindings) library for easily reading/writing/manipulating common animation particle formats such as PDB, BGEO, PTC.   See the discussion group @ http://groups.google.com/group/partio-discuss
 - [flame/blis](https://github.com/flame/blis) - BLAS-like Library Instantiation Software Framework
 - [libxsmm/libxsmm](https://github.com/libxsmm/libxsmm) - Library for specialized dense and sparse matrix operations, and deep learning primitives.
 - [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) - Optimized implementations of various library functions for ARM architecture processors
@@ -54,8 +56,15 @@
 - [rdolbeau/enable_arm_pmu](https://github.com/rdolbeau/enable_arm_pmu) - Forked from https://github.com/thoughtpolice/enable_arm_pmu to enable user-mode access to ARMv8/Linux performance counters
 - [zhiyisun/enable_arm_pmu](https://github.com/zhiyisun/enable_arm_pmu) - Enable user-mode access to ARMv7/Linux performance counters
 
+## C# # 
+
+- [nialltl/incremental_mpm](https://github.com/nialltl/incremental_mpm) - 2D implementation of MLS-MPM for simulating soft bodies and fluids
+
 ## C++ 
 
+- [kuiwuchn/GPUMPM](https://github.com/kuiwuchn/GPUMPM) - 
+- [yuanming-hu/taichi_mpm](https://github.com/yuanming-hu/taichi_mpm) - High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [lammps/lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
 - [martinus/nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20
 - [google/iree](https://github.com/google/iree) - 👻

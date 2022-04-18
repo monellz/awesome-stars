@@ -62,6 +62,8 @@
 
 ## C++ 
 
+- [taichi-dev/taichi_benchmark](https://github.com/taichi-dev/taichi_benchmark) - 
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [kuiwuchn/GPUMPM](https://github.com/kuiwuchn/GPUMPM) - 
 - [yuanming-hu/taichi_mpm](https://github.com/yuanming-hu/taichi_mpm) - High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.

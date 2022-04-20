@@ -52,7 +52,7 @@
 - [openucx/ucx](https://github.com/openucx/ucx) - Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
 - [JamesTheZ/CudaProf](https://github.com/JamesTheZ/CudaProf) - A profiler for CUDA programs based on CUPTI. Similar to NVIDIA Profiler, but simpler.
 - [rmcgibbo/npcuda-example](https://github.com/rmcgibbo/npcuda-example) - Example python (numpy) -- CUDA installable package with a C-extension library
-- [jerinjacobk/armv8_pmu_cycle_counter_el0](https://github.com/jerinjacobk/armv8_pmu_cycle_counter_el0) - 
+- [jerinjacobk/armv8_pmu_cycle_counter_el0](https://github.com/jerinjacobk/armv8_pmu_cycle_counter_el0) - ARMv8 performance monitor from userspace
 - [gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers) - Linux内核与设备驱动程序学习笔记
 - [rdolbeau/enable_arm_pmu](https://github.com/rdolbeau/enable_arm_pmu) - Forked from https://github.com/thoughtpolice/enable_arm_pmu to enable user-mode access to ARMv8/Linux performance counters
 - [zhiyisun/enable_arm_pmu](https://github.com/zhiyisun/enable_arm_pmu) - Enable user-mode access to ARMv7/Linux performance counters
@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [emilk/loguru](https://github.com/emilk/loguru) - A lightweight C++ logging library
 - [taichi-dev/taichi_benchmark](https://github.com/taichi-dev/taichi_benchmark) - 
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [kuiwuchn/GPUMPM](https://github.com/kuiwuchn/GPUMPM) - 
@@ -132,6 +133,7 @@
 
 ## Cuda 
 
+- [penn-graphics-research/claymore](https://github.com/penn-graphics-research/claymore) - 
 - [NVIDIA/nccl-tests](https://github.com/NVIDIA/nccl-tests) - NCCL Tests
 - [oresths/tSparse](https://github.com/oresths/tSparse) - A GPU algorithm for sparse matrix-matrix multiplication
 - [NVIDIA/cub](https://github.com/NVIDIA/cub) - Cooperative primitives for CUDA C++.
@@ -186,6 +188,7 @@
 
 ## Python 
 
+- [taichi-dev/taichi_elements](https://github.com/taichi-dev/taichi_elements) - High-performance multi-material continuum physics engine in Taichi
 - [xinge008/Cylinder3D](https://github.com/xinge008/Cylinder3D) - Rank 1st in the leaderboard of SemanticKITTI semantic segmentation (both single-scan and multi-scan) (Nov. 2020) (CVPR2021 Oral)
 - [traveller59/spconv](https://github.com/traveller59/spconv) - Spatial Sparse Convolution Library
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
@@ -276,7 +279,7 @@
 
 ## Vue 
 
-- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！
+- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 
 
 ## License

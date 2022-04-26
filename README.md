@@ -12,6 +12,7 @@
   - [CMake](#cmake)
   - [CSS](#css)
   - [Cuda](#cuda)
+  - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -142,6 +143,10 @@
 - [xuqiantong/CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.
 - [paramhanji/CUDA-CNN](https://github.com/paramhanji/CUDA-CNN) - Implementation of a simple CNN using CUDA
 
+## Go 
+
+- [z4yx/GoAuthing](https://github.com/z4yx/GoAuthing) - Authentication utility for srun4000 (auth.tsinghua.edu.cn / net.tsinghua.edu.cn / Tsinghua-IPv4)
+
 ## HTML 
 
 - [plctlab/PLCT-Weekly](https://github.com/plctlab/PLCT-Weekly) - 软件所PLCT实验室在开源领域的不定期简报
@@ -188,6 +193,7 @@
 
 ## Python 
 
+- [wzhvictor/bjguahao](https://github.com/wzhvictor/bjguahao) - 北京市预约挂号统一平台脚本(Python3)
 - [taichi-dev/taichi_elements](https://github.com/taichi-dev/taichi_elements) - High-performance multi-material continuum physics engine in Taichi
 - [xinge008/Cylinder3D](https://github.com/xinge008/Cylinder3D) - Rank 1st in the leaderboard of SemanticKITTI semantic segmentation (both single-scan and multi-scan) (Nov. 2020) (CVPR2021 Oral)
 - [traveller59/spconv](https://github.com/traveller59/spconv) - Spatial Sparse Convolution Library

@@ -37,6 +37,7 @@
 
 ## C 
 
+- [pnnl/HiParTI](https://github.com/pnnl/HiParTI) - 
 - [DrTimothyAldenDavis/GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS) - SuiteSparse:GraphBLAS: graph algorithms in the language of linear algebra.  For production: (default) STABLE branch.  Code development: (non-default) MASTER branch. video intro: https://youtu.be/Tj5y6d7FegI . The libgraphblas.so is Apache2 licensed. The MATLAB interface is GNU GPL3. NOTE: PRs without signed CONTRIBUTOR AGREEMENT can't be accepted.
 - [wdas/partio](https://github.com/wdas/partio) - C++ (with python bindings) library for easily reading/writing/manipulating common animation particle formats such as PDB, BGEO, PTC.   See the discussion group @ http://groups.google.com/group/partio-discuss
 - [flame/blis](https://github.com/flame/blis) - BLAS-like Library Instantiation Software Framework
@@ -65,6 +66,7 @@
 
 ## C++ 
 
+- [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 - [emilk/loguru](https://github.com/emilk/loguru) - A lightweight C++ logging library
 - [taichi-dev/taichi_benchmark](https://github.com/taichi-dev/taichi_benchmark) - 
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library

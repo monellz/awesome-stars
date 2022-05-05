@@ -225,7 +225,7 @@
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
 - [kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.47% on CIFAR10 with PyTorch
-- [zgcr/simpleAICV-pytorch-ImageNet-COCO-training](https://github.com/zgcr/simpleAICV-pytorch-ImageNet-COCO-training) - Training examples and results for ImageNet(ILSVRC2012)/COCO2017/VOC2007+VOC2012 datasets.Include ResNet/DarkNet/RegNet/RetinaNet/FCOS/CenterNet/YOLO series.
+- [zgcr/SimpleAICV-pytorch-ImageNet-COCO-training](https://github.com/zgcr/SimpleAICV-pytorch-ImageNet-COCO-training) - SimpleAICV:pytorch training example on ImageNet(ILSVRC2012)/COCO2017/VOC2007+2012 datasets.Include ResNet/DarkNet/RetinaNet/FCOS/CenterNet/TTFNet/YOLOv3/YOLOv4/YOLOv5/YOLOX.
 - [xingyul/sparse-winograd-cnn](https://github.com/xingyul/sparse-winograd-cnn) - Efficient Sparse-Winograd Convolutional Neural Networks (ICLR 2018)
 - [deepglint/EasyQuant](https://github.com/deepglint/EasyQuant) - EasyQuant(EQ) is an efficient and simple post-training quantization method via effectively optimizing the scales of weights and activations.
 - [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.

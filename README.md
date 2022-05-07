@@ -38,8 +38,8 @@
 ## C 
 
 - [pnnl/HiParTI](https://github.com/pnnl/HiParTI) - 
-- [DrTimothyAldenDavis/GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS) - SuiteSparse:GraphBLAS: graph algorithms in the language of linear algebra.  For production: (default) STABLE branch.  Code development: (non-default) MASTER branch. video intro: https://youtu.be/Tj5y6d7FegI . The libgraphblas.so is Apache2 licensed. The MATLAB interface is GNU GPL3. NOTE: PRs without signed CONTRIBUTOR AGREEMENT can't be accepted.
-- [wdas/partio](https://github.com/wdas/partio) - C++ (with python bindings) library for easily reading/writing/manipulating common animation particle formats such as PDB, BGEO, PTC.   See the discussion group @ http://groups.google.com/group/partio-discuss
+- [DrTimothyAldenDavis/GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS) - SuiteSparse:GraphBLAS: graph algorithms in the language of linear algebra.  For production: (default) STABLE branch.  Code development: (non-default) MASTER branch. video intro: https://youtu.be/Tj5y6
+- [wdas/partio](https://github.com/wdas/partio) - C++ (with python bindings) library for easily reading/writing/manipulating common animation particle formats such as PDB, BGEO, PTC.   See the discussion group @ http://groups.google.com/group/partio-
 - [flame/blis](https://github.com/flame/blis) - BLAS-like Library Instantiation Software Framework
 - [libxsmm/libxsmm](https://github.com/libxsmm/libxsmm) - Library for specialized dense and sparse matrix operations, and deep learning primitives.
 - [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) - Optimized implementations of various library functions for ARM architecture processors
@@ -49,6 +49,7 @@
 - [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [csehydrogen/Winograd-OpenCL](https://github.com/csehydrogen/Winograd-OpenCL) - Winograd-based convolution implementation in OpenCL
 - [IO500/io500](https://github.com/IO500/io500) - IO500 Storage Benchmark source code
+- [madsys-dev/syscall_intercept](https://github.com/madsys-dev/syscall_intercept) - The system call intercepting library
 - [mirror/ncurses](https://github.com/mirror/ncurses) - ncurses Git mirror
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
 - [dun/munge](https://github.com/dun/munge) - MUNGE (MUNGE Uid 'N' Gid Emporium) is an authentication service for creating and validating user credentials.
@@ -97,7 +98,7 @@
 - [Exa-Graph/vite](https://github.com/Exa-Graph/vite) - MPI+OpenMP implementation of Louvain method for Graph Community Detection, with a number of parallel heuristics/approximate computing techniques
 - [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - RowMajor sgemm optimization
 - [thedoctar/uCLbench](https://github.com/thedoctar/uCLbench) - Set of OpenCL microbenchmarks
-- [ppplinday/alexnet-armcomputelibrary-android-withoutfc67](https://github.com/ppplinday/alexnet-armcomputelibrary-android-withoutfc67) - I deleted fullconnectlayer6 and 7 in order to make a small model so that I can load this model to my phone. The purpose of this program is to compare performanc between tensorflow and arm compute library in android phone
+- [ppplinday/alexnet-armcomputelibrary-android-withoutfc67](https://github.com/ppplinday/alexnet-armcomputelibrary-android-withoutfc67) - I deleted fullconnectlayer6 and 7 in order to make a small model so that I can load this model to my phone. The purpose of this program is to compare performanc between tensorflow and arm compute libr
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [yeshaokai/ADMM-NN](https://github.com/yeshaokai/ADMM-NN) - 
 - [Exa-Graph/miniVite](https://github.com/Exa-Graph/miniVite) - MPI+OpenMP implementation of the first phase of Louvain method for Graph Community Detection
@@ -186,7 +187,6 @@
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [abertsch/Menlo-for-Powerline](https://github.com/abertsch/Menlo-for-Powerline) - Menlo font patched to work with Powerline
-- [madsys-dev/syscall_intercept](https://github.com/madsys-dev/syscall_intercept) - The system call intercepting library
 - [matt77hias/smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
@@ -213,7 +213,7 @@
 - [baidu/Senta](https://github.com/baidu/Senta) - Baidu's open-source Sentiment Analysis System.
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
 - [Python3Spiders/WeiboSuperSpider](https://github.com/Python3Spiders/WeiboSuperSpider) - 最强微博爬虫，用户、话题、评论一网打尽。图片下载、情感分析，地理位置、关系网络等功能应有尽有。Docs：https://buyixiao.github.io/blog/weibo-super-spider.html 配套可视化网站：https://buyixiao.github.io/blog/one-stop-weibo-visualization.html
-- [ctuning/ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta packages (code, data sets, models, scripts, etc) with the possibility of multiple versions to co-exist in a user or system environment:
+- [ctuning/ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta
 - [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
 - [BBuf/onnx2X](https://github.com/BBuf/onnx2X) - ONNX2Pytorch
 - [daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model
@@ -262,7 +262,7 @@
 - [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
 - [SC-Tech-Program/Author-Kit](https://github.com/SC-Tech-Program/Author-Kit) - Instructions and templates for SC authors
 - [mengzhuo/hikey970-ubuntu-image](https://github.com/mengzhuo/hikey970-ubuntu-image) - 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Swift 
 

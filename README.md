@@ -29,7 +29,6 @@
 - [TypeScript](#typescript)
 - [VHDL](#vhdl)
 - [Vim script](#vim-script)
-- [Vue](#vue)
 
 ## Assembly 
 
@@ -275,6 +274,7 @@
 
 ## TypeScript 
 
+- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [robindijkhof/overleaf-textarea](https://github.com/robindijkhof/overleaf-textarea) - This plugin displays your tex source in a textarea so plugins like grammarly can check it.
 
 ## VHDL 
@@ -285,10 +285,6 @@
 
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
-
-## Vue 
-
-- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 
 
 ## License

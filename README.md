@@ -66,6 +66,7 @@
 
 ## C++ 
 
+- [roastduck/FreeTensor](https://github.com/roastduck/FreeTensor) - A language and compiler for irregular tensor programs.
 - [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 - [emilk/loguru](https://github.com/emilk/loguru) - A lightweight C++ logging library
 - [taichi-dev/taichi_benchmark](https://github.com/taichi-dev/taichi_benchmark) - 

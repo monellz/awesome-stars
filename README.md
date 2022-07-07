@@ -97,6 +97,7 @@
 - [facebookresearch/SparseConvNet](https://github.com/facebookresearch/SparseConvNet) - Submanifold sparse convolutional networks
 - [clevercool/TileSparsity](https://github.com/clevercool/TileSparsity) - 
 - [Exa-Graph/vite](https://github.com/Exa-Graph/vite) - MPI+OpenMP implementation of Louvain method for Graph Community Detection, with a number of parallel heuristics/approximate computing techniques
+- [daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model
 - [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - RowMajor sgemm optimization
 - [thedoctar/uCLbench](https://github.com/thedoctar/uCLbench) - Set of OpenCL microbenchmarks
 - [ppplinday/alexnet-armcomputelibrary-android-withoutfc67](https://github.com/ppplinday/alexnet-armcomputelibrary-android-withoutfc67) - I deleted fullconnectlayer6 and 7 in order to make a small model so that I can load this model to my phone. The purpose of this program is to compare performanc between tensorflow and arm compute libr
@@ -216,7 +217,6 @@
 - [ctuning/ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta 
 - [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
 - [BBuf/onnx2X](https://github.com/BBuf/onnx2X) - ONNX2Pytorch
-- [daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model
 - [CoCoPIE-Pruning/CoCoPIE-ModelZoo](https://github.com/CoCoPIE-Pruning/CoCoPIE-ModelZoo) - 
 - [NVIDIA/PyProf](https://github.com/NVIDIA/PyProf) - A GPU performance profiling tool for PyTorch models
 - [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch

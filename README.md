@@ -36,6 +36,7 @@
 
 ## C 
 
+- [Mantevo/miniAMR](https://github.com/Mantevo/miniAMR) - MiniAMR Adaptive Mesh Refinement (AMR) Mini-App
 - [ShadenSmith/splatt](https://github.com/ShadenSmith/splatt) - The Surprisingly ParalleL spArse Tensor Toolkit.
 - [pnnl/HiParTI](https://github.com/pnnl/HiParTI) - 
 - [DrTimothyAldenDavis/GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS) - SuiteSparse:GraphBLAS: graph algorithms in the language of linear algebra.  For production: (default) STABLE branch.  Code development: (non-default) MASTER branch. video intro: https://youtu.be/Tj5y6

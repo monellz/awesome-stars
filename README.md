@@ -194,7 +194,7 @@
 - [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [benkoo/ComputationalThinking_2020Spring](https://github.com/benkoo/ComputationalThinking_2020Spring) - Computational Thinking and System Design 2020 Spring
-- [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享 - Program algorithm learning materials collection in Chinese
+- [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 
 ## Python 
 

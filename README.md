@@ -97,14 +97,14 @@
 - [cusplibrary/cusplibrary](https://github.com/cusplibrary/cusplibrary) - CUSP : A C++ Templated Sparse Matrix Library
 - [facebookresearch/SparseConvNet](https://github.com/facebookresearch/SparseConvNet) - Submanifold sparse convolutional networks
 - [clevercool/TileSparsity](https://github.com/clevercool/TileSparsity) - 
-- [Exa-Graph/vite](https://github.com/Exa-Graph/vite) - MPI+OpenMP implementation of Louvain method for Graph Community Detection, with a number of parallel heuristics/approximate computing techniques
+- [ECP-ExaGraph/vite](https://github.com/ECP-ExaGraph/vite) - MPI+OpenMP implementation of Louvain method for Graph Community Detection, with a number of parallel heuristics/approximate computing techniques
 - [daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model
 - [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - RowMajor sgemm optimization
 - [thedoctar/uCLbench](https://github.com/thedoctar/uCLbench) - Set of OpenCL microbenchmarks
 - [ppplinday/alexnet-armcomputelibrary-android-withoutfc67](https://github.com/ppplinday/alexnet-armcomputelibrary-android-withoutfc67) - I deleted fullconnectlayer6 and 7 in order to make a small model so that I can load this model to my phone. The purpose of this program is to compare performanc between tensorflow and arm compute libr
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [yeshaokai/ADMM-NN](https://github.com/yeshaokai/ADMM-NN) - 
-- [Exa-Graph/miniVite](https://github.com/Exa-Graph/miniVite) - MPI+OpenMP implementation of the first phase of Louvain method for Graph Community Detection
+- [ECP-ExaGraph/miniVite](https://github.com/ECP-ExaGraph/miniVite) - MPI+OpenMP implementation of the first phase of Louvain method for Graph Community Detection
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 - [ARM-software/gator](https://github.com/ARM-software/gator) - Sources for Arm Streamline's gator daemon
 - [agauniyal/rang](https://github.com/agauniyal/rang) - A Minimal, Header only Modern c++ library for terminal goodies 💄✨

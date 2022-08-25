@@ -28,7 +28,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [VHDL](#vhdl)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 
 ## Assembly 
 
@@ -284,7 +284,7 @@
 
 - [sunwx17/IntoMips](https://github.com/sunwx17/IntoMips) - IntoMips
 
-## Vim script 
+## Vim Script 
 
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager

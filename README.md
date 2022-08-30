@@ -142,6 +142,7 @@
 ## Cuda 
 
 - [penn-graphics-research/claymore](https://github.com/penn-graphics-research/claymore) - 
+- [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - [MLSys'22] TorchSparse: Efficient Point Cloud Inference Engine
 - [NVIDIA/nccl-tests](https://github.com/NVIDIA/nccl-tests) - NCCL Tests
 - [oresths/tSparse](https://github.com/oresths/tSparse) - A GPU algorithm for sparse matrix-matrix multiplication
 - [NVIDIA/cub](https://github.com/NVIDIA/cub) - Cooperative primitives for CUDA C++.
@@ -205,7 +206,6 @@
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [mit-han-lab/spvnas](https://github.com/mit-han-lab/spvnas) - [ECCV 2020] Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution
 - [aRI0U/RandLA-Net-pytorch](https://github.com/aRI0U/RandLA-Net-pytorch) - PyTorch implementation of RandLA-Net
-- [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - [MLSys'22] TorchSparse: Efficient Point Cloud Inference Engine
 - [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) - Papers and Datasets  about Point Cloud.
 - [DylanWusee/pointconv_pytorch](https://github.com/DylanWusee/pointconv_pytorch) - pytorch version of PointConv
 - [Jittor/PointCloudLib](https://github.com/Jittor/PointCloudLib) - Jittor Library for Point Cloud Processing

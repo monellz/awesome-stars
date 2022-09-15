@@ -171,6 +171,7 @@
 
 ## Jupyter Notebook 
 
+- [NJUVISION/SparsePCGC](https://github.com/NJUVISION/SparsePCGC) - Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression
 - [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
 
 ## MLIR 
@@ -200,6 +201,8 @@
 
 ## Python 
 
+- [skyhehe123/SA-SSD](https://github.com/skyhehe123/SA-SSD) - SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud (CVPR 2020)
+- [jac99/MinkLoc3D](https://github.com/jac99/MinkLoc3D) - MinkLoc3D: Point Cloud Based Large-Scale Place Recognition
 - [travitch/whole-program-llvm](https://github.com/travitch/whole-program-llvm) - A wrapper script to build whole-program LLVM bitcode files
 - [wzhvictor/bjguahao](https://github.com/wzhvictor/bjguahao) - 北京市预约挂号统一平台脚本(Python3)
 - [taichi-dev/taichi_elements](https://github.com/taichi-dev/taichi_elements) - High-performance multi-material continuum physics engine in Taichi

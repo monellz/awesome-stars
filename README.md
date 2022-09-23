@@ -68,6 +68,9 @@
 
 ## C++ 
 
+- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
+- [llohse/libnpy](https://github.com/llohse/libnpy) - C++ library for reading and writing of numpy's .npy files
+- [rogersce/cnpy](https://github.com/rogersce/cnpy) - library to read/write .npy and .npz files in C/C++
 - [roastduck/FreeTensor](https://github.com/roastduck/FreeTensor) - A language and compiler for irregular tensor programs.
 - [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 - [emilk/loguru](https://github.com/emilk/loguru) - A lightweight C++ logging library

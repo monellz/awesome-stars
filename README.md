@@ -68,6 +68,7 @@
 
 ## C++ 
 
+- [zhang677/segTACO](https://github.com/zhang677/segTACO) - 
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [llohse/libnpy](https://github.com/llohse/libnpy) - C++ library for reading and writing of numpy's .npy files
 - [rogersce/cnpy](https://github.com/rogersce/cnpy) - library to read/write .npy and .npz files in C/C++

@@ -206,6 +206,7 @@
 
 ## Python 
 
+- [bilibili/ailab](https://github.com/bilibili/ailab) - 
 - [jgwak/GSDN](https://github.com/jgwak/GSDN) - Generative Sparse Detection Networks for 3D Single-shot Object Detection
 - [skyhehe123/SA-SSD](https://github.com/skyhehe123/SA-SSD) - SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud (CVPR 2020)
 - [jac99/MinkLoc3D](https://github.com/jac99/MinkLoc3D) - MinkLoc3D: Point Cloud Based Large-Scale Place Recognition

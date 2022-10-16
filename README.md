@@ -52,7 +52,7 @@
 - [IO500/io500](https://github.com/IO500/io500) - IO500 Storage Benchmark source code
 - [madsys-dev/syscall_intercept](https://github.com/madsys-dev/syscall_intercept) - The system call intercepting library
 - [mirror/ncurses](https://github.com/mirror/ncurses) - ncurses Git mirror
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD, Intel and NVIDIA GPUs process monitoring
 - [dun/munge](https://github.com/dun/munge) - MUNGE (MUNGE Uid 'N' Gid Emporium) is an authentication service for creating and validating user credentials.
 - [openucx/ucx](https://github.com/openucx/ucx) - Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
 - [JamesTheZ/CudaProf](https://github.com/JamesTheZ/CudaProf) - A profiler for CUDA programs based on CUPTI. Similar to NVIDIA Profiler, but simpler.
@@ -239,7 +239,7 @@
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
 - [kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.47% on CIFAR10 with PyTorch
-- [zgcr/SimpleAICV_pytorch_ImageNet_COCO_training](https://github.com/zgcr/SimpleAICV_pytorch_ImageNet_COCO_training) - SimpleAICV:pytorch training example on ImageNet(ILSVRC2012)/COCO2017/VOC2007+2012 datasets.Include ResNet/DarkNet/RepVGG/RegNetX/RetinaNet/FCOS/CenterNet/TTFNet.
+- [zgcr/SimpleAICV_pytorch_ImageNet_COCO_ADE20K_training](https://github.com/zgcr/SimpleAICV_pytorch_ImageNet_COCO_ADE20K_training) - SimpleAICV:pytorch training and testing examples on ImageNet(ILSVRC2012)/COCO2017/VOC2007+2012/CIFAR100/AED20K datasets.
 - [xingyul/sparse-winograd-cnn](https://github.com/xingyul/sparse-winograd-cnn) - Efficient Sparse-Winograd Convolutional Neural Networks (ICLR 2018)
 - [deepglint/EasyQuant](https://github.com/deepglint/EasyQuant) - EasyQuant(EQ) is an efficient and simple post-training quantization method via effectively optimizing the scales of weights and activations.
 - [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.

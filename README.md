@@ -75,7 +75,6 @@
 - [roastduck/FreeTensor](https://github.com/roastduck/FreeTensor) - A language and compiler for irregular tensor programs.
 - [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 - [emilk/loguru](https://github.com/emilk/loguru) - A lightweight C++ logging library
-- [taichi-dev/taichi_benchmark](https://github.com/taichi-dev/taichi_benchmark) - 
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [kuiwuchn/GPUMPM](https://github.com/kuiwuchn/GPUMPM) - 
 - [yuanming-hu/taichi_mpm](https://github.com/yuanming-hu/taichi_mpm) - High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
@@ -214,6 +213,7 @@
 - [travitch/whole-program-llvm](https://github.com/travitch/whole-program-llvm) - A wrapper script to build whole-program LLVM bitcode files
 - [wzhvictor/bjguahao](https://github.com/wzhvictor/bjguahao) - 北京市预约挂号统一平台脚本(Python3)
 - [taichi-dev/taichi_elements](https://github.com/taichi-dev/taichi_elements) - High-performance multi-material continuum physics engine in Taichi
+- [taichi-dev/taichi_benchmark](https://github.com/taichi-dev/taichi_benchmark) - 
 - [xinge008/Cylinder3D](https://github.com/xinge008/Cylinder3D) - Rank 1st in the leaderboard of SemanticKITTI semantic segmentation (both single-scan and multi-scan) (Nov. 2020) (CVPR2021 Oral)
 - [traveller59/spconv](https://github.com/traveller59/spconv) - Spatial Sparse Convolution Library
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.

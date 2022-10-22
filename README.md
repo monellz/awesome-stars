@@ -52,7 +52,7 @@
 - [IO500/io500](https://github.com/IO500/io500) - IO500 Storage Benchmark source code
 - [madsys-dev/syscall_intercept](https://github.com/madsys-dev/syscall_intercept) - The system call intercepting library
 - [mirror/ncurses](https://github.com/mirror/ncurses) - ncurses Git mirror
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD, Intel and NVIDIA GPUs process monitoring
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
 - [dun/munge](https://github.com/dun/munge) - MUNGE (MUNGE Uid 'N' Gid Emporium) is an authentication service for creating and validating user credentials.
 - [openucx/ucx](https://github.com/openucx/ucx) - Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
 - [JamesTheZ/CudaProf](https://github.com/JamesTheZ/CudaProf) - A profiler for CUDA programs based on CUPTI. Similar to NVIDIA Profiler, but simpler.
@@ -205,6 +205,7 @@
 
 ## Python 
 
+- [rabbit72/single-source](https://github.com/rabbit72/single-source) - Access to the project version in Python code for PEP 621-style projects
 - [drdarshan/ssgetpy](https://github.com/drdarshan/ssgetpy) - A searchable Python interface to the SuiteSparse Matrix Collection
 - [bilibili/ailab](https://github.com/bilibili/ailab) - 
 - [jgwak/GSDN](https://github.com/jgwak/GSDN) - Generative Sparse Detection Networks for 3D Single-shot Object Detection

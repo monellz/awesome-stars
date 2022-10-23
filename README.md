@@ -205,6 +205,7 @@
 
 ## Python 
 
+- [dmontagu/setuptools-cpp](https://github.com/dmontagu/setuptools-cpp) - Simplified packaging for pybind11-based C++ extensions
 - [rabbit72/single-source](https://github.com/rabbit72/single-source) - Access to the project version in Python code for PEP 621-style projects
 - [drdarshan/ssgetpy](https://github.com/drdarshan/ssgetpy) - A searchable Python interface to the SuiteSparse Matrix Collection
 - [bilibili/ailab](https://github.com/bilibili/ailab) - 

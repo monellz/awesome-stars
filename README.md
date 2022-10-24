@@ -64,6 +64,7 @@
 
 ## C# # 
 
+- [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
 - [nialltl/incremental_mpm](https://github.com/nialltl/incremental_mpm) - 2D implementation of MLS-MPM for simulating soft bodies and fluids
 
 ## C++ 

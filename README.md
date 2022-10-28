@@ -265,6 +265,7 @@
 
 ## Rust 
 
+- [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端，UWP 与移动平台见 TsinghuaNet
 - [mackwic/colored](https://github.com/mackwic/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [constellation-rs/amadeus](https://github.com/constellation-rs/amadeus) - Harmonious distributed data analysis in Rust.

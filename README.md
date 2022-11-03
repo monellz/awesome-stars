@@ -36,6 +36,7 @@
 
 ## C 
 
+- [HipGraph/FusedMM](https://github.com/HipGraph/FusedMM) - Implementation of FusedMM method for IPDPS 2021 paper titled "FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks"
 - [Mantevo/miniAMR](https://github.com/Mantevo/miniAMR) - MiniAMR Adaptive Mesh Refinement (AMR) Mini-App
 - [ShadenSmith/splatt](https://github.com/ShadenSmith/splatt) - The Surprisingly ParalleL spArse Tensor Toolkit.
 - [pnnl/HiParTI](https://github.com/pnnl/HiParTI) - 
@@ -206,6 +207,7 @@
 
 ## Python 
 
+- [PointsCoder/VOTR](https://github.com/PointsCoder/VOTR) - Voxel Transformer for 3D object detection
 - [dmontagu/setuptools-cpp](https://github.com/dmontagu/setuptools-cpp) - Simplified packaging for pybind11-based C++ extensions
 - [rabbit72/single-source](https://github.com/rabbit72/single-source) - Access to the project version in Python code for PEP 621-style projects
 - [drdarshan/ssgetpy](https://github.com/drdarshan/ssgetpy) - A searchable Python interface to the SuiteSparse Matrix Collection

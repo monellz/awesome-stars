@@ -195,6 +195,7 @@
 
 ## Others 
 
+- [lahoud/3d-vision-transformers](https://github.com/lahoud/3d-vision-transformers) - A list of 3D computer vision papers with Transformers
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
@@ -209,6 +210,11 @@
 
 ## Python 
 
+- [sunwx17/Equivalence-checking](https://github.com/sunwx17/Equivalence-checking) - codes for https://arxiv.org/abs/2105.02634
+- [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
+- [kshitij12345/torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler) - Context Manager to profile the forward and backward times of PyTorch's nn.Module
+- [tusen-ai/SST](https://github.com/tusen-ai/SST) - Codes for “Fully Sparse 3D Object Detection” & “Embracing Single Stride 3D Object Detector with Sparse Transformer”
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [PointsCoder/VOTR](https://github.com/PointsCoder/VOTR) - Voxel Transformer for 3D object detection
 - [dmontagu/setuptools-cpp](https://github.com/dmontagu/setuptools-cpp) - Simplified packaging for pybind11-based C++ extensions
 - [rabbit72/single-source](https://github.com/rabbit72/single-source) - Access to the project version in Python code for PEP 621-style projects

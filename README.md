@@ -213,6 +213,7 @@
 
 ## Python 
 
+- [cea-hpc/clustershell](https://github.com/cea-hpc/clustershell) - Scalable cluster administration Python framework — Manage node sets, node groups and execute commands on cluster nodes in parallel.
 - [sunwx17/Equivalence-checking](https://github.com/sunwx17/Equivalence-checking) - codes for https://arxiv.org/abs/2105.02634
 - [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [kshitij12345/torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler) - Context Manager to profile the forward and backward times of PyTorch's nn.Module

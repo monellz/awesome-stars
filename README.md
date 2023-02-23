@@ -84,7 +84,7 @@
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [lammps/lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
 - [martinus/nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20
-- [openxla/iree](https://github.com/openxla/iree) - 👻
+- [openxla/iree](https://github.com/openxla/iree) - An MLIR-based end-to-end compiler and runtime that lowers Machine Learning models to a unified IR that scales up to meet the needs of the datacenter and down to satisfy the constraints and special con
 - [motine/cppstylelineup](https://github.com/motine/cppstylelineup) - a comparison of common C++ style guides
 - [ToruNiina/toml11](https://github.com/ToruNiina/toml11) - TOML for Modern C++
 - [ezaquarii/bison-flex-cpp-example](https://github.com/ezaquarii/bison-flex-cpp-example) - GNU Bison and GNU Flex C++ example

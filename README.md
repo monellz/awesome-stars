@@ -70,6 +70,7 @@
 
 ## C++ 
 
+- [Shigangli/Magicube](https://github.com/Shigangli/Magicube) - Magicube is a high-performance library for quantized sparse matrix operations (SpMM and SDDMM) of deep learning on Tensor Cores.
 - [cyclops-community/ctf](https://github.com/cyclops-community/ctf) - Cyclops Tensor Framework: parallel arithmetic on multidimensional arrays
 - [zhang677/segTACO](https://github.com/zhang677/segTACO) - 
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler

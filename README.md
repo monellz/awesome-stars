@@ -148,6 +148,7 @@
 
 ## Cuda 
 
+- [jeewhanchoi/blocked-linearized-coordinate](https://github.com/jeewhanchoi/blocked-linearized-coordinate) - 
 - [owensgroup/BGHT](https://github.com/owensgroup/BGHT) - BGHT: High-performance static GPU hash tables.
 - [openai/blocksparse](https://github.com/openai/blocksparse) - Efficient GPU kernels for block-sparse matrix multiplication and convolution
 - [penn-graphics-research/claymore](https://github.com/penn-graphics-research/claymore) - 

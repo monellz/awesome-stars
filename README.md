@@ -19,6 +19,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [MLIR](#mlir)
 - [Markdown](#markdown)
+- [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Others](#others)
 - [Python](#python)
@@ -177,6 +178,7 @@
 
 ## JavaScript 
 
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 
@@ -193,12 +195,18 @@
 
 - [KaiserY/rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) - rust 程序设计语言 中文版
 
+## Objective-C 
+
+- [yaqinking/DMHY](https://github.com/yaqinking/DMHY) - Easily download/autodownload torrent(s) from share.dmhy.org/acg.rip etc. sites for OS X
+
 ## Objective-C++ 
 
 - [rsnemmen/OpenCL-examples](https://github.com/rsnemmen/OpenCL-examples) - Simple OpenCL examples for exploiting GPU computing
 
 ## Others 
 
+- [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - 
+- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [pb0316/thuhole_memories](https://github.com/pb0316/thuhole_memories) - 
 - [TianhaoFu/Awesome-3D-Object-Detection](https://github.com/TianhaoFu/Awesome-3D-Object-Detection) - Papers, code and datasets about deep learning for 3D Object Detection.
 - [lahoud/3d-vision-transformers](https://github.com/lahoud/3d-vision-transformers) - A list of 3D computer vision papers with Transformers
@@ -303,6 +311,7 @@
 
 ## Swift 
 
+- [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
 ## TeX 
@@ -312,6 +321,7 @@
 
 ## TypeScript 
 
+- [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!

@@ -263,7 +263,7 @@
 - [WangYueFt/dgcnn](https://github.com/WangYueFt/dgcnn) - 
 - [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
 - [baidu/Senta](https://github.com/baidu/Senta) - Baidu's open-source Sentiment Analysis System.
-- [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
+- [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [Python3Spiders/WeiboSuperSpider](https://github.com/Python3Spiders/WeiboSuperSpider) - 微博爬虫及配套工具箱，微博用户、话题、评论采集一网打尽。图片下载、情感分析，地理位置、关系网络、spammer 机器人识别等功能应有尽有。Docs：https://buyixiao.github.io/blog/weibo-super-spider.html 配套可视化网站：https://buyixiao.github.io/blog/one-stop-weibo-visualization.h
 - [ctuning/ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta 
 - [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据

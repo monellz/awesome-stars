@@ -43,7 +43,7 @@
 - [Mantevo/miniAMR](https://github.com/Mantevo/miniAMR) - MiniAMR Adaptive Mesh Refinement (AMR) Mini-App
 - [ShadenSmith/splatt](https://github.com/ShadenSmith/splatt) - The Surprisingly ParalleL spArse Tensor Toolkit.
 - [pnnl/HiParTI](https://github.com/pnnl/HiParTI) - 
-- [DrTimothyAldenDavis/GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS) - SuiteSparse:GraphBLAS: graph algorithms in the language of linear algebra.  For production: (default) STABLE branch.  Code development: (non-default) MASTER branch. video intro: https://youtu.be/Tj5y6
+- [DrTimothyAldenDavis/GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS) - SuiteSparse:GraphBLAS: graph algorithms in the language of linear algebra.  For production: (default) STABLE branch.  Code development: ask me for the right branch before submitting a PR. video intro:
 - [wdas/partio](https://github.com/wdas/partio) - C++ (with python bindings) library for easily reading/writing/manipulating common animation particle formats such as PDB, BGEO, PTC. https://wdas.github.io/partio
 - [flame/blis](https://github.com/flame/blis) - BLAS-like Library Instantiation Software Framework
 - [libxsmm/libxsmm](https://github.com/libxsmm/libxsmm) - Library for specialized dense and sparse matrix operations, and deep learning primitives.
@@ -73,6 +73,7 @@
 
 ## C++ 
 
+- [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [UoB-HPC/BabelStream](https://github.com/UoB-HPC/BabelStream) - STREAM, for lots of devices written in many programming models
 - [Shigangli/Magicube](https://github.com/Shigangli/Magicube) - Magicube is a high-performance library for quantized sparse matrix operations (SpMM and SDDMM) of deep learning on Tensor Cores.
 - [cyclops-community/ctf](https://github.com/cyclops-community/ctf) - Cyclops Tensor Framework: parallel arithmetic on multidimensional arrays
@@ -228,6 +229,7 @@
 
 ## Python 
 
+- [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 - [fundamentalvision/Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) - Deformable DETR: Deformable Transformers for End-to-End Object Detection.
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.

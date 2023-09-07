@@ -145,7 +145,7 @@
 
 - [CLIUtils/cmake](https://github.com/CLIUtils/cmake) - A set of cmake modules to assist in building code
 - [bilke/cmake-modules](https://github.com/bilke/cmake-modules) - Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)
-- [StableCoder/cmake-scripts](https://github.com/StableCoder/cmake-scripts) - A selection of useful scripts for use in CMake projects, include code coverage, sanitizers, and dependency graph generation.
+- [StableCoder/cmake-scripts](https://github.com/StableCoder/cmake-scripts) - Easy-to-add enhancements for any C/C++ CMake project.  Including AFL fuzzing, code-coverage, Thread/Address/Leak/Address/undefined sanitizer instrumentation, compilation of GLSL shaders and more.
 
 ## CSS 
 
@@ -153,6 +153,7 @@
 
 ## Cuda 
 
+- [lucidrains/flash-cosine-sim-attention](https://github.com/lucidrains/flash-cosine-sim-attention) - Implementation of fused cosine similarity attention in the same style as Flash Attention
 - [jeewhanchoi/blocked-linearized-coordinate](https://github.com/jeewhanchoi/blocked-linearized-coordinate) - 
 - [owensgroup/BGHT](https://github.com/owensgroup/BGHT) - BGHT: High-performance static GPU hash tables.
 - [openai/blocksparse](https://github.com/openai/blocksparse) - Efficient GPU kernels for block-sparse matrix multiplication and convolution
@@ -229,6 +230,8 @@
 
 ## Python 
 
+- [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - EfficientViT is a new family of vision models for efficient high-resolution vision.
+- [maggiez0138/Swin-Transformer-TensorRT](https://github.com/maggiez0138/Swin-Transformer-TensorRT) - This project aims to explore the deployment of Swin-Transformer based on TensorRT, including the test results of FP16 and INT8.
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.

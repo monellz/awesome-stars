@@ -211,6 +211,7 @@
 
 ## Others 
 
+- [DirtyHarryLYL/Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision) - Recent Transformer-based CV and related works.
 - [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - 
 - [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [pb0316/thuhole_memories](https://github.com/pb0316/thuhole_memories) - 
@@ -230,6 +231,7 @@
 
 ## Python 
 
+- [zkkli/I-ViT](https://github.com/zkkli/I-ViT) - [ICCV 2023] I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference
 - [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - EfficientViT is a new family of vision models for efficient high-resolution vision.
 - [maggiez0138/Swin-Transformer-TensorRT](https://github.com/maggiez0138/Swin-Transformer-TensorRT) - This project aims to explore the deployment of Swin-Transformer based on TensorRT, including the test results of FP16 and INT8.
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 

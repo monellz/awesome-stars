@@ -38,6 +38,7 @@
 
 ## C 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [SuperScientificSoftwareLaboratory/TileSpGEMM](https://github.com/SuperScientificSoftwareLaboratory/TileSpGEMM) - Source code of the PPoPP '22 paper: "TileSpGEMM: A Tiled Algorithm for Parallel Sparse General Matrix-Matrix Multiplication on GPUs" by Yuyao Niu, Zhengyang Lu, Haonan Ji, Shuhui Song, Zhou Jin, and W
 - [HipGraph/FusedMM](https://github.com/HipGraph/FusedMM) - Implementation of FusedMM method for IPDPS 2021 paper titled "FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks"
 - [Mantevo/miniAMR](https://github.com/Mantevo/miniAMR) - MiniAMR Adaptive Mesh Refinement (AMR) Mini-App
@@ -231,6 +232,9 @@
 
 ## Python 
 
+- [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch
+- [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - A series of large language models developed by Baichuan Intelligent Technology
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [zkkli/I-ViT](https://github.com/zkkli/I-ViT) - [ICCV 2023] I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference
 - [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - EfficientViT is a new family of vision models for efficient high-resolution vision.
 - [maggiez0138/Swin-Transformer-TensorRT](https://github.com/maggiez0138/Swin-Transformer-TensorRT) - This project aims to explore the deployment of Swin-Transformer based on TensorRT, including the test results of FP16 and INT8.

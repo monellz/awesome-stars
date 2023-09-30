@@ -121,7 +121,7 @@
 - [yeshaokai/ADMM-NN](https://github.com/yeshaokai/ADMM-NN) - 
 - [ECP-ExaGraph/miniVite](https://github.com/ECP-ExaGraph/miniVite) - MPI+OpenMP implementation of the first phase of Louvain method for Graph Community Detection
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
-- [ARM-software/gator](https://github.com/ARM-software/gator) - Sources for Arm Streamline's gator daemon
+- [ARM-software/gator](https://github.com/ARM-software/gator) - Sources for Arm Streamline's gator daemon, part of Arm Mobile Studio suite of performance analysis tools
 - [agauniyal/rang](https://github.com/agauniyal/rang) - A Minimal, Header only Modern c++ library for terminal goodies 💄✨
 - [dafadey/GPGPU_OpenCL_vs_CUDA](https://github.com/dafadey/GPGPU_OpenCL_vs_CUDA) - This is a repository with sample codes for testing memory bandwidth, arithmetic latency hiding and shared/local memory performance on AMD and nVidia devices
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.

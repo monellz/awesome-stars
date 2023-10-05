@@ -106,7 +106,7 @@
 - [Ewenwan/llvm-clang-samples](https://github.com/Ewenwan/llvm-clang-samples) - 利用LLVM，Clang制作自己的编译器 UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [Tessil/robin-map](https://github.com/Tessil/robin-map) - C++ implementation of a fast hash map and hash set using robin hood hashing
 - [yuyangJin/data-flow-analyzer](https://github.com/yuyangJin/data-flow-analyzer) - Analyze data flow graph for C/C++/Fortran (maybe) programs.
-- [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
+- [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - [ARCHIVED] The C++ parallel algorithms library. See https://github.com/NVIDIA/cccl
 - [ginkgo-project/ginkgo](https://github.com/ginkgo-project/ginkgo) - Numerical linear algebra software package
 - [andygongyb/SparseTrain](https://github.com/andygongyb/SparseTrain) - SparseTrain: Leveraging Dynamic Sparsity in Training DNNs on General-Purpose SIMD Processors
 - [cusplibrary/cusplibrary](https://github.com/cusplibrary/cusplibrary) - CUSP : A C++ Templated Sparse Matrix Library
@@ -135,7 +135,7 @@
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [kthohr/gcem](https://github.com/kthohr/gcem) - A C++ compile-time math library using generalized constant expressions
-- [NVIDIA/libcudacxx](https://github.com/NVIDIA/libcudacxx) - The C++ Standard Library for your entire system.
+- [NVIDIA/libcudacxx](https://github.com/NVIDIA/libcudacxx) - [ARCHIVED] The C++ Standard Library for your entire system. See https://github.com/NVIDIA/cccl
 - [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
 - [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) - Header-only TOML config file parser and serializer for C++17.
 - [TrivialCompiler/TrivialCompiler](https://github.com/TrivialCompiler/TrivialCompiler) - A toy compiler written in C++17 that translates SysY (a C-like toy language) into ARM-v7a assembly.
@@ -164,7 +164,7 @@
 - [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - [MLSys'22] TorchSparse: Efficient Point Cloud Inference Engine
 - [NVIDIA/nccl-tests](https://github.com/NVIDIA/nccl-tests) - NCCL Tests
 - [oresths/tSparse](https://github.com/oresths/tSparse) - A GPU algorithm for sparse matrix-matrix multiplication
-- [NVIDIA/cub](https://github.com/NVIDIA/cub) - Cooperative primitives for CUDA C++.
+- [NVIDIA/cub](https://github.com/NVIDIA/cub) - [ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl
 - [lenLRX/AmpereSparseMatmul](https://github.com/lenLRX/AmpereSparseMatmul) - study of Ampere' Sparse Matmul
 - [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 - [xuqiantong/CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.

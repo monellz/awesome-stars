@@ -234,6 +234,7 @@
 
 ## Python 
 
+- [Ananto30/zero](https://github.com/Ananto30/zero) - Zero: A simple and fast Python RPC framework
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [ModelTC/lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production

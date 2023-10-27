@@ -331,6 +331,7 @@
 
 ## Shell 
 
+- [NVIDIA/GPU-Driver-Container](https://github.com/NVIDIA/GPU-Driver-Container) - The NVIDIA GPU driver container allows the provisioning of the NVIDIA driver through the use of containers.
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).

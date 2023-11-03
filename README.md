@@ -217,7 +217,6 @@
 
 - [DirtyHarryLYL/Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision) - Recent Transformer-based CV and related works.
 - [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - 
-- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [pb0316/thuhole_memories](https://github.com/pb0316/thuhole_memories) - 
 - [TianhaoFu/Awesome-3D-Object-Detection](https://github.com/TianhaoFu/Awesome-3D-Object-Detection) - Papers, code and datasets about deep learning for 3D Object Detection.
 - [lahoud/3d-vision-transformers](https://github.com/lahoud/3d-vision-transformers) - A list of 3D computer vision papers with Transformers

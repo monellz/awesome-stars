@@ -342,7 +342,6 @@
 
 ## Swift 
 
-- [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
 ## TeX 

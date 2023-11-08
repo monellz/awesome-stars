@@ -161,7 +161,7 @@
 - [owensgroup/BGHT](https://github.com/owensgroup/BGHT) - BGHT: High-performance static GPU hash tables.
 - [openai/blocksparse](https://github.com/openai/blocksparse) - Efficient GPU kernels for block-sparse matrix multiplication and convolution
 - [penn-graphics-research/claymore](https://github.com/penn-graphics-research/claymore) - 
-- [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - [MLSys'22] TorchSparse: Efficient Point Cloud Inference Engine
+- [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - [MICRO'23] TorchSparse++: Efficient Training and Inference Framework for Sparse Convolution on GPUs.    [MLSys'22] TorchSparse: Efficient Point Cloud Inference Engine.
 - [NVIDIA/nccl-tests](https://github.com/NVIDIA/nccl-tests) - NCCL Tests
 - [oresths/tSparse](https://github.com/oresths/tSparse) - A GPU algorithm for sparse matrix-matrix multiplication
 - [NVIDIA/cub](https://github.com/NVIDIA/cub) - [ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl

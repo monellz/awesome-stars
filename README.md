@@ -193,6 +193,7 @@
 
 ## Jupyter Notebook 
 
+- [xxcclong/Torch.fx-cheatsheet](https://github.com/xxcclong/Torch.fx-cheatsheet) - Comprehensive torchFX Cheatsheet
 - [NJUVISION/SparsePCGC](https://github.com/NJUVISION/SparsePCGC) - Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression
 - [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
 

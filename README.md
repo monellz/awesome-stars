@@ -82,6 +82,7 @@
 - [UoB-HPC/BabelStream](https://github.com/UoB-HPC/BabelStream) - STREAM, for lots of devices written in many programming models
 - [Shigangli/Magicube](https://github.com/Shigangli/Magicube) - Magicube is a high-performance library for quantized sparse matrix operations (SpMM and SDDMM) of deep learning on Tensor Cores.
 - [cyclops-community/ctf](https://github.com/cyclops-community/ctf) - Cyclops Tensor Framework: parallel arithmetic on multidimensional arrays
+- [owensgroup/BGHT](https://github.com/owensgroup/BGHT) - BGHT: High-performance static GPU hash tables.
 - [zhang677/segTACO](https://github.com/zhang677/segTACO) - 
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [llohse/libnpy](https://github.com/llohse/libnpy) - C++ library for reading and writing of numpy's .npy files
@@ -160,7 +161,6 @@
 
 - [lucidrains/flash-cosine-sim-attention](https://github.com/lucidrains/flash-cosine-sim-attention) - Implementation of fused cosine similarity attention in the same style as Flash Attention
 - [jeewhanchoi/blocked-linearized-coordinate](https://github.com/jeewhanchoi/blocked-linearized-coordinate) - 
-- [owensgroup/BGHT](https://github.com/owensgroup/BGHT) - BGHT: High-performance static GPU hash tables.
 - [openai/blocksparse](https://github.com/openai/blocksparse) - Efficient GPU kernels for block-sparse matrix multiplication and convolution
 - [penn-graphics-research/claymore](https://github.com/penn-graphics-research/claymore) - 
 - [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.

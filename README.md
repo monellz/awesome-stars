@@ -84,7 +84,6 @@
 - [cyclops-community/ctf](https://github.com/cyclops-community/ctf) - Cyclops Tensor Framework: parallel arithmetic on multidimensional arrays
 - [owensgroup/BGHT](https://github.com/owensgroup/BGHT) - BGHT: High-performance static GPU hash tables.
 - [zhang677/segTACO](https://github.com/zhang677/segTACO) - 
-- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [llohse/libnpy](https://github.com/llohse/libnpy) - C++ library for reading and writing of numpy's .npy files
 - [rogersce/cnpy](https://github.com/rogersce/cnpy) - library to read/write .npy and .npz files in C/C++
 - [roastduck/FreeTensor](https://github.com/roastduck/FreeTensor) - A language and compiler for irregular tensor programs.
@@ -269,6 +268,7 @@
 - [drdarshan/ssgetpy](https://github.com/drdarshan/ssgetpy) - A searchable Python interface to the SuiteSparse Matrix Collection
 - [bilibili/ailab](https://github.com/bilibili/ailab) - 
 - [jgwak/GSDN](https://github.com/jgwak/GSDN) - Generative Sparse Detection Networks for 3D Single-shot Object Detection
+- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [skyhehe123/SA-SSD](https://github.com/skyhehe123/SA-SSD) - SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud (CVPR 2020)
 - [jac99/MinkLoc3D](https://github.com/jac99/MinkLoc3D) - MinkLoc3D: Point Cloud Based Large-Scale Place Recognition
 - [travitch/whole-program-llvm](https://github.com/travitch/whole-program-llvm) - A wrapper script to build whole-program LLVM bitcode files

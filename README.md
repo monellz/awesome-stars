@@ -56,7 +56,7 @@
 - [IO500/io500](https://github.com/IO500/io500) - IO500 Storage Benchmark source code
 - [madsys-dev/syscall_intercept](https://github.com/madsys-dev/syscall_intercept) - The system call intercepting library
 - [mirror/ncurses](https://github.com/mirror/ncurses) - ncurses Git mirror
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [dun/munge](https://github.com/dun/munge) - MUNGE (MUNGE Uid 'N' Gid Emporium) is an authentication service for creating and validating user credentials.
 - [openucx/ucx](https://github.com/openucx/ucx) - Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
 - [JamesTheZ/CudaProf](https://github.com/JamesTheZ/CudaProf) - A profiler for CUDA programs based on CUPTI. Similar to NVIDIA Profiler, but simpler.
@@ -77,7 +77,7 @@
 - [rapidsai/rmm](https://github.com/rapidsai/rmm) - RAPIDS Memory Manager
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - 纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llama, moss基座，手机端流畅运行
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [UoB-HPC/BabelStream](https://github.com/UoB-HPC/BabelStream) - STREAM, for lots of devices written in many programming models
 - [Shigangli/Magicube](https://github.com/Shigangli/Magicube) - Magicube is a high-performance library for quantized sparse matrix operations (SpMM and SDDMM) of deep learning on Tensor Cores.

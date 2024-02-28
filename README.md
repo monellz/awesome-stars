@@ -236,6 +236,8 @@
 
 ## Python 
 
+- [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.
+- [state-spaces/mamba](https://github.com/state-spaces/mamba) - 
 - [xxcclong/PPPerf](https://github.com/xxcclong/PPPerf) - Profile Personal Performance
 - [Ananto30/zero](https://github.com/Ananto30/zero) - Zero: A simple and fast Python RPC framework
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference

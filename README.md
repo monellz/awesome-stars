@@ -236,6 +236,7 @@
 
 ## Python 
 
+- [hendrycks/apps](https://github.com/hendrycks/apps) - APPS: Automated Programming Progress Standard (NeurIPS 2021)
 - [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - 
 - [xxcclong/PPPerf](https://github.com/xxcclong/PPPerf) - Profile Personal Performance

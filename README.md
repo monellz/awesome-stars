@@ -93,7 +93,7 @@
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [kuiwuchn/GPUMPM](https://github.com/kuiwuchn/GPUMPM) - 
 - [yuanming-hu/taichi_mpm](https://github.com/yuanming-hu/taichi_mpm) - High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [lammps/lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
 - [martinus/nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20
 - [openxla/iree](https://github.com/openxla/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.

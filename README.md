@@ -196,6 +196,7 @@
 
 ## Jupyter Notebook 
 
+- [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [xxcclong/Torch.fx-cheatsheet](https://github.com/xxcclong/Torch.fx-cheatsheet) - Comprehensive torchFX Cheatsheet
 - [NJUVISION/SparsePCGC](https://github.com/NJUVISION/SparsePCGC) - Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression
 - [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
@@ -238,6 +239,8 @@
 
 ## Python 
 
+- [Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - An Open-source Toolkit for LLM Development
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [PixArt-alpha/PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable.
 - [hendrycks/apps](https://github.com/hendrycks/apps) - APPS: Automated Programming Progress Standard (NeurIPS 2021)

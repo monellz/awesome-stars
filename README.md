@@ -238,6 +238,9 @@
 
 ## Python 
 
+- [Glaciohound/LM-Infinite](https://github.com/Glaciohound/LM-Infinite) - Implementation of paper "LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models"
+- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
+- [FMInference/H2O](https://github.com/FMInference/H2O) - [NeurIPS'23] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models.
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - An Open-source Toolkit for LLM Development
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation

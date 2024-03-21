@@ -238,6 +238,8 @@
 
 ## Python 
 
+- [VITA-Group/Ms-PoE](https://github.com/VITA-Group/Ms-PoE) - "Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding" Zhenyu Zhang, Runjin Chen, Shiwei Liu, Zhewei Yao, Olatunji Ruwase, Beidi Chen, Xiaoxia Wu, Zh
+- [DRSY/EasyKV](https://github.com/DRSY/EasyKV) - Easy control for Key-Value Constrained Generative LLM Inference(https://arxiv.org/abs/2402.06262)
 - [Glaciohound/LM-Infinite](https://github.com/Glaciohound/LM-Infinite) - Implementation of paper "LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models"
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [FMInference/H2O](https://github.com/FMInference/H2O) - [NeurIPS'23] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models.

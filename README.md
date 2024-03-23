@@ -160,6 +160,7 @@
 
 ## Cuda 
 
+- [NVIDIA/nvbench](https://github.com/NVIDIA/nvbench) - CUDA Kernel Benchmarking Library
 - [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving
 - [lucidrains/flash-cosine-sim-attention](https://github.com/lucidrains/flash-cosine-sim-attention) - Implementation of fused cosine similarity attention in the same style as Flash Attention
 - [jeewhanchoi/blocked-linearized-coordinate](https://github.com/jeewhanchoi/blocked-linearized-coordinate) - 

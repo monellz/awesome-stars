@@ -239,6 +239,7 @@
 
 ## Python 
 
+- [thunlp/InfLLM](https://github.com/thunlp/InfLLM) - The code of our paper "InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory"
 - [exists-forall/striped_attention](https://github.com/exists-forall/striped_attention) - 
 - [lucidrains/ring-attention-pytorch](https://github.com/lucidrains/ring-attention-pytorch) - Explorations into 💍 Ring Attention, from Liu et al. at Berkeley AI
 - [schwartz-lab-NLP/TOVA](https://github.com/schwartz-lab-NLP/TOVA) - Token Omission Via Attention

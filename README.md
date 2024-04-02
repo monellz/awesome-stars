@@ -280,7 +280,7 @@
 - [sunwx17/Equivalence-checking](https://github.com/sunwx17/Equivalence-checking) - codes for https://arxiv.org/abs/2105.02634
 - [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [kshitij12345/torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler) - Context Manager to profile the forward and backward times of PyTorch's nn.Module
-- [tusen-ai/SST](https://github.com/tusen-ai/SST) - Codes for a series of work in LiDAR perception, including SST (CVPR 22), FSD (NeurIPS 22), FSD++ (TPAMI 23), FSDv2, and  CTRL (ICCV 23, oral).
+- [tusen-ai/SST](https://github.com/tusen-ai/SST) - Code for a series of work in LiDAR perception, including SST (CVPR 22), FSD (NeurIPS 22), FSD++ (TPAMI 23), FSDv2, and  CTRL (ICCV 23, oral).
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [PointsCoder/VOTR](https://github.com/PointsCoder/VOTR) - Voxel Transformer for 3D object detection
 - [dmontagu/setuptools-cpp](https://github.com/dmontagu/setuptools-cpp) - Simplified packaging for pybind11-based C++ extensions

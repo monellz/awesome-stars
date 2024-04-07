@@ -241,7 +241,7 @@
 
 - [thunlp/InfLLM](https://github.com/thunlp/InfLLM) - The code of our paper "InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory"
 - [exists-forall/striped_attention](https://github.com/exists-forall/striped_attention) - 
-- [lucidrains/ring-attention-pytorch](https://github.com/lucidrains/ring-attention-pytorch) - Explorations into 💍 Ring Attention, from Liu et al. at Berkeley AI
+- [lucidrains/ring-attention-pytorch](https://github.com/lucidrains/ring-attention-pytorch) - Implementation of 💍 Ring Attention, from Liu et al. at Berkeley AI, in Pytorch
 - [schwartz-lab-NLP/TOVA](https://github.com/schwartz-lab-NLP/TOVA) - Token Omission Via Attention
 - [VITA-Group/Ms-PoE](https://github.com/VITA-Group/Ms-PoE) - "Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding" Zhenyu Zhang, Runjin Chen, Shiwei Liu, Zhewei Yao, Olatunji Ruwase, Beidi Chen, Xiaoxia Wu, Zh
 - [DRSY/EasyKV](https://github.com/DRSY/EasyKV) - Easy control for Key-Value Constrained Generative LLM Inference(https://arxiv.org/abs/2402.06262)
@@ -251,7 +251,7 @@
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - An Open-source Toolkit for LLM Development
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
-- [PixArt-alpha/PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
+- [PixArt-alpha/PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable.
 - [hendrycks/apps](https://github.com/hendrycks/apps) - APPS: Automated Programming Progress Standard (NeurIPS 2021)
 - [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.

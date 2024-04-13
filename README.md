@@ -153,7 +153,7 @@
 
 - [CLIUtils/cmake](https://github.com/CLIUtils/cmake) - A set of cmake modules to assist in building code
 - [bilke/cmake-modules](https://github.com/bilke/cmake-modules) - Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)
-- [StableCoder/cmake-scripts](https://github.com/StableCoder/cmake-scripts) - Easy-to-add enhancements for any C/C++ CMake project.  Including AFL fuzzing, code-coverage, Thread/Address/Leak/Address/undefined sanitizer instrumentation, compilation of GLSL shaders and more.
+- [StableCoder/cmake-scripts](https://github.com/StableCoder/cmake-scripts) - Easy-to-add enhancements for any C/C++ CMake project.  Including AFL fuzzing, code-coverage, Thread/Address/Leak/Address/Undefined sanitizer instrumentation, compilation of GLSL shaders and more.
 
 ## CSS 
 

@@ -38,7 +38,7 @@
 
 ## C 
 
-- [zeux/calm](https://github.com/zeux/calm) - C(UDA) accelerated language model inference
+- [zeux/calm](https://github.com/zeux/calm) - CUDA/Metal accelerated language model inference
 - [SuperScientificSoftwareLaboratory/TileSpGEMM](https://github.com/SuperScientificSoftwareLaboratory/TileSpGEMM) - Source code of the PPoPP '22 paper: "TileSpGEMM: A Tiled Algorithm for Parallel Sparse General Matrix-Matrix Multiplication on GPUs" by Yuyao Niu, Zhengyang Lu, Haonan Ji, Shuhui Song, Zhou Jin, and W
 - [HipGraph/FusedMM](https://github.com/HipGraph/FusedMM) - Implementation of FusedMM method for IPDPS 2021 paper titled "FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks"
 - [Mantevo/miniAMR](https://github.com/Mantevo/miniAMR) - MiniAMR Adaptive Mesh Refinement (AMR) Mini-App
@@ -241,6 +241,8 @@
 
 ## Python 
 
+- [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
+- [d-matrix-ai/keyformer-llm](https://github.com/d-matrix-ai/keyformer-llm) - 
 - [OpenNLPLab/lightning-attention](https://github.com/OpenNLPLab/lightning-attention) - Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models
 - [thunlp/InfLLM](https://github.com/thunlp/InfLLM) - The code of our paper "InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory"
 - [exists-forall/striped_attention](https://github.com/exists-forall/striped_attention) - 
@@ -340,7 +342,7 @@
 - [shenweichen/DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch) - 【PyTorch】Easy-to-use,Modular and Extendible package of deep-learning based CTR models.
 - [miraclewkf/MobileNetV2-PyTorch](https://github.com/miraclewkf/MobileNetV2-PyTorch) - This is the PyTorch implement of MobileNet V2
 - [msr-fiddle/pipedream](https://github.com/msr-fiddle/pipedream) - 
-- [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet and EfficientNetV2 (coming soon!)
+- [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet
 - [keras-team/autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
 
 ## Rust 

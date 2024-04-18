@@ -241,6 +241,7 @@
 
 ## Python 
 
+- [hetailang/SqueezeAttention](https://github.com/hetailang/SqueezeAttention) - 
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
 - [d-matrix-ai/keyformer-llm](https://github.com/d-matrix-ai/keyformer-llm) - 
 - [OpenNLPLab/lightning-attention](https://github.com/OpenNLPLab/lightning-attention) - Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models

@@ -198,6 +198,7 @@
 
 ## Jupyter Notebook 
 
+- [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [Kyriection/llama-recipes](https://github.com/Kyriection/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [xxcclong/Torch.fx-cheatsheet](https://github.com/xxcclong/Torch.fx-cheatsheet) - Comprehensive torchFX Cheatsheet
@@ -241,6 +242,7 @@
 
 ## Python 
 
+- [Infini-AI-Lab/TriForce](https://github.com/Infini-AI-Lab/TriForce) - TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding
 - [hetailang/SqueezeAttention](https://github.com/hetailang/SqueezeAttention) - 
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
 - [d-matrix-ai/keyformer-llm](https://github.com/d-matrix-ai/keyformer-llm) - 
@@ -360,7 +362,7 @@
 
 ## Shell 
 
-- [NVIDIA/GPU-Driver-Container](https://github.com/NVIDIA/GPU-Driver-Container) - The NVIDIA GPU driver container allows the provisioning of the NVIDIA driver through the use of containers.
+- [NVIDIA/gpu-driver-container](https://github.com/NVIDIA/gpu-driver-container) - The NVIDIA GPU driver container allows the provisioning of the NVIDIA driver through the use of containers.
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).

@@ -242,6 +242,8 @@
 
 ## Python 
 
+- [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - A simple and efficient Mamba implementation in PyTorch and MLX.
+- [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [Infini-AI-Lab/TriForce](https://github.com/Infini-AI-Lab/TriForce) - TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding
 - [hetailang/SqueezeAttention](https://github.com/hetailang/SqueezeAttention) - 
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter

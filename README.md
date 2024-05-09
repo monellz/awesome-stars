@@ -169,7 +169,7 @@
 - [jeewhanchoi/blocked-linearized-coordinate](https://github.com/jeewhanchoi/blocked-linearized-coordinate) - 
 - [openai/blocksparse](https://github.com/openai/blocksparse) - Efficient GPU kernels for block-sparse matrix multiplication and convolution
 - [penn-graphics-research/claymore](https://github.com/penn-graphics-research/claymore) - 
-- [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.
+- [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - [MICRO'23, MLSys'22] TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.
 - [NVIDIA/nccl-tests](https://github.com/NVIDIA/nccl-tests) - NCCL Tests
 - [oresths/tSparse](https://github.com/oresths/tSparse) - A GPU algorithm for sparse matrix-matrix multiplication
 - [NVIDIA/cub](https://github.com/NVIDIA/cub) - [ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl

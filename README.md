@@ -74,6 +74,7 @@
 
 ## C++ 
 
+- [mirage-project/mirage](https://github.com/mirage-project/mirage) - A multi-level tensor algebra superoptimizer
 - [NVIDIA/cccl](https://github.com/NVIDIA/cccl) - CUDA C++ Core Libraries
 - [tlc-pack/libflash_attn](https://github.com/tlc-pack/libflash_attn) - Standalone Flash Attention v2 kernel without libtorch dependency
 - [flexflow/FlexFlow](https://github.com/flexflow/FlexFlow) - FlexFlow Serve: Low-Latency, High-Performance LLM Serving

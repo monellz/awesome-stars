@@ -74,6 +74,7 @@
 
 ## C++ 
 
+- [Sevoii/StriveFrameViewer](https://github.com/Sevoii/StriveFrameViewer) - A mod for GGST that adds training mode features
 - [mirage-project/mirage](https://github.com/mirage-project/mirage) - A multi-level tensor algebra superoptimizer
 - [NVIDIA/cccl](https://github.com/NVIDIA/cccl) - CUDA C++ Core Libraries
 - [tlc-pack/libflash_attn](https://github.com/tlc-pack/libflash_attn) - Standalone Flash Attention v2 kernel without libtorch dependency

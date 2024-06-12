@@ -252,6 +252,7 @@
 
 ## Python 
 
+- [heheda12345/MagPy](https://github.com/heheda12345/MagPy) - 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [yuweihao/MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision?
 - [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - A simple and efficient Mamba implementation in PyTorch and MLX.

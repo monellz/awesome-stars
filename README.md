@@ -252,6 +252,7 @@
 
 ## Python 
 
+- [humuyan/Korch](https://github.com/humuyan/Korch) - ASPLOS'24: Optimal Kernel Orchestration for Tensor Programs with Korch
 - [NX-AI/vision-lstm](https://github.com/NX-AI/vision-lstm) - xLSTM as Generic Vision Backbone
 - [smonsays/hypernetwork-attention](https://github.com/smonsays/hypernetwork-attention) - Official code for the paper "Attention as a Hypernetwork"
 - [heheda12345/MagPy](https://github.com/heheda12345/MagPy) - 

@@ -253,6 +253,7 @@
 
 ## Python 
 
+- [zhuzilin/pytorch-extension-gcc](https://github.com/zhuzilin/pytorch-extension-gcc) - How to use gcc instead of setup.py to build an pytorch extension.
 - [humuyan/Korch](https://github.com/humuyan/Korch) - ASPLOS'24: Optimal Kernel Orchestration for Tensor Programs with Korch
 - [NX-AI/vision-lstm](https://github.com/NX-AI/vision-lstm) - xLSTM as Generic Vision Backbone
 - [smonsays/hypernetwork-attention](https://github.com/smonsays/hypernetwork-attention) - Official code for the paper "Attention as a Hypernetwork"

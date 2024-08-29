@@ -254,6 +254,8 @@
 
 ## Python 
 
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
 - [zhuzilin/pytorch-extension-gcc](https://github.com/zhuzilin/pytorch-extension-gcc) - How to use gcc instead of setup.py to build an pytorch extension.
 - [humuyan/Korch](https://github.com/humuyan/Korch) - ASPLOS'24: Optimal Kernel Orchestration for Tensor Programs with Korch
 - [NX-AI/vision-lstm](https://github.com/NX-AI/vision-lstm) - xLSTM as Generic Vision Backbone

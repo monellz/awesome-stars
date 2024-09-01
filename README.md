@@ -254,6 +254,7 @@
 
 ## Python 
 
+- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - Official implementation of ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation
 - [Vchitect/VBench](https://github.com/Vchitect/VBench) - [CVPR2024 Highlight] VBench - We Evaluate Video Generation
 - [horseee/DeepCache](https://github.com/horseee/DeepCache) - [CVPR 2024] DeepCache: Accelerating Diffusion Models for Free
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)

@@ -76,6 +76,7 @@
 
 ## C++ 
 
+- [facebookincubator/dynolog](https://github.com/facebookincubator/dynolog) - Dynolog is a telemetry daemon for performance monitoring and tracing. It exports metrics from different components in the system like the linux kernel, CPU, disks, Intel PT, GPUs etc. Dynolog also int
 - [KnowingNothing/MatmulTutorial](https://github.com/KnowingNothing/MatmulTutorial) - A Easy-to-understand TensorOp Matmul Tutorial
 - [Sevoii/StriveFrameViewer](https://github.com/Sevoii/StriveFrameViewer) - A mod for GGST that adds training mode features
 - [mirage-project/mirage](https://github.com/mirage-project/mirage) - A multi-level tensor algebra superoptimizer
@@ -287,7 +288,7 @@
 - [VITA-Group/Ms-PoE](https://github.com/VITA-Group/Ms-PoE) - "Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding" Zhenyu Zhang, Runjin Chen, Shiwei Liu, Zhewei Yao, Olatunji Ruwase, Beidi Chen, Xiaoxia Wu, Zh
 - [DRSY/EasyKV](https://github.com/DRSY/EasyKV) - Easy control for Key-Value Constrained Generative LLM Inference(https://arxiv.org/abs/2402.06262)
 - [Glaciohound/LM-Infinite](https://github.com/Glaciohound/LM-Infinite) - Implementation of NAACL 2024 Outstanding Paper "LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models"
-- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
+- [FMInference/FlexiGen](https://github.com/FMInference/FlexiGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [FMInference/H2O](https://github.com/FMInference/H2O) - [NeurIPS'23] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models.
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - An Open-source Toolkit for LLM Development

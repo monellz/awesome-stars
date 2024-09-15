@@ -261,6 +261,7 @@
 
 ## Python 
 
+- [Vchitect/Vchitect-2.0](https://github.com/Vchitect/Vchitect-2.0) - Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 - [mira-space/Mira](https://github.com/mira-space/Mira) - 

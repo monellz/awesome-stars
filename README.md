@@ -76,6 +76,7 @@
 
 ## C++ 
 
+- [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers.
 - [facebookincubator/dynolog](https://github.com/facebookincubator/dynolog) - Dynolog is a telemetry daemon for performance monitoring and tracing. It exports metrics from different components in the system like the linux kernel, CPU, disks, Intel PT, GPUs etc. Dynolog also int
 - [KnowingNothing/MatmulTutorial](https://github.com/KnowingNothing/MatmulTutorial) - A Easy-to-understand TensorOp Matmul Tutorial
 - [Sevoii/StriveFrameViewer](https://github.com/Sevoii/StriveFrameViewer) - A mod for GGST that adds training mode features

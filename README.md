@@ -315,7 +315,7 @@
 - [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - A series of large language models developed by Baichuan Intelligent Technology
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [zkkli/I-ViT](https://github.com/zkkli/I-ViT) - [ICCV 2023] I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference
-- [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - EfficientViT is a new family of vision models for efficient high-resolution vision.
+- [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.
 - [maggiez0138/Swin-Transformer-TensorRT](https://github.com/maggiez0138/Swin-Transformer-TensorRT) - This project aims to explore the deployment of Swin-Transformer based on TensorRT, including the test results of FP16 and INT8.
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch

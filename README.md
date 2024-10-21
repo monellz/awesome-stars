@@ -222,6 +222,7 @@
 
 ## MLIR 
 
+- [NVIDIA/TensorRT-Incubator](https://github.com/NVIDIA/TensorRT-Incubator) - Experimental projects related to TensorRT
 - [spcl/open-earth-compiler](https://github.com/spcl/open-earth-compiler) - development repository for the open earth compiler
 
 ## Markdown 
@@ -262,6 +263,7 @@
 
 ## Python 
 
+- [makslevental/mlir-python-extras](https://github.com/makslevental/mlir-python-extras) - The missing pieces (as far as boilerplate reduction goes) of the upstream MLIR python bindings.
 - [xdslproject/xdsl](https://github.com/xdslproject/xdsl) - A Python Compiler Design Toolkit
 - [pytorch/ao](https://github.com/pytorch/ao) - PyTorch native quantization and sparsity for training and inference
 - [Vchitect/LiteGen](https://github.com/Vchitect/LiteGen) - A light-weight and high-efficient training framework for accelerating diffusion tasks.

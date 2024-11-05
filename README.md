@@ -193,6 +193,8 @@
 
 ## Go 
 
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [z4yx/GoAuthing](https://github.com/z4yx/GoAuthing) - Authentication utility for srun4000 (auth.tsinghua.edu.cn / net.tsinghua.edu.cn / Tsinghua-IPv4)
 - [SRI-CSL/gllvm](https://github.com/SRI-CSL/gllvm) - Whole Program LLVM: wllvm ported to go
@@ -275,7 +277,7 @@
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 - [mira-space/Mira](https://github.com/mira-space/Mira) - 
-- [xdit-project/xDiT](https://github.com/xdit-project/xDiT) - xDiT: A Scalable Inference Engine for Diffusion Transformers (DiTs) on multi-GPU Clusters
+- [xdit-project/xDiT](https://github.com/xdit-project/xDiT) - xDiT: A Scalable Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism
 - [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - Official implementation of ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation
 - [Vchitect/VBench](https://github.com/Vchitect/VBench) - [CVPR2024 Highlight] VBench - We Evaluate Video Generation
 - [horseee/DeepCache](https://github.com/horseee/DeepCache) - [CVPR 2024] DeepCache: Accelerating Diffusion Models for Free

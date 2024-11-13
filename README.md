@@ -269,6 +269,7 @@
 
 ## Python 
 
+- [spcl/pymlir](https://github.com/spcl/pymlir) - Python interface for MLIR - the Multi-Level Intermediate Representation
 - [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion
 - [makslevental/mlir-wheels](https://github.com/makslevental/mlir-wheels) - 
 - [makslevental/mlir-python-extras](https://github.com/makslevental/mlir-python-extras) - The missing pieces (as far as boilerplate reduction goes) of the upstream MLIR python bindings.
@@ -402,6 +403,7 @@
 
 ## Rust 
 
+- [arceos-org/arceos](https://github.com/arceos-org/arceos) - An experimental modular OS written in Rust.
 - [msminhas93/nviwatch](https://github.com/msminhas93/nviwatch) - NviWatch: A blazingly fast rust based TUI for managing and monitoring NVIDIA GPU processes
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端

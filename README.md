@@ -272,6 +272,7 @@
 
 ## Python 
 
+- [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple
 - [spcl/pymlir](https://github.com/spcl/pymlir) - Python interface for MLIR - the Multi-Level Intermediate Representation
 - [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion
 - [makslevental/mlir-wheels](https://github.com/makslevental/mlir-wheels) - 

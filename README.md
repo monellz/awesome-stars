@@ -84,7 +84,7 @@
 - [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA
 - [NVIDIA/cccl](https://github.com/NVIDIA/cccl) - CUDA Core Compute Libraries
 - [tlc-pack/libflash_attn](https://github.com/tlc-pack/libflash_attn) - Standalone Flash Attention v2 kernel without libtorch dependency
-- [flexflow/FlexFlow](https://github.com/flexflow/FlexFlow) - FlexFlow Serve: Low-Latency, High-Performance LLM Serving
+- [flexflow/flexflow-train](https://github.com/flexflow/flexflow-train) - Automatically Discovering Fast Parallelization Strategies for Distributed Deep Neural Network Training
 - [SergiusTheBest/plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library
 - [rapidsai/rmm](https://github.com/rapidsai/rmm) - RAPIDS Memory Manager
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.

@@ -222,6 +222,7 @@
 
 ## Jupyter Notebook 
 
+- [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple
 - [siliconflow/onediff](https://github.com/siliconflow/onediff) - OneDiff: An out-of-the-box acceleration library for diffusion models.
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [Kyriection/llama-recipes](https://github.com/Kyriection/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
@@ -277,7 +278,6 @@
 
 - [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym) - Helpful tools and examples for working with flex-attention
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
-- [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple
 - [spcl/pymlir](https://github.com/spcl/pymlir) - Python interface for MLIR - the Multi-Level Intermediate Representation
 - [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion
 - [makslevental/mlir-wheels](https://github.com/makslevental/mlir-wheels) - 

@@ -275,6 +275,7 @@
 
 ## Python 
 
+- [Zefan-Cai/KVCache-Factory](https://github.com/Zefan-Cai/KVCache-Factory) - Unified KV Cache Compression Methods for Auto-Regressive Models
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
 - [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym) - Helpful tools and examples for working with flex-attention
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.

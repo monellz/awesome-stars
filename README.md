@@ -40,6 +40,7 @@
 
 ## C 
 
+- [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU kernels
 - [zeux/calm](https://github.com/zeux/calm) - CUDA/Metal accelerated language model inference
 - [SuperScientificSoftwareLaboratory/TileSpGEMM](https://github.com/SuperScientificSoftwareLaboratory/TileSpGEMM) - Source code of the PPoPP '22 paper: "TileSpGEMM: A Tiled Algorithm for Parallel Sparse General Matrix-Matrix Multiplication on GPUs" by Yuyao Niu, Zhengyang Lu, Haonan Ji, Shuhui Song, Zhou Jin, and W
 - [HipGraph/FusedMM](https://github.com/HipGraph/FusedMM) - Implementation of FusedMM method for IPDPS 2021 paper titled "FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks"
@@ -294,7 +295,7 @@
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 - [mira-space/Mira](https://github.com/mira-space/Mira) - 
 - [xdit-project/xDiT](https://github.com/xdit-project/xDiT) - xDiT: A Scalable Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism
-- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025)
+- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025 Oral)
 - [Vchitect/VBench](https://github.com/Vchitect/VBench) - [CVPR2024 Highlight] VBench - We Evaluate Video Generation
 - [horseee/DeepCache](https://github.com/horseee/DeepCache) - [CVPR 2024] DeepCache: Accelerating Diffusion Models for Free
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)

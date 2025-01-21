@@ -477,6 +477,7 @@
 
 ## others 
 
+- [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU kernels
 - [proger/accelerated-scan](https://github.com/proger/accelerated-scan) - Accelerated First Order Parallel Associative Scan
 - [microsoft/FractalTensor](https://github.com/microsoft/FractalTensor) - 
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
@@ -499,7 +500,7 @@
 - [mira-space/Mira](https://github.com/mira-space/Mira) - 
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [xdit-project/xDiT](https://github.com/xdit-project/xDiT) - xDiT: A Scalable Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism
-- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025)
+- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025 Oral)
 - [KnowingNothing/MatmulTutorial](https://github.com/KnowingNothing/MatmulTutorial) - A Easy-to-understand TensorOp Matmul Tutorial
 - [zhuzilin/pytorch-extension-gcc](https://github.com/zhuzilin/pytorch-extension-gcc) - How to use gcc instead of setup.py to build an pytorch extension.
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels

@@ -76,7 +76,7 @@
 
 ## C++ 
 
-- [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU kernels
+- [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 - [reed-lau/cute-gemm](https://github.com/reed-lau/cute-gemm) - 
 - [bytedance/flux](https://github.com/bytedance/flux) - A fast communication-overlapping library for tensor parallelism on GPUs.
 - [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers.

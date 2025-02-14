@@ -277,7 +277,7 @@
 ## Python 
 
 - [proger/accelerated-scan](https://github.com/proger/accelerated-scan) - Accelerated First Order Parallel Associative Scan
-- [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton
+- [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton
 - [microsoft/FractalTensor](https://github.com/microsoft/FractalTensor) - 
 - [Zefan-Cai/KVCache-Factory](https://github.com/Zefan-Cai/KVCache-Factory) - Unified KV Cache Compression Methods for Auto-Regressive Models
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
@@ -433,7 +433,7 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [NVIDIA/gpu-driver-container](https://github.com/NVIDIA/gpu-driver-container) - The NVIDIA GPU driver container allows the provisioning of the NVIDIA driver through the use of containers.
-- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
+- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorrent-nox binary with current dependencies to use on any Linux OS
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍

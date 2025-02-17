@@ -98,7 +98,6 @@
 - [cyclops-community/ctf](https://github.com/cyclops-community/ctf) - Cyclops Tensor Framework: parallel arithmetic on multidimensional arrays
 - [owensgroup/BGHT](https://github.com/owensgroup/BGHT) - BGHT: High-performance static GPU hash tables.
 - [zhang677/segTACO](https://github.com/zhang677/segTACO) - 
-- [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [llohse/libnpy](https://github.com/llohse/libnpy) - C++ library for reading and writing of numpy's .npy files
 - [rogersce/cnpy](https://github.com/rogersce/cnpy) - library to read/write .npy and .npz files in C/C++
 - [roastduck/FreeTensor](https://github.com/roastduck/FreeTensor) - A language and compiler for irregular tensor programs.
@@ -236,6 +235,7 @@
 ## MLIR 
 
 - [NVIDIA/TensorRT-Incubator](https://github.com/NVIDIA/TensorRT-Incubator) - Experimental projects related to TensorRT
+- [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [spcl/open-earth-compiler](https://github.com/spcl/open-earth-compiler) - development repository for the open earth compiler
 
 ## Markdown 

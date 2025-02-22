@@ -253,6 +253,7 @@
 
 ## Others 
 
+- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - 
 - [wentaoL86/Awesome-Human-Video-Generation](https://github.com/wentaoL86/Awesome-Human-Video-Generation) - A work list of recent human video generation method. This repository focus on half/full body human video generation method, The Nerf, Gaussian splashing, Motion Pose, and talking head/Portrait is not 
 - [DirtyHarryLYL/Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision) - Recent Transformer-based CV and related works.
 - [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - 

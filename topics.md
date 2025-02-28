@@ -479,7 +479,7 @@
 
 ## others 
 
-- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - 
+- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
 - [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 - [proger/accelerated-scan](https://github.com/proger/accelerated-scan) - Accelerated First Order Parallel Associative Scan
 - [microsoft/FractalTensor](https://github.com/microsoft/FractalTensor) - 

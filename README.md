@@ -277,6 +277,7 @@
 
 ## Python 
 
+- [yuyangJin/PerFlow-AI](https://github.com/yuyangJin/PerFlow-AI) - PerFlow-AI is a programmable performance analysis, modeling, prediction tool for AI system.
 - [proger/accelerated-scan](https://github.com/proger/accelerated-scan) - Accelerated First Order Parallel Associative Scan
 - [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton
 - [microsoft/FractalTensor](https://github.com/microsoft/FractalTensor) - 

@@ -308,7 +308,7 @@
 - [smonsays/hypernetwork-attention](https://github.com/smonsays/hypernetwork-attention) - Official code for the paper "Attention as a Hypernetwork"
 - [heheda12345/MagPy](https://github.com/heheda12345/MagPy) - 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [yuweihao/MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision?
+- [yuweihao/MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision? (CVPR 2025)
 - [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - A simple and efficient Mamba implementation in pure PyTorch and MLX.
 - [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [Infini-AI-Lab/TriForce](https://github.com/Infini-AI-Lab/TriForce) - [COLM 2024] TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding

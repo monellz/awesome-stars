@@ -432,6 +432,7 @@
 
 ## Shell 
 
+- [luckman212/screencapture-nag-remover](https://github.com/luckman212/screencapture-nag-remover) - Small tool to disable macOS 15's annoying new screencapture nag popups
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [NVIDIA/gpu-driver-container](https://github.com/NVIDIA/gpu-driver-container) - The NVIDIA GPU driver container allows the provisioning of the NVIDIA driver through the use of containers.

@@ -431,6 +431,7 @@
 
 ## macos 
 
+- [luckman212/screencapture-nag-remover](https://github.com/luckman212/screencapture-nag-remover) - Small tool to disable macOS 15's annoying new screencapture nag popups
 - [yaqinking/DMHY](https://github.com/yaqinking/DMHY) - Easily download/autodownload torrent(s) from share.dmhy.org/acg.rip etc. sites for OS X
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端
 - [ctuning/ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta 

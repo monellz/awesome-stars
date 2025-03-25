@@ -280,7 +280,7 @@
 - [yuyangJin/PerFlow-AI](https://github.com/yuyangJin/PerFlow-AI) - PerFlow-AI is a programmable performance analysis, modeling, prediction tool for AI system.
 - [proger/accelerated-scan](https://github.com/proger/accelerated-scan) - Accelerated First Order Parallel Associative Scan
 - [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton
-- [microsoft/FractalTensor](https://github.com/microsoft/FractalTensor) - 
+- [microsoft/FractalTensor](https://github.com/microsoft/FractalTensor) - FractalTensor is a programming framework that introduces a novel approach to organizing data in deep neural networks (DNNs) as a list of lists of statically-shaped tensors, referred to as a FractalTen
 - [Zefan-Cai/KVCache-Factory](https://github.com/Zefan-Cai/KVCache-Factory) - Unified KV Cache Compression Methods for Auto-Regressive Models
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
 - [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym) - Helpful tools and examples for working with flex-attention

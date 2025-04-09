@@ -76,6 +76,7 @@
 
 ## C++ 
 
+- [ppl-ai/pplx-kernels](https://github.com/ppl-ai/pplx-kernels) - Perplexity GPU Kernels
 - [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 - [reed-lau/cute-gemm](https://github.com/reed-lau/cute-gemm) - 
 - [bytedance/flux](https://github.com/bytedance/flux) - A fast communication-overlapping library for tensor/expert parallelism on GPUs.

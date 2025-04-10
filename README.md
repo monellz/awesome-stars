@@ -235,6 +235,7 @@
 
 ## MLIR 
 
+- [ByteDance-Seed/Triton-distributed](https://github.com/ByteDance-Seed/Triton-distributed) - Distributed Triton for Parallel Systems
 - [NVIDIA/TensorRT-Incubator](https://github.com/NVIDIA/TensorRT-Incubator) - Experimental projects related to TensorRT
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [spcl/open-earth-compiler](https://github.com/spcl/open-earth-compiler) - development repository for the open earth compiler
@@ -278,6 +279,7 @@
 
 ## Python 
 
+- [OpenSparseLLMs/MoM](https://github.com/OpenSparseLLMs/MoM) - 
 - [yuyangJin/PerFlow-AI](https://github.com/yuyangJin/PerFlow-AI) - PerFlow-AI is a programmable performance analysis, modeling, prediction tool for AI system.
 - [proger/accelerated-scan](https://github.com/proger/accelerated-scan) - Accelerated First Order Parallel Associative Scan
 - [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton

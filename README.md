@@ -173,7 +173,7 @@
 
 ## Cuda 
 
-- [thu-ml/SageAttention](https://github.com/thu-ml/SageAttention) - Quantized Attention that achieves speedups of 2.1-3.1x and 2.7-5.1x compared to FlashAttention2 and xformers, respectively, without lossing end-to-end metrics across various models.
+- [thu-ml/SageAttention](https://github.com/thu-ml/SageAttention) - Quantized Attention achieves speedup of 2-3x and 3-5x compared to FlashAttention and xformers, without lossing end-to-end metrics across language, image, and video models.
 - [efeslab/Nanoflow](https://github.com/efeslab/Nanoflow) - A throughput-oriented high-performance serving framework for LLMs
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
 - [NVIDIA/nvbench](https://github.com/NVIDIA/nvbench) - CUDA Kernel Benchmarking Library

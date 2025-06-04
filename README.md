@@ -280,7 +280,7 @@
 
 - [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention
 - [OpenSparseLLMs/MoM](https://github.com/OpenSparseLLMs/MoM) - 
-- [ByteDance-Seed/Triton-distributed](https://github.com/ByteDance-Seed/Triton-distributed) - Distributed Triton for Parallel Systems
+- [ByteDance-Seed/Triton-distributed](https://github.com/ByteDance-Seed/Triton-distributed) - Distributed Compiler Based on Triton for Parallel Systems
 - [yuyangJin/PerFlow-AI](https://github.com/yuyangJin/PerFlow-AI) - PerFlow-AI is a programmable performance analysis, modeling, prediction tool for AI system.
 - [proger/accelerated-scan](https://github.com/proger/accelerated-scan) - Accelerated First Order Parallel Associative Scan
 - [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton

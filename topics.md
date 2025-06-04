@@ -484,7 +484,7 @@
 ## others 
 
 - [OpenSparseLLMs/MoM](https://github.com/OpenSparseLLMs/MoM) - 
-- [ByteDance-Seed/Triton-distributed](https://github.com/ByteDance-Seed/Triton-distributed) - Distributed Triton for Parallel Systems
+- [ByteDance-Seed/Triton-distributed](https://github.com/ByteDance-Seed/Triton-distributed) - Distributed Compiler Based on Triton for Parallel Systems
 - [ppl-ai/pplx-kernels](https://github.com/ppl-ai/pplx-kernels) - Perplexity GPU Kernels
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [yuyangJin/PerFlow-AI](https://github.com/yuyangJin/PerFlow-AI) - PerFlow-AI is a programmable performance analysis, modeling, prediction tool for AI system.

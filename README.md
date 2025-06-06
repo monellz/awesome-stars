@@ -174,7 +174,6 @@
 ## Cuda 
 
 - [thu-ml/SageAttention](https://github.com/thu-ml/SageAttention) - Quantized Attention achieves speedup of 2-5x and 3-11x compared to FlashAttention and xformers, without lossing end-to-end metrics across language, image, and video models.
-- [efeslab/Nanoflow](https://github.com/efeslab/Nanoflow) - A throughput-oriented high-performance serving framework for LLMs
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
 - [NVIDIA/nvbench](https://github.com/NVIDIA/nvbench) - CUDA Kernel Benchmarking Library
 - [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving
@@ -224,6 +223,7 @@
 ## Jupyter Notebook 
 
 - [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Best Paper][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-
+- [efeslab/Nanoflow](https://github.com/efeslab/Nanoflow) - A throughput-oriented high-performance serving framework for LLMs
 - [siliconflow/onediff](https://github.com/siliconflow/onediff) - OneDiff: An out-of-the-box acceleration library for diffusion models.
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [Kyriection/llama-recipes](https://github.com/Kyriection/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp

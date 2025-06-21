@@ -498,7 +498,7 @@
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - [CVPR 2025 Oral]Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
 - [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym) - Helpful tools and examples for working with flex-attention
 - [reed-lau/cute-gemm](https://github.com/reed-lau/cute-gemm) - 
-- [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Best Paper][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-
+- [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Best Paper Award][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform

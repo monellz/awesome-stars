@@ -485,6 +485,7 @@
 
 ## others 
 
+- [Dao-AILab/quack](https://github.com/Dao-AILab/quack) - A Quirky Assortment of CuTe Kernels
 - [HanGuo97/log-linear-attention](https://github.com/HanGuo97/log-linear-attention) - 
 - [OpenSparseLLMs/MoM](https://github.com/OpenSparseLLMs/MoM) - 
 - [ByteDance-Seed/Triton-distributed](https://github.com/ByteDance-Seed/Triton-distributed) - Distributed Compiler Based on Triton for Parallel Systems

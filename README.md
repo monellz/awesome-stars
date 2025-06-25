@@ -278,6 +278,7 @@
 
 ## Python 
 
+- [Dao-AILab/quack](https://github.com/Dao-AILab/quack) - A Quirky Assortment of CuTe Kernels
 - [HanGuo97/log-linear-attention](https://github.com/HanGuo97/log-linear-attention) - 
 - [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention
 - [OpenSparseLLMs/MoM](https://github.com/OpenSparseLLMs/MoM) - 

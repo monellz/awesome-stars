@@ -278,6 +278,7 @@
 
 ## Python 
 
+- [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model evaluation and performance benchmarking
 - [Dao-AILab/quack](https://github.com/Dao-AILab/quack) - A Quirky Assortment of CuTe Kernels
 - [HanGuo97/log-linear-attention](https://github.com/HanGuo97/log-linear-attention) - 
 - [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention
@@ -333,7 +334,7 @@
 - [FMInference/H2O](https://github.com/FMInference/H2O) - [NeurIPS'23] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models.
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - An Open-source Toolkit for LLM Development
-- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [PixArt-alpha/PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [hendrycks/apps](https://github.com/hendrycks/apps) - APPS: Automated Programming Progress Standard (NeurIPS 2021)

@@ -478,6 +478,7 @@
 
 ## openai 
 
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 
 ## operating-system 
@@ -507,7 +508,7 @@
 - [makslevental/mlir-wheels](https://github.com/makslevental/mlir-wheels) - 
 - [makslevental/mlir-python-extras](https://github.com/makslevental/mlir-python-extras) - The missing pieces (as far as boilerplate reduction goes) of the upstream MLIR python bindings.
 - [NVIDIA/TensorRT-Incubator](https://github.com/NVIDIA/TensorRT-Incubator) - Experimental projects related to TensorRT
-- [xdslproject/xdsl](https://github.com/xdslproject/xdsl) - A Python Compiler Design Toolkit
+- [xdslproject/xdsl](https://github.com/xdslproject/xdsl) - A Python compiler design toolkit.
 - [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers.
 - [Vchitect/LiteGen](https://github.com/Vchitect/LiteGen) - A light-weight and high-efficient training framework for accelerating diffusion tasks.
 - [Vchitect/Vchitect-2.0](https://github.com/Vchitect/Vchitect-2.0) - Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models

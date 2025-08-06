@@ -295,7 +295,7 @@
 
 ## framework 
 
-- [Ananto30/zero](https://github.com/Ananto30/zero) - Zero: A simple and fast Python RPC framework
+- [Ananto30/zero](https://github.com/Ananto30/zero) - ⚡ Zero - A Lightweight Python RPC Framework
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 
@@ -724,7 +724,7 @@
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [spcl/pymlir](https://github.com/spcl/pymlir) - Python interface for MLIR - the Multi-Level Intermediate Representation
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [Ananto30/zero](https://github.com/Ananto30/zero) - Zero: A simple and fast Python RPC framework
+- [Ananto30/zero](https://github.com/Ananto30/zero) - ⚡ Zero - A Lightweight Python RPC Framework
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [TianhaoFu/Awesome-3D-Object-Detection](https://github.com/TianhaoFu/Awesome-3D-Object-Detection) - Papers, code and datasets about deep learning for 3D Object Detection.

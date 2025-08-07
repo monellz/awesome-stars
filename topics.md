@@ -500,7 +500,7 @@
 - [proger/accelerated-scan](https://github.com/proger/accelerated-scan) - Accelerated First Order Parallel Associative Scan
 - [microsoft/FractalTensor](https://github.com/microsoft/FractalTensor) - FractalTensor is a programming framework that introduces a novel approach to organizing data in deep neural networks (DNNs) as a list of lists of statically-shaped tensors, referred to as a FractalTen
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - [CVPR 2025 Oral]Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
-- [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym) - Helpful tools and examples for working with flex-attention
+- [meta-pytorch/attention-gym](https://github.com/meta-pytorch/attention-gym) - Helpful tools and examples for working with flex-attention
 - [reed-lau/cute-gemm](https://github.com/reed-lau/cute-gemm) - 
 - [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Best Paper Award][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor

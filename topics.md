@@ -532,7 +532,7 @@
 - [smonsays/hypernetwork-attention](https://github.com/smonsays/hypernetwork-attention) - Official code for the paper "Attention as a Hypernetwork"
 - [heheda12345/MagPy](https://github.com/heheda12345/MagPy) - 
 - [Sevoii/StriveFrameViewer](https://github.com/Sevoii/StriveFrameViewer) - A mod for GGST that adds training mode features
-- [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA
+- [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage Persistent Kernel: Compiling LLMs into a MegaKernel
 - [yuweihao/MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision? (CVPR 2025)
 - [tlc-pack/libflash_attn](https://github.com/tlc-pack/libflash_attn) - Standalone Flash Attention v2 kernel without libtorch dependency
 - [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - A simple and efficient Mamba implementation in pure PyTorch and MLX.

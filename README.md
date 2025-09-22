@@ -279,6 +279,7 @@
 
 ## Python 
 
+- [mhostetter/galois](https://github.com/mhostetter/galois) - A performant NumPy extension for Galois fields and their applications
 - [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model evaluation and performance benchmarking
 - [Dao-AILab/quack](https://github.com/Dao-AILab/quack) - A Quirky Assortment of CuTe Kernels
 - [HanGuo97/log-linear-attention](https://github.com/HanGuo97/log-linear-attention) - 

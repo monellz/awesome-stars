@@ -24,6 +24,7 @@
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [crawler](#crawler)
+- [cryptography](#cryptography)
 - [css](#css)
 - [dart](#dart)
 - [data-analysis](#data-analysis)
@@ -62,6 +63,7 @@
 - [natural-language-processing](#natural-language-processing)
 - [neural-network](#neural-network)
 - [nlp](#nlp)
+- [numpy](#numpy)
 - [objective-c](#objective-c)
 - [openai](#openai)
 - [operating-system](#operating-system)
@@ -70,6 +72,7 @@
 - [package-manager](#package-manager)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -231,6 +234,10 @@
 ## crawler 
 
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
+
+## cryptography 
+
+- [mhostetter/galois](https://github.com/mhostetter/galois) - A performant NumPy extension for Galois fields and their applications
 
 ## css 
 
@@ -476,6 +483,10 @@
 - [ModelTC/LightLLM](https://github.com/ModelTC/LightLLM) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
+## numpy 
+
+- [mhostetter/galois](https://github.com/mhostetter/galois) - A performant NumPy extension for Galois fields and their applications
+
 ## objective-c 
 
 - [yaqinking/DMHY](https://github.com/yaqinking/DMHY) - Easily download/autodownload torrent(s) from share.dmhy.org/acg.rip etc. sites for OS X
@@ -678,7 +689,6 @@
 - [bilke/cmake-modules](https://github.com/bilke/cmake-modules) - Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [matt77hias/smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
-- [spcl/dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming
 - [StableCoder/cmake-scripts](https://github.com/StableCoder/cmake-scripts) - Easy-to-add enhancements for any C/C++ CMake project.  Including AFL fuzzing, code-coverage, Thread/Address/Leak/Address/Undefined sanitizer instrumentation, compilation of GLSL shaders and more.
 - [mirror/ncurses](https://github.com/mirror/ncurses) - ncurses Git mirror
 - [SC-Tech-Program/Author-Kit](https://github.com/SC-Tech-Program/Author-Kit) - Instructions and templates for SC authors
@@ -723,8 +733,15 @@
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
+## programming-language 
+
+- [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
+- [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
+- [spcl/dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming
+
 ## python 
 
+- [mhostetter/galois](https://github.com/mhostetter/galois) - A performant NumPy extension for Galois fields and their applications
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [spcl/pymlir](https://github.com/spcl/pymlir) - Python interface for MLIR - the Multi-Level Intermediate Representation
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.

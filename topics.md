@@ -96,6 +96,7 @@
 - [vue](#vue)
 - [web](#web)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -903,6 +904,10 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端
 - [ctuning/ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta 
+
+## zsh 
+
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License

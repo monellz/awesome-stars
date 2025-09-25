@@ -165,6 +165,7 @@
 ## c-plus-plus 
 
 - [SergiusTheBest/plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [ToruNiina/toml11](https://github.com/ToruNiina/toml11) - TOML for Modern C++
 - [Tessil/sparse-map](https://github.com/Tessil/sparse-map) - C++ implementation of a memory efficient hash map and hash set
 - [Tessil/robin-map](https://github.com/Tessil/robin-map) - C++ implementation of a fast hash map and hash set using robin hood hashing

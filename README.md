@@ -114,7 +114,7 @@
 - [motine/cppstylelineup](https://github.com/motine/cppstylelineup) - a comparison of common C++ style guides
 - [ToruNiina/toml11](https://github.com/ToruNiina/toml11) - TOML for Modern C++
 - [ezaquarii/bison-flex-cpp-example](https://github.com/ezaquarii/bison-flex-cpp-example) - GNU Bison and GNU Flex C++ example
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [THeWakeSystems/fcc](https://github.com/THeWakeSystems/fcc) - Fiuggi Compiler Collection (FCC) is a high-performance compiler based on LLVM.
 - [Tessil/sparse-map](https://github.com/Tessil/sparse-map) - C++ implementation of a memory efficient hash map and hash set
 - [spcl/open-earth-benchmarks](https://github.com/spcl/open-earth-benchmarks) - Open repository for climate and weather benchmark kernels
@@ -173,7 +173,7 @@
 
 ## Cuda 
 
-- [thu-ml/SageAttention](https://github.com/thu-ml/SageAttention) - [ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x and 3-11x compared to FlashAttention and xformers, without lossing end-to-end metrics across language, image, a
+- [thu-ml/SageAttention](https://github.com/thu-ml/SageAttention) - [ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without lossing end-to-end metrics across language, image, and video models.
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
 - [NVIDIA/nvbench](https://github.com/NVIDIA/nvbench) - CUDA Kernel Benchmarking Library
 - [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving

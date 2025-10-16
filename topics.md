@@ -53,6 +53,7 @@
 - [json](#json)
 - [kotlin](#kotlin)
 - [latex](#latex)
+- [learning](#learning)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -79,6 +80,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
+- [reinforcement-learning](#reinforcement-learning)
 - [rust](#rust)
 - [security](#security)
 - [shell](#shell)
@@ -194,6 +196,7 @@
 
 ## compiler 
 
+- [lsds/Tempo](https://github.com/lsds/Tempo) - Tempo is a system for declarative, efficient, end-to-end compiled dynamic deep learning
 - [uwsampl/SparseTIR](https://github.com/uwsampl/SparseTIR) - SparseTIR: Sparse Tensor Compiler for Deep Learning
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
@@ -263,6 +266,7 @@
 
 ## deep-learning 
 
+- [lsds/Tempo](https://github.com/lsds/Tempo) - Tempo is a system for declarative, efficient, end-to-end compiled dynamic deep learning
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [FMInference/FlexLLMGen](https://github.com/FMInference/FlexLLMGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
@@ -394,6 +398,10 @@
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
 
+## learning 
+
+- [lsds/Tempo](https://github.com/lsds/Tempo) - Tempo is a system for declarative, efficient, end-to-end compiled dynamic deep learning
+
 ## library 
 
 - [SergiusTheBest/plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library
@@ -413,6 +421,7 @@
 
 ## llm 
 
+- [lsds/Tempo](https://github.com/lsds/Tempo) - Tempo is a system for declarative, efficient, end-to-end compiled dynamic deep learning
 - [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model evaluation and performance benchmarking
 - [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention
 - [Zefan-Cai/KVCache-Factory](https://github.com/Zefan-Cai/KVCache-Factory) - Unified KV Cache Compression Methods for Auto-Regressive Models
@@ -810,6 +819,10 @@
 ## react-native 
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+## reinforcement-learning 
+
+- [lsds/Tempo](https://github.com/lsds/Tempo) - Tempo is a system for declarative, efficient, end-to-end compiled dynamic deep learning
 
 ## rust 
 

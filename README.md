@@ -282,7 +282,7 @@
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [lsds/Tempo](https://github.com/lsds/Tempo) - Tempo is a system for declarative, efficient, end-to-end compiled dynamic deep learning
 - [mhostetter/galois](https://github.com/mhostetter/galois) - A performant NumPy extension for Galois fields and their applications
-- [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model evaluation and performance benchmarking
+- [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
 - [Dao-AILab/quack](https://github.com/Dao-AILab/quack) - A Quirky Assortment of CuTe Kernels
 - [HanGuo97/log-linear-attention](https://github.com/HanGuo97/log-linear-attention) - 
 - [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention

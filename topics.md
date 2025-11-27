@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [ai](#ai)
+- [algorithms](#algorithms)
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
@@ -20,6 +21,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
@@ -109,6 +111,12 @@
 
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 
+## algorithms 
+
+- [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - [ARCHIVED] The C++ parallel algorithms library. See https://github.com/NVIDIA/cccl
+- [NVIDIA/cub](https://github.com/NVIDIA/cub) - [ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl
+- [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
+
 ## android 
 
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端
@@ -193,6 +201,12 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## command-line 
+
+- [agauniyal/rang](https://github.com/agauniyal/rang) - A Minimal, Header only Modern c++ library for terminal goodies 💄✨
+- [wookayin/gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 
 ## compiler 
 
@@ -725,7 +739,6 @@
 - [benkoo/ComputationalThinking_2020Spring](https://github.com/benkoo/ComputationalThinking_2020Spring) - Computational Thinking and System Design 2020 Spring
 - [gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers) - Linux内核与设备驱动程序学习笔记
 - [rdolbeau/enable_arm_pmu](https://github.com/rdolbeau/enable_arm_pmu) - Forked from https://github.com/thoughtpolice/enable_arm_pmu to enable user-mode access to ARMv8/Linux performance counters
-- [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 - [zhiyisun/enable_arm_pmu](https://github.com/zhiyisun/enable_arm_pmu) - Enable user-mode access to ARMv7/Linux performance counters
 - [sunwx17/IntoMips](https://github.com/sunwx17/IntoMips) - IntoMips
 - [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code

@@ -555,7 +555,7 @@
 - [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers.
 - [Vchitect/LiteGen](https://github.com/Vchitect/LiteGen) - A light-weight and high-efficient training framework for accelerating diffusion tasks.
 - [Vchitect/Vchitect-2.0](https://github.com/Vchitect/Vchitect-2.0) - Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models
-- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
+- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 - [wentaoL86/Awesome-Human-Video-Generation](https://github.com/wentaoL86/Awesome-Human-Video-Generation) - A work list of recent human video generation method. This repository focus on half/full body human video generation method, The Nerf, Gaussian splashing, Motion Pose, and talking head/Portrait is not 
 - [facebookincubator/dynolog](https://github.com/facebookincubator/dynolog) - Dynolog is a telemetry daemon for performance monitoring and tracing. It exports metrics from different components in the system like the linux kernel, CPU, disks, Intel PT, GPUs etc. Dynolog also int
 - [mira-space/Mira](https://github.com/mira-space/Mira) - 

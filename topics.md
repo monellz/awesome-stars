@@ -79,6 +79,7 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
+- [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
@@ -528,6 +529,7 @@
 
 ## others 
 
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗A PyTorch-native Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs: Z-Image, FLUX2, Qwen-Image, etc.
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [facebookexperimental/triton](https://github.com/facebookexperimental/triton) - Github mirror of trition-lang/triton repo.
 - [Dao-AILab/quack](https://github.com/Dao-AILab/quack) - A Quirky Assortment of CuTe Kernels
@@ -821,6 +823,10 @@
 - [kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.47% on CIFAR10 with PyTorch
 - [zgcr/SimpleAICV_pytorch_training_examples](https://github.com/zgcr/SimpleAICV_pytorch_training_examples) - SimpleAICV:pytorch training and testing examples.
 - [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary) - Model summary in PyTorch similar to `model.summary()` in Keras
+
+## rag 
+
+- [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
 
 ## raspberry-pi 
 

@@ -279,6 +279,7 @@
 
 ## Python 
 
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗A PyTorch-native Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs: Z-Image, FLUX2, Qwen-Image, etc.
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [lsds/Tempo](https://github.com/lsds/Tempo) - Tempo is a system for declarative, efficient, end-to-end compiled dynamic deep learning
 - [mhostetter/galois](https://github.com/mhostetter/galois) - A performant NumPy extension for Galois fields and their applications

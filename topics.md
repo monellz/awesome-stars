@@ -39,6 +39,7 @@
 - [flutter](#flutter)
 - [framework](#framework)
 - [game-development](#game-development)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -336,6 +337,11 @@
 
 - [ARM-software/gator](https://github.com/ARM-software/gator) - Sources for Arm Streamline's gator daemon, part of Arm Mobile Studio suite of performance analysis tools
 
+## generative-ai 
+
+- [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Best Paper Award][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
+
 ## git 
 
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -546,7 +552,6 @@
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - [CVPR 2025 Oral]Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
 - [meta-pytorch/attention-gym](https://github.com/meta-pytorch/attention-gym) - Helpful tools and examples for working with flex-attention
 - [reed-lau/cute-gemm](https://github.com/reed-lau/cute-gemm) - 
-- [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Best Paper Award][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform

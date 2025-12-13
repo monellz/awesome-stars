@@ -88,7 +88,6 @@
 - [NVIDIA/cccl](https://github.com/NVIDIA/cccl) - CUDA Core Compute Libraries
 - [tlc-pack/libflash_attn](https://github.com/tlc-pack/libflash_attn) - Standalone Flash Attention v2 kernel without libtorch dependency
 - [flexflow/flexflow-train](https://github.com/flexflow/flexflow-train) - Automatically Discovering Fast Parallelization Strategies for Distributed Deep Neural Network Training
-- [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving
 - [SergiusTheBest/plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library
 - [rapidsai/rmm](https://github.com/rapidsai/rmm) - RAPIDS Memory Manager
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
@@ -178,6 +177,7 @@
 - [thu-ml/SageAttention](https://github.com/thu-ml/SageAttention) - [ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
 - [NVIDIA/nvbench](https://github.com/NVIDIA/nvbench) - CUDA Kernel Benchmarking Library
+- [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving
 - [lucidrains/flash-cosine-sim-attention](https://github.com/lucidrains/flash-cosine-sim-attention) - Implementation of fused cosine similarity attention in the same style as Flash Attention
 - [jeewhanchoi/blocked-linearized-coordinate](https://github.com/jeewhanchoi/blocked-linearized-coordinate) - 
 - [openai/blocksparse](https://github.com/openai/blocksparse) - Efficient GPU kernels for block-sparse matrix multiplication and convolution
@@ -430,6 +430,7 @@
 
 ## Rust 
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [arceos-org/arceos](https://github.com/arceos-org/arceos) - An experimental modular OS written in Rust.
 - [msminhas93/nviwatch](https://github.com/msminhas93/nviwatch) - NviWatch: A blazingly fast rust based TUI for managing and monitoring NVIDIA GPU processes

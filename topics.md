@@ -774,6 +774,7 @@
 
 ## python 
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [mhostetter/galois](https://github.com/mhostetter/galois) - A performant NumPy extension for Galois fields and their applications
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [spcl/pymlir](https://github.com/spcl/pymlir) - Python interface for MLIR - the Multi-Level Intermediate Representation
@@ -797,6 +798,7 @@
 
 ## python3 
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [drdarshan/ssgetpy](https://github.com/drdarshan/ssgetpy) - A searchable Python interface to the SuiteSparse Matrix Collection
 - [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
@@ -851,6 +853,7 @@
 
 ## rust 
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [arceos-org/arceos](https://github.com/arceos-org/arceos) - An experimental modular OS written in Rust.
 - [msminhas93/nviwatch](https://github.com/msminhas93/nviwatch) - NviWatch: A blazingly fast rust based TUI for managing and monitoring NVIDIA GPU processes
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端

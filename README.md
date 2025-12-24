@@ -235,6 +235,7 @@
 
 ## MLIR 
 
+- [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile) - CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kernel optimization, focusing on tile-based computation patterns and optimizations targeting NVIDIA tenso
 - [facebookexperimental/triton](https://github.com/facebookexperimental/triton) - Github mirror of trition-lang/triton repo.
 - [NVIDIA/TensorRT-Incubator](https://github.com/NVIDIA/TensorRT-Incubator) - Experimental projects related to TensorRT
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler

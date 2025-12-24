@@ -536,6 +536,7 @@
 
 ## others 
 
+- [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile) - CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kernel optimization, focusing on tile-based computation patterns and optimizations targeting NVIDIA tenso
 - [ChandlerGuan/mercury_artifact](https://github.com/ChandlerGuan/mercury_artifact) - 
 - [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗A PyTorch-native Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs: Z-Image, FLUX2, Qwen-Image, etc.
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python

@@ -77,6 +77,7 @@
 - [productivity](#productivity)
 - [programming](#programming)
 - [programming-language](#programming-language)
+- [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -773,6 +774,10 @@
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [spcl/dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming
+
+## prompt-engineering 
+
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 
 ## python 
 

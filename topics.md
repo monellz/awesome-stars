@@ -588,7 +588,7 @@
 - [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [hetailang/SqueezeAttention](https://github.com/hetailang/SqueezeAttention) - 
-- [d-matrix-ai/keyformer-llm](https://github.com/d-matrix-ai/keyformer-llm) - 
+- [d-matrix-ai/keyformer-llm](https://github.com/d-matrix-ai/keyformer-llm) - Keyformer proposes KV Cache reduction through key tokens identification and without the need for fine-tuning
 - [zeux/calm](https://github.com/zeux/calm) - CUDA/Metal accelerated language model inference
 - [OpenNLPLab/lightning-attention](https://github.com/OpenNLPLab/lightning-attention) - Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models
 - [Kyriection/llama-recipes](https://github.com/Kyriection/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp

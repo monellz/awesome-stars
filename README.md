@@ -327,7 +327,7 @@
 - [Infini-AI-Lab/TriForce](https://github.com/Infini-AI-Lab/TriForce) - [COLM 2024] TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding
 - [hetailang/SqueezeAttention](https://github.com/hetailang/SqueezeAttention) - 
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
-- [d-matrix-ai/keyformer-llm](https://github.com/d-matrix-ai/keyformer-llm) - 
+- [d-matrix-ai/keyformer-llm](https://github.com/d-matrix-ai/keyformer-llm) - Keyformer proposes KV Cache reduction through key tokens identification and without the need for fine-tuning
 - [OpenNLPLab/lightning-attention](https://github.com/OpenNLPLab/lightning-attention) - Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models
 - [thunlp/InfLLM](https://github.com/thunlp/InfLLM) - The code of our paper "InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory"
 - [exists-forall/striped_attention](https://github.com/exists-forall/striped_attention) - 

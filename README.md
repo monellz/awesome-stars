@@ -12,6 +12,7 @@
 - [CMake](#cmake)
 - [CSS](#css)
 - [Cuda](#cuda)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
@@ -188,6 +189,10 @@
 - [xuqiantong/CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.
 - [paramhanji/CUDA-CNN](https://github.com/paramhanji/CUDA-CNN) - Implementation of a simple CNN using CUDA
 
+## Dart 
+
+- [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Mobile Git client for syncing a repository between remote and a local directory
+
 ## Dockerfile 
 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
@@ -281,7 +286,7 @@
 
 - [ColfaxResearch/layout-categories](https://github.com/ColfaxResearch/layout-categories) - This repository contains companion software for the Colfax Research paper "Categorical Foundations for CuTe Layouts".
 - [ChandlerGuan/mercury_artifact](https://github.com/ChandlerGuan/mercury_artifact) - 
-- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗A PyTorch-native and Flexible Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs.
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗 A PyTorch-native and Flexible Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs.
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [lsds/Tempo](https://github.com/lsds/Tempo) - Tempo is a system for declarative, efficient, end-to-end compiled dynamic deep learning
 - [mhostetter/galois](https://github.com/mhostetter/galois) - A performant NumPy extension for Galois fields and their applications

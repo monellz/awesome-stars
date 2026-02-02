@@ -265,7 +265,7 @@
 - [DirtyHarryLYL/Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision) - Recent Transformer-based CV and related works.
 - [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - 
 - [pb0316/thuhole_memories](https://github.com/pb0316/thuhole_memories) - 
-- [vincentt1999/Awesome-3D-Object-Detection](https://github.com/vincentt1999/Awesome-3D-Object-Detection) - Papers, code and datasets about deep learning for 3D Object Detection.
+- [vvincenttttt/Awesome-3D-Object-Detection](https://github.com/vvincenttttt/Awesome-3D-Object-Detection) - Papers, code and datasets about deep learning for 3D Object Detection.
 - [lahoud/3d-vision-transformers](https://github.com/lahoud/3d-vision-transformers) - A list of 3D computer vision papers with Transformers
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
@@ -284,6 +284,7 @@
 
 ## Python 
 
+- [ihavnoid/tg4perfetto](https://github.com/ihavnoid/tg4perfetto) - Simple python library for generating your own perfetto traces for your application.  Can be used for both app instrumentation and custom trace generation (for your own purposes)
 - [ColfaxResearch/layout-categories](https://github.com/ColfaxResearch/layout-categories) - This repository contains companion software for the Colfax Research paper "Categorical Foundations for CuTe Layouts".
 - [ChandlerGuan/mercury_artifact](https://github.com/ChandlerGuan/mercury_artifact) - 
 - [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗 A PyTorch-native and Flexible Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs.

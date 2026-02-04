@@ -77,6 +77,7 @@
 
 ## C++ 
 
+- [SJTU-IPADS/MetaAttention](https://github.com/SJTU-IPADS/MetaAttention) - MetaAttention: A Unified and Performant Attention Framework Across Hardware Backends(PPoPP'26)
 - [perplexityai/pplx-kernels](https://github.com/perplexityai/pplx-kernels) - Perplexity GPU Kernels
 - [reed-lau/cute-gemm](https://github.com/reed-lau/cute-gemm) - 
 - [bytedance/flux](https://github.com/bytedance/flux) - A fast communication-overlapping library for tensor/expert parallelism on GPUs.
@@ -283,6 +284,7 @@
 
 ## Python 
 
+- [pytorch/helion](https://github.com/pytorch/helion) - A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate.
 - [ihavnoid/tg4perfetto](https://github.com/ihavnoid/tg4perfetto) - Simple python library for generating your own perfetto traces for your application.  Can be used for both app instrumentation and custom trace generation (for your own purposes)
 - [ColfaxResearch/layout-categories](https://github.com/ColfaxResearch/layout-categories) - This repository contains companion software for the Colfax Research paper "Categorical Foundations for CuTe Layouts".
 - [ChandlerGuan/mercury_artifact](https://github.com/ChandlerGuan/mercury_artifact) - 

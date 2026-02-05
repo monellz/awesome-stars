@@ -26,6 +26,7 @@
 - [Others](#others)
 - [Perl](#perl)
 - [Python](#python)
+- [QML](#qml)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
@@ -440,8 +441,13 @@
 - [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet
 - [keras-team/autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
 
+## QML 
+
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
+
 ## Rust 
 
+- [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [arceos-org/arceos](https://github.com/arceos-org/arceos) - An experimental modular OS written in Rust.

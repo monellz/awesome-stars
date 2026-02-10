@@ -285,6 +285,7 @@
 
 ## Python 
 
+- [sdiehl/mlir-egglog](https://github.com/sdiehl/mlir-egglog) - A toy compiler for NumPy array expressions that uses e-graphs and MLIR
 - [pytorch/helion](https://github.com/pytorch/helion) - A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate.
 - [ihavnoid/tg4perfetto](https://github.com/ihavnoid/tg4perfetto) - Simple python library for generating your own perfetto traces for your application.  Can be used for both app instrumentation and custom trace generation (for your own purposes)
 - [ColfaxResearch/layout-categories](https://github.com/ColfaxResearch/layout-categories) - This repository contains companion software for the Colfax Research paper "Categorical Foundations for CuTe Layouts".

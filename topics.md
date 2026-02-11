@@ -654,7 +654,7 @@
 - [SuperScientificSoftwareLaboratory/TileSpGEMM](https://github.com/SuperScientificSoftwareLaboratory/TileSpGEMM) - Source code of the PPoPP '22 paper: "TileSpGEMM: A Tiled Algorithm for Parallel Sparse General Matrix-Matrix Multiplication on GPUs" by Yuyao Niu, Zhengyang Lu, Haonan Ji, Shuhui Song, Zhou Jin, and W
 - [UoB-HPC/BabelStream](https://github.com/UoB-HPC/BabelStream) - STREAM, for lots of devices written in many programming models
 - [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
-- [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - 
+- [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - https://getsurfboard.com
 - [jeewhanchoi/blocked-linearized-coordinate](https://github.com/jeewhanchoi/blocked-linearized-coordinate) - 
 - [pb0316/thuhole_memories](https://github.com/pb0316/thuhole_memories) - 
 - [ParCIS/Magicube](https://github.com/ParCIS/Magicube) - Magicube is a high-performance library for quantized sparse matrix operations (SpMM and SDDMM) of deep learning on Tensor Cores.

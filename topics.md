@@ -156,8 +156,6 @@
 
 - [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 - [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - A series of large language models developed by Baichuan Intelligent Technology
-- [lucidrains/flash-cosine-sim-attention](https://github.com/lucidrains/flash-cosine-sim-attention) - Implementation of fused cosine similarity attention in the same style as Flash Attention
-- [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 
 ## awesome 
 
@@ -239,7 +237,6 @@
 ## computer-vision 
 
 - [DirtyHarryLYL/Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision) - Recent Transformer-based CV and related works.
-- [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [vvincenttttt/Awesome-3D-Object-Detection](https://github.com/vvincenttttt/Awesome-3D-Object-Detection) - Papers, code and datasets about deep learning for 3D Object Detection.
 - [jac99/MinkLoc3D](https://github.com/jac99/MinkLoc3D) - MinkLoc3D: Point Cloud Based Large-Scale Place Recognition
 - [mit-han-lab/spvnas](https://github.com/mit-han-lab/spvnas) - [ECCV 2020] Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution
@@ -307,7 +304,6 @@
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [ModelTC/LightLLM](https://github.com/ModelTC/LightLLM) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 - [DirtyHarryLYL/Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision) - Recent Transformer-based CV and related works.
-- [lucidrains/flash-cosine-sim-attention](https://github.com/lucidrains/flash-cosine-sim-attention) - Implementation of fused cosine similarity attention in the same style as Flash Attention
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [vvincenttttt/Awesome-3D-Object-Detection](https://github.com/vvincenttttt/Awesome-3D-Object-Detection) - Papers, code and datasets about deep learning for 3D Object Detection.
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
@@ -626,7 +622,6 @@
 - [OpenNLPLab/lightning-attention](https://github.com/OpenNLPLab/lightning-attention) - Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models
 - [Kyriection/llama-recipes](https://github.com/Kyriection/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
 - [exists-forall/striped_attention](https://github.com/exists-forall/striped_attention) - 
-- [lucidrains/ring-attention-pytorch](https://github.com/lucidrains/ring-attention-pytorch) - Implementation of 💍 Ring Attention, from Liu et al. at Berkeley AI, in Pytorch
 - [schwartz-lab-NLP/TOVA](https://github.com/schwartz-lab-NLP/TOVA) - Token Omission Via Attention
 - [NVIDIA/nvbench](https://github.com/NVIDIA/nvbench) - CUDA Kernel Benchmarking Library
 - [VITA-Group/Ms-PoE](https://github.com/VITA-Group/Ms-PoE) - "Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding" Zhenyu Zhang, Runjin Chen, Shiwei Liu, Zhewei Yao, Olatunji Ruwase, Beidi Chen, Xiaoxia Wu, Zh

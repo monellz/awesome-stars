@@ -312,7 +312,7 @@
 - [mit-han-lab/spvnas](https://github.com/mit-han-lab/spvnas) - [ECCV 2020] Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution
 - [torch-points3d/torch-points3d](https://github.com/torch-points3d/torch-points3d) - Pytorch framework for doing deep learning on point clouds.
 - [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
-- [daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model
+- [onnxsim/onnxsim](https://github.com/onnxsim/onnxsim) - Simplify your onnx model
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.
 - [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary) - Model summary in PyTorch similar to `model.summary()` in Keras
@@ -861,7 +861,7 @@
 - [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - [MICRO'23, MLSys'22] TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.
 - [torch-points3d/torch-points3d](https://github.com/torch-points3d/torch-points3d) - Pytorch framework for doing deep learning on point clouds.
 - [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
-- [daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model
+- [onnxsim/onnxsim](https://github.com/onnxsim/onnxsim) - Simplify your onnx model
 - [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
 - [kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.47% on CIFAR10 with PyTorch
 - [zgcr/SimpleAICV_pytorch_training_examples](https://github.com/zgcr/SimpleAICV_pytorch_training_examples) - SimpleAICV:pytorch training examples.

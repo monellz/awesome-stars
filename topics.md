@@ -39,6 +39,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [ethereum](#ethereum)
+- [fastapi](#fastapi)
 - [flutter](#flutter)
 - [framework](#framework)
 - [game-development](#game-development)
@@ -337,6 +338,10 @@
 ## ethereum 
 
 - [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
+
+## fastapi 
+
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## flutter 
 

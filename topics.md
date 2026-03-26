@@ -762,7 +762,7 @@
 - [IO500/io500](https://github.com/IO500/io500) - IO500 Storage Benchmark source code
 - [madsys-dev/syscall_intercept](https://github.com/madsys-dev/syscall_intercept) - The system call intercepting library
 - [LyricZhao/Cherry](https://github.com/LyricZhao/Cherry) - My header-only C++ utility extension library
-- [bilke/cmake-modules](https://github.com/bilke/cmake-modules) - Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)
+- [bilke/cmake-modules](https://github.com/bilke/cmake-modules) - Additional CMake functionality. Most of the modules are from Rylie Pavlik (https://github.com/rpavlik/cmake-modules)
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [matt77hias/smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
 - [StableCoder/cmake-scripts](https://github.com/StableCoder/cmake-scripts) - Easy-to-add enhancements for any C/C++ CMake project.  Including AFL fuzzing, code-coverage, Thread/Address/Leak/Address/Undefined sanitizer instrumentation, compilation of GLSL shaders and more.

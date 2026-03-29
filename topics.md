@@ -567,6 +567,7 @@
 
 ## others 
 
+- [kaist-ina/Trinity-AE](https://github.com/kaist-ina/Trinity-AE) - Source code for Trinity(ASPLOS 2026)
 - [sdiehl/mlir-egglog](https://github.com/sdiehl/mlir-egglog) - A toy compiler for NumPy array expressions that uses e-graphs and MLIR
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
 - [pytorch/helion](https://github.com/pytorch/helion) - A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate.

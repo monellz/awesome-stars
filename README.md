@@ -210,6 +210,7 @@
 
 ## HTML 
 
+- [kaist-ina/Trinity-AE](https://github.com/kaist-ina/Trinity-AE) - Source code for Trinity(ASPLOS 2026)
 - [PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) - :sunglasses: A complete list of Arch-based projects
 - [plctlab/PLCT-Weekly](https://github.com/plctlab/PLCT-Weekly) - 软件所PLCT实验室在开源领域的不定期简报
 

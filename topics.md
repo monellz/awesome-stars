@@ -567,6 +567,7 @@
 
 ## others 
 
+- [memoryleak47/slotted-egraphs](https://github.com/memoryleak47/slotted-egraphs) - 
 - [kaist-ina/Trinity-AE](https://github.com/kaist-ina/Trinity-AE) - Source code for Trinity(ASPLOS 2026)
 - [sdiehl/mlir-egglog](https://github.com/sdiehl/mlir-egglog) - A toy compiler for NumPy array expressions that uses e-graphs and MLIR
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.

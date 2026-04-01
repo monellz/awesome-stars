@@ -450,6 +450,7 @@
 
 ## Rust 
 
+- [memoryleak47/slotted-egraphs](https://github.com/memoryleak47/slotted-egraphs) - 
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.

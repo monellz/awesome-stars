@@ -155,7 +155,7 @@
 
 ## artificial-intelligence 
 
-- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
+- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)
 - [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - A series of large language models developed by Baichuan Intelligent Technology
 - [lucidrains/flash-cosine-sim-attention](https://github.com/lucidrains/flash-cosine-sim-attention) - Implementation of fused cosine similarity attention in the same style as Flash Attention
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
@@ -567,6 +567,7 @@
 
 ## others 
 
+- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [memoryleak47/slotted-egraphs](https://github.com/memoryleak47/slotted-egraphs) - 
 - [kaist-ina/Trinity-AE](https://github.com/kaist-ina/Trinity-AE) - Source code for Trinity(ASPLOS 2026)
 - [sdiehl/mlir-egglog](https://github.com/sdiehl/mlir-egglog) - A toy compiler for NumPy array expressions that uses e-graphs and MLIR

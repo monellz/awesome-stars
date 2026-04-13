@@ -34,7 +34,6 @@
 - [TypeScript](#typescript)
 - [VHDL](#vhdl)
 - [Vim Script](#vim-script)
-- [Vue](#vue)
 
 ## Assembly 
 
@@ -500,6 +499,7 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [robindijkhof/overleaf-textarea](https://github.com/robindijkhof/overleaf-textarea) - This plugin displays your tex source in a textarea so plugins like grammarly can check it.
 
 ## VHDL 
@@ -510,10 +510,6 @@
 
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
-
-## Vue 
-
-- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 
 
 ## License

@@ -80,6 +80,7 @@
 - [SJTU-IPADS/MetaAttention](https://github.com/SJTU-IPADS/MetaAttention) - MetaAttention: A Unified and Performant Attention Framework Across Hardware Backends(PPoPP'26)
 - [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile) - CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kernel optimization, focusing on tile-based computation patterns and optimizations targeting NVIDIA tenso
 - [perplexityai/pplx-kernels](https://github.com/perplexityai/pplx-kernels) - Perplexity GPU Kernels
+- [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 - [reed-lau/cute-gemm](https://github.com/reed-lau/cute-gemm) - 
 - [bytedance/flux](https://github.com/bytedance/flux) - A fast communication-overlapping library for tensor/expert parallelism on GPUs.
 - [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers.
@@ -292,7 +293,7 @@
 - [ihavnoid/tg4perfetto](https://github.com/ihavnoid/tg4perfetto) - Simple python library for generating your own perfetto traces for your application.  Can be used for both app instrumentation and custom trace generation (for your own purposes)
 - [ColfaxResearch/layout-categories](https://github.com/ColfaxResearch/layout-categories) - This repository contains companion software for the Colfax Research paper "Categorical Foundations for CuTe Layouts".
 - [ChandlerGuan/mercury_artifact](https://github.com/ChandlerGuan/mercury_artifact) - 
-- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A PyTorch-native inference engine with cache acceleration, parallelism and quantization for DiTs.
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A PyTorch-native Inference Engine with Cache Acceleration, Parallelism and Quantization for DiTs.
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [lsds/Tempo](https://github.com/lsds/Tempo) - Tempo is a system for declarative, efficient, end-to-end compiled dynamic deep learning
 - [mhostetter/galois](https://github.com/mhostetter/galois) - A performant NumPy extension for Galois fields and their applications
@@ -303,7 +304,6 @@
 - [OpenSparseLLMs/MoM](https://github.com/OpenSparseLLMs/MoM) - 
 - [ByteDance-Seed/Triton-distributed](https://github.com/ByteDance-Seed/Triton-distributed) - Distributed Compiler based on Triton for Parallel Systems
 - [yuyangJin/PerFlow-AI](https://github.com/yuyangJin/PerFlow-AI) - PerFlow-AI is a programmable performance analysis, modeling, prediction tool for AI system.
-- [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 - [proger/accelerated-scan](https://github.com/proger/accelerated-scan) - Accelerated First Order Parallel Associative Scan
 - [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations for emerging model architectures
 - [microsoft/FractalTensor](https://github.com/microsoft/FractalTensor) - FractalTensor is a programming framework that introduces a novel approach to organizing data in deep neural networks (DNNs) as a list of lists of statically-shaped tensors, referred to as a FractalTen

@@ -567,6 +567,7 @@
 
 ## others 
 
+- [perplexityai/pplx-garden](https://github.com/perplexityai/pplx-garden) - Perplexity open source garden for inference technology
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [memoryleak47/slotted-egraphs](https://github.com/memoryleak47/slotted-egraphs) - 
 - [kaist-ina/Trinity-AE](https://github.com/kaist-ina/Trinity-AE) - Source code for Trinity(ASPLOS 2026)
@@ -669,7 +670,7 @@
 - [pb0316/thuhole_memories](https://github.com/pb0316/thuhole_memories) - 
 - [ParCIS/Magicube](https://github.com/ParCIS/Magicube) - Magicube is a high-performance library for quantized sparse matrix operations (SpMM and SDDMM) of deep learning on Tensor Cores.
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
-- [cea-hpc/clustershell](https://github.com/cea-hpc/clustershell) - Scalable cluster administration Python framework — Manage node sets, node groups and execute commands on cluster nodes in parallel.
+- [clustershell/clustershell](https://github.com/clustershell/clustershell) - Scalable cluster administration Python framework — Manage node sets, node groups and execute commands on cluster nodes in parallel.
 - [cyclops-community/ctf](https://github.com/cyclops-community/ctf) - Cyclops Tensor Framework: parallel arithmetic on multidimensional arrays
 - [sunwx17/Equivalence-checking](https://github.com/sunwx17/Equivalence-checking) - codes for https://arxiv.org/abs/2105.02634
 - [kshitij12345/torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler) - Context Manager to profile the forward and backward times of PyTorch's nn.Module

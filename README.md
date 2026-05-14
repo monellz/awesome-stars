@@ -54,7 +54,6 @@
 - [shoaibkamil/stencilprobe](https://github.com/shoaibkamil/stencilprobe) - Stencil Probe - a stencil microbenchmark
 - [skeeto/lstack](https://github.com/skeeto/lstack) - C11 Lock-free Stack
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 
-- [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [csehydrogen/Winograd-OpenCL](https://github.com/csehydrogen/Winograd-OpenCL) - Winograd-based convolution implementation in OpenCL
 - [IO500/io500](https://github.com/IO500/io500) - IO500 Storage Benchmark source code
 - [madsys-dev/syscall_intercept](https://github.com/madsys-dev/syscall_intercept) - The system call intercepting library
@@ -129,6 +128,7 @@
 - [cusplibrary/cusplibrary](https://github.com/cusplibrary/cusplibrary) - CUSP : A C++ Templated Sparse Matrix Library
 - [facebookresearch/SparseConvNet](https://github.com/facebookresearch/SparseConvNet) - Submanifold sparse convolutional networks
 - [clevercool/TileSparsity](https://github.com/clevercool/TileSparsity) - 
+- [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [ECP-ExaGraph/vite](https://github.com/ECP-ExaGraph/vite) - MPI+OpenMP implementation of Louvain method for Graph Community Detection, with a number of parallel heuristics/approximate computing techniques
 - [onnxsim/onnxsim](https://github.com/onnxsim/onnxsim) - Simplify your onnx model
 - [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - row-major matmul optimization

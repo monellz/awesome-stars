@@ -567,6 +567,7 @@
 
 ## others 
 
+- [hw-native-sys/pto-isa](https://github.com/hw-native-sys/pto-isa) - PTO instruction set architecture
 - [perplexityai/pplx-garden](https://github.com/perplexityai/pplx-garden) - Perplexity open source garden for inference technology
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [memoryleak47/slotted-egraphs](https://github.com/memoryleak47/slotted-egraphs) - 
@@ -614,7 +615,7 @@
 - [mira-space/Mira](https://github.com/mira-space/Mira) - 
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [xdit-project/xDiT](https://github.com/xdit-project/xDiT) - xDiT: A Scalable Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism
-- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025 Oral)
+- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - Flash Diffusion — accelerating conditional diffusion models (AAAI 2025 Oral)
 - [KnowingNothing/MatmulTutorial](https://github.com/KnowingNothing/MatmulTutorial) - A Easy-to-understand TensorOp Matmul Tutorial
 - [zhuzilin/pytorch-extension-gcc](https://github.com/zhuzilin/pytorch-extension-gcc) - How to use gcc instead of setup.py to build an pytorch extension.
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels

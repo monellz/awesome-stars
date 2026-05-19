@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [hw-native-sys/pto-isa](https://github.com/hw-native-sys/pto-isa) - PTO instruction set architecture
 - [SJTU-IPADS/MetaAttention](https://github.com/SJTU-IPADS/MetaAttention) - MetaAttention: A Unified and Performant Attention Framework Across Hardware Backends(PPoPP'26)
 - [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile) - CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kernel optimization, focusing on tile-based computation patterns and optimizations targeting NVIDIA tenso
 - [perplexityai/pplx-kernels](https://github.com/perplexityai/pplx-kernels) - Perplexity GPU Kernels
@@ -319,7 +320,7 @@
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 - [mira-space/Mira](https://github.com/mira-space/Mira) - 
 - [xdit-project/xDiT](https://github.com/xdit-project/xDiT) - xDiT: A Scalable Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism
-- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025 Oral)
+- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - Flash Diffusion — accelerating conditional diffusion models (AAAI 2025 Oral)
 - [Vchitect/VBench](https://github.com/Vchitect/VBench) - [CVPR2024 Highlight] VBench - We Evaluate Video Generation
 - [horseee/DeepCache](https://github.com/horseee/DeepCache) - [CVPR 2024] DeepCache: Accelerating Diffusion Models for Free
 - [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)

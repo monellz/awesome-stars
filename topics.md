@@ -791,7 +791,7 @@
 - [rmcgibbo/npcuda-example](https://github.com/rmcgibbo/npcuda-example) - Example python (numpy) -- CUDA installable package with a C-extension library
 - [aronszanto/sLSM-Tree](https://github.com/aronszanto/sLSM-Tree) - High-Performance C++ Data System
 - [benkoo/ComputationalThinking_2020Spring](https://github.com/benkoo/ComputationalThinking_2020Spring) - Computational Thinking and System Design 2020 Spring
-- [gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers) - Linux内核与设备驱动程序学习笔记
+- [gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers) - Linux内核学习笔记
 - [rdolbeau/enable_arm_pmu](https://github.com/rdolbeau/enable_arm_pmu) - Forked from https://github.com/thoughtpolice/enable_arm_pmu to enable user-mode access to ARMv8/Linux performance counters
 - [zhiyisun/enable_arm_pmu](https://github.com/zhiyisun/enable_arm_pmu) - Enable user-mode access to ARMv7/Linux performance counters
 - [sunwx17/IntoMips](https://github.com/sunwx17/IntoMips) - IntoMips

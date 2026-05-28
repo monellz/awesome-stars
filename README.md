@@ -284,12 +284,14 @@
 
 ## Python 
 
+- [mit-han-lab/ncu-report-skill](https://github.com/mit-han-lab/ncu-report-skill) - 
+- [BBuf/AI-Infra-Auto-Driven-SKILLS](https://github.com/BBuf/AI-Infra-Auto-Driven-SKILLS) - 
 - [sdiehl/mlir-egglog](https://github.com/sdiehl/mlir-egglog) - A toy compiler for NumPy array expressions that uses e-graphs and MLIR
 - [pytorch/helion](https://github.com/pytorch/helion) - A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate.
 - [ihavnoid/tg4perfetto](https://github.com/ihavnoid/tg4perfetto) - Simple python library for generating your own perfetto traces for your application.  Can be used for both app instrumentation and custom trace generation (for your own purposes)
 - [ColfaxResearch/layout-categories](https://github.com/ColfaxResearch/layout-categories) - This repository contains companion software for the Colfax Research paper "Categorical Foundations for CuTe Layouts".
 - [ChandlerGuan/mercury_artifact](https://github.com/ChandlerGuan/mercury_artifact) - 
-- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A PyTorch-native inference engine with cache, parallelism, quantization for Diffusion Transformers.
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A PyTorch-native Inference Engine with cache, parallelism, quantization for Diffusion Transformers.
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [lsds/Tempo](https://github.com/lsds/Tempo) - Tempo is a system for declarative, efficient, end-to-end compiled dynamic deep learning
 - [mhostetter/galois](https://github.com/mhostetter/galois) - A performant NumPy extension for Galois fields and their applications

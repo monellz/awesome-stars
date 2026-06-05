@@ -728,7 +728,7 @@
 - [spcl/open-earth-benchmarks](https://github.com/spcl/open-earth-benchmarks) - Open repository for climate and weather benchmark kernels
 - [pigirons/conv3x3_m1](https://github.com/pigirons/conv3x3_m1) - This is a demo how to write a high performance convolution run on apple silicon
 - [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh) - 技术面试最后反问面试官的话
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [skeeto/lstack](https://github.com/skeeto/lstack) - C11 Lock-free Stack
 - [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [xinge008/Cylinder3D](https://github.com/xinge008/Cylinder3D) - Rank 1st in the leaderboard of SemanticKITTI semantic segmentation (both single-scan and multi-scan) (Nov. 2020) (CVPR2021 Oral)

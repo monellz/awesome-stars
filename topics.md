@@ -22,6 +22,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [command-line](#command-line)
@@ -213,6 +214,10 @@
 
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - A series of large language models developed by Baichuan Intelligent Technology
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
+
+## claude 
+
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 
 ## claude-code 

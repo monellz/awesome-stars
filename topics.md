@@ -408,7 +408,6 @@
 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [openucx/ucx](https://github.com/openucx/ucx) - Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -666,7 +665,7 @@
 - [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
 - [xxcclong/PPPerf](https://github.com/xxcclong/PPPerf) - Profile Personal Performance
-- [rapidsai/rmm](https://github.com/rapidsai/rmm) - RAPIDS Memory Manager
+- [rapidsai/rmm](https://github.com/rapidsai/rmm) - NVIDIA RMM is a library for allocating and managing GPU memory in C++ and Python.
 - [xxcclong/Torch.fx-cheatsheet](https://github.com/xxcclong/Torch.fx-cheatsheet) - Comprehensive torchFX Cheatsheet
 - [NVIDIA/gpu-driver-container](https://github.com/NVIDIA/gpu-driver-container) - The NVIDIA GPU driver container allows the provisioning of the NVIDIA driver through the use of containers.
 - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
@@ -772,6 +771,7 @@
 - [kochelmonster/larch-pickle](https://github.com/kochelmonster/larch-pickle) - larch.pickle - A faster python pickle replacement
 - [xuqiantong/CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.
 - [csehydrogen/Winograd-OpenCL](https://github.com/csehydrogen/Winograd-OpenCL) - Winograd-based convolution implementation in OpenCL
+- [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [lxbrtsch/Menlo-for-Powerline](https://github.com/lxbrtsch/Menlo-for-Powerline) - Menlo font patched to work with Powerline
 - [yeshaokai/ADMM-NN](https://github.com/yeshaokai/ADMM-NN) - 
 - [ECP-ExaGraph/miniVite](https://github.com/ECP-ExaGraph/miniVite) - MPI+OpenMP implementation of the first phase of Louvain method for Graph Community Detection

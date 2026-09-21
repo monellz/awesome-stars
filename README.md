@@ -449,6 +449,7 @@
 
 ## Rust 
 
+- [AndPuQing/gflow](https://github.com/AndPuQing/gflow) - A lightweight, single-node GPU job scheduler implemented in Rust.
 - [perplexityai/pplx-garden](https://github.com/perplexityai/pplx-garden) - Perplexity open source garden for inference technology
 - [memoryleak47/slotted-egraphs](https://github.com/memoryleak47/slotted-egraphs) - 
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.

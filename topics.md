@@ -112,6 +112,7 @@
 - [vue](#vue)
 - [web](#web)
 - [windows](#windows)
+- [workflow](#workflow)
 - [youtube](#youtube)
 - [zsh](#zsh)
 
@@ -313,6 +314,7 @@
 
 ## deep-learning 
 
+- [AndPuQing/gflow](https://github.com/AndPuQing/gflow) - A lightweight, single-node GPU job scheduler implemented in Rust.
 - [lsds/Tempo](https://github.com/lsds/Tempo) - Tempo is a system for declarative, efficient, end-to-end compiled dynamic deep learning
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [FMInference/FlexLLMGen](https://github.com/FMInference/FlexLLMGen) - Running large language models on a single GPU for throughput-oriented scenarios.
@@ -921,6 +923,7 @@
 
 ## rust 
 
+- [AndPuQing/gflow](https://github.com/AndPuQing/gflow) - A lightweight, single-node GPU job scheduler implemented in Rust.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
@@ -1023,6 +1026,10 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端
 - [ctuning/ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta 
+
+## workflow 
+
+- [AndPuQing/gflow](https://github.com/AndPuQing/gflow) - A lightweight, single-node GPU job scheduler implemented in Rust.
 
 ## youtube 
 

@@ -583,6 +583,7 @@
 
 ## others 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mit-han-lab/ncu-report-skill](https://github.com/mit-han-lab/ncu-report-skill) - 
 - [BBuf/AI-Infra-Auto-Driven-SKILLS](https://github.com/BBuf/AI-Infra-Auto-Driven-SKILLS) - 
 - [hw-native-sys/pto-isa](https://github.com/hw-native-sys/pto-isa) - PTO instruction set architecture

@@ -449,6 +449,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [AndPuQing/gflow](https://github.com/AndPuQing/gflow) - A lightweight, single-node GPU job scheduler implemented in Rust.
 - [perplexityai/pplx-garden](https://github.com/perplexityai/pplx-garden) - Perplexity open source garden for inference technology
 - [memoryleak47/slotted-egraphs](https://github.com/memoryleak47/slotted-egraphs) - 

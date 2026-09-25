@@ -159,7 +159,7 @@
 
 ## artificial-intelligence 
 
-- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)
+- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track ccf-ranked & worldwide conference deadlines (Website, Python Cli, Wechat Applet)
 - [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - A series of large language models developed by Baichuan Intelligent Technology
 - [lucidrains/flash-cosine-sim-attention](https://github.com/lucidrains/flash-cosine-sim-attention) - Implementation of fused cosine similarity attention in the same style as Flash Attention
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
@@ -625,7 +625,7 @@
 - [NVIDIA/TensorRT-Incubator](https://github.com/NVIDIA/TensorRT-Incubator) - Experimental projects related to TensorRT
 - [xdslproject/xdsl](https://github.com/xdslproject/xdsl) - A Python compiler design toolkit.
 - [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers.
-- [Vchitect/LiteGen](https://github.com/Vchitect/LiteGen) - A light-weight and high-efficient training framework for accelerating diffusion tasks.
+- [DeepLink-org/LiteGen](https://github.com/DeepLink-org/LiteGen) - A light-weight and high-efficient training framework for accelerating diffusion tasks.
 - [Vchitect/Vchitect-2.0](https://github.com/Vchitect/Vchitect-2.0) - Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 - [wentaoL86/Awesome-Human-Video-Generation](https://github.com/wentaoL86/Awesome-Human-Video-Generation) - A work list of recent human video generation method. This repository focus on half/full body human video generation method, The Nerf, Gaussian splashing, Motion Pose, and talking head/Portrait is not 

@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [deepseek-ai/DeepGEMM-Ascend](https://github.com/deepseek-ai/DeepGEMM-Ascend) - DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs
 - [hw-native-sys/pto-isa](https://github.com/hw-native-sys/pto-isa) - PTO instruction set architecture
 - [SJTU-IPADS/MetaAttention](https://github.com/SJTU-IPADS/MetaAttention) - MetaAttention: A Unified and Performant Attention Framework Across Hardware Backends(PPoPP'26)
 - [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile) - CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kernel optimization, focusing on tile-based computation patterns and optimizations targeting NVIDIA tenso

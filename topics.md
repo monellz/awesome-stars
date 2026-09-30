@@ -583,6 +583,7 @@
 
 ## others 
 
+- [deepseek-ai/DeepGEMM-Ascend](https://github.com/deepseek-ai/DeepGEMM-Ascend) - DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mit-han-lab/ncu-report-skill](https://github.com/mit-han-lab/ncu-report-skill) - 
 - [BBuf/AI-Infra-Auto-Driven-SKILLS](https://github.com/BBuf/AI-Infra-Auto-Driven-SKILLS) - 

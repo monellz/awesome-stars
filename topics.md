@@ -583,6 +583,7 @@
 
 ## others 
 
+- [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 - [deepseek-ai/DeepGEMM-Ascend](https://github.com/deepseek-ai/DeepGEMM-Ascend) - DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mit-han-lab/ncu-report-skill](https://github.com/mit-han-lab/ncu-report-skill) - 

@@ -93,7 +93,7 @@
 - [SergiusTheBest/plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library
 - [rapidsai/rmm](https://github.com/rapidsai/rmm) - NVIDIA RMM is a library for allocating and managing GPU memory in C++ and Python.
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
-- [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
+- [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - fastllm是后端无依赖的高性能大模型推理库，帮助您在大部分设备上高效推理大模型！
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [UoB-HPC/BabelStream](https://github.com/UoB-HPC/BabelStream) - STREAM, for lots of devices written in many programming models
@@ -285,6 +285,7 @@
 
 ## Python 
 
+- [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 - [mit-han-lab/ncu-report-skill](https://github.com/mit-han-lab/ncu-report-skill) - 
 - [BBuf/AI-Infra-Auto-Driven-SKILLS](https://github.com/BBuf/AI-Infra-Auto-Driven-SKILLS) - 
 - [sdiehl/mlir-egglog](https://github.com/sdiehl/mlir-egglog) - A toy compiler for NumPy array expressions that uses e-graphs and MLIR

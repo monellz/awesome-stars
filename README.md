@@ -79,7 +79,6 @@
 - [deepseek-ai/DeepGEMM-Ascend](https://github.com/deepseek-ai/DeepGEMM-Ascend) - DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs
 - [hw-native-sys/pto-isa](https://github.com/hw-native-sys/pto-isa) - PTO instruction set architecture
 - [SJTU-IPADS/MetaAttention](https://github.com/SJTU-IPADS/MetaAttention) - MetaAttention: A Unified and Performant Attention Framework Across Hardware Backends(PPoPP'26)
-- [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile) - CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kernel optimization, focusing on tile-based computation patterns and optimizations targeting NVIDIA tenso
 - [perplexityai/pplx-kernels](https://github.com/perplexityai/pplx-kernels) - Perplexity GPU Kernels
 - [reed-lau/cute-gemm](https://github.com/reed-lau/cute-gemm) - 
 - [bytedance/flux](https://github.com/bytedance/flux) - A fast communication-overlapping library for tensor/expert parallelism on GPUs.
@@ -239,6 +238,7 @@
 
 ## MLIR 
 
+- [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile) - CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kernel optimization, focusing on tile-based computation patterns and optimizations targeting NVIDIA tenso
 - [facebookexperimental/triton](https://github.com/facebookexperimental/triton) - Github mirror of trition-lang/triton repo.
 - [NVIDIA/TensorRT-Incubator](https://github.com/NVIDIA/TensorRT-Incubator) - Experimental projects related to TensorRT
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler

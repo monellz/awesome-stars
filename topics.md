@@ -890,7 +890,6 @@
 ## python3 
 
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [drdarshan/ssgetpy](https://github.com/drdarshan/ssgetpy) - A searchable Python interface to the SuiteSparse Matrix Collection
 - [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
 

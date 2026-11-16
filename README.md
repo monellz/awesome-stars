@@ -18,6 +18,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Lean](#lean)
 - [MLIR](#mlir)
 - [Markdown](#markdown)
 - [Objective-C](#objective-c)
@@ -160,7 +161,6 @@
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [aronszanto/sLSM-Tree](https://github.com/aronszanto/sLSM-Tree) - High-Performance C++ Data System
-- [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
 
 ## CMake 
 
@@ -235,6 +235,10 @@
 - [xxcclong/Torch.fx-cheatsheet](https://github.com/xxcclong/Torch.fx-cheatsheet) - Comprehensive torchFX Cheatsheet
 - [NJUVISION/SparsePCGC](https://github.com/NJUVISION/SparsePCGC) - Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression
 - [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
+
+## Lean 
+
+- [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
 
 ## MLIR 
 

@@ -602,6 +602,7 @@
 
 ## others 
 
+- [sf-tensor/tcgen05](https://github.com/sf-tensor/tcgen05) - 
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 - [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 - [deepseek-ai/DeepGEMM-Ascend](https://github.com/deepseek-ai/DeepGEMM-Ascend) - DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs
